@@ -1,1 +1,2 @@
-# Autonomous_UAVs_Swarm_Mission
+# Autonomous UAVs Swarm Mission
+This is a autonomous quadcopter swarm project. The purpose of this project is to achieve a designated mission by multiple drone coorperation. I developed and assembled two sets of drone as the hardware platform. One set consists of six drones modified from 3DR IRIS+ drone, the other set consists of four drones made from scratch. I also developed a drone swarm control software package, including the functions of flight control, multi-drone communication, multi-drone coordination, stereo vision, failure handle, and so on. There are three subprojects in this repository. 
