@@ -1,0 +1,24 @@
+# This is the network interface configuration for leader drone.
+# The IP address of wireless router is 192.168.2.1.
+# The IP address of leader drone is 192.168.2.101.
+
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information, see interfaces(5).
+
+source /etc/network/interfaces.d/*
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# USB wifi static IP
+auto wlan0
+iface wlan0 inet static
+    address 192.168.2.101
+    netmask 255.255.255.0
+    network 192.168.2.0
+    broadcast 192.168.2.255
+    gateway 192.168.2.1
+    dns-nameservers 192.168.2.1
+    wpa-ssid Drone_Matrix
+    wpa-psk 1990a785a0e47923a43ebf2e38d27744b3717fb87d3243ced90a6b7a02910a5e

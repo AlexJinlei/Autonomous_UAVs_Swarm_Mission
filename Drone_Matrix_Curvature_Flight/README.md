@@ -1,0 +1,2 @@
+# Drone_Matrix_Curvature_Flight
+Multi-drone flight mission. Drone troop achieve curved path flight by specified curvature radius and degrees. A execution queue is used to achieve complex path designation. The leader drone send real time commands to all follower drones, and the follower drones form a specified shape while fly following the leader drone. This is a improved version of Drone_Matrix_Formation_Flight, in which the functions are modularized and more functions are added. 
