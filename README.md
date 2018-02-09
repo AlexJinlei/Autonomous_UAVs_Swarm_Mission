@@ -7,7 +7,18 @@ There are three subprojects in this repository. 1) The Drone_Matrix_Formation_Fl
 For all the three subprojects, there is one drone acts as a leader (commander), and the other drones act as followers (soldiers). The leader drone plans the mission and sends real-time commands to all the follower drones, and the follower drones carry out required actions following the leader's instructions. All the drones in the troop are identical, which makes the decentralized swarm structure feasible. With a proper negotiation strategy, it is easy to reassign the leader drone. The mission is still achievable by other drones even if the leader fails.
 
 ## 2. HARDWARE CONFIGURATION
-### 1) DRONE SWARM SET I: MODIFIED 3DR IRIS+
+### 1) DRONE SWARM SET I: MODIFIED 3DR IRIS+ DRONE
 #### a) Mechanical System
-This Drone platform is modified from 3DR iris+, and the mechanical system is unchange. Pleas refer to the official [3DR Operation Manual](Hardware_Configuration/3DR_IRIS/IRIS-Plus-Operation-Manual-vH-web.pdf) for the hardware details.
+This Drone platform is modified from 3DR iris+ drone, and the mechanical system is unchange. Pleas refer to the official [3DR Operation Manual](Hardware_Configuration/3DR_IRIS/IRIS-Plus-Operation-Manual-vH-web.pdf) for the hardware details. Following is the basic hardware spacification:
+- Autopilot: Firmware:
+- GPS: 3DR uBlox GPS with Compass (LEA-6H module, 5 Hz update)
+- Telemetry radio: 3DR Radio Telemetry v2 (915 mHz or 433 mHz)
+- Motors: 950 kV
+- Frame type: V
+- Propellers: 9.5 x 4.5 T-Motor multirotor self-tightening counterclockwise (2), 9.5 x 4.5 T-Motor multirotor self-tightening clockwise (2)
+- Battery: 3S 5.1 Ah 8C lithium polymer
+
+
+#### b) AUTO PILOT SYSTEM
+The auto pilot system shipped with iris+ drone is Pixhawk v2.4.5 with firmware ArduCopter 3.2. I upgraded the firmeare to ArduCopter 3.3.3. 
 
