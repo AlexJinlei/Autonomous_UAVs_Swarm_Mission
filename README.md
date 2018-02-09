@@ -8,17 +8,20 @@ For all the three subprojects, there is one drone acts as a leader (commander), 
 
 ## 2. HARDWARE CONFIGURATION
 ### 1) DRONE SWARM SET I: MODIFIED 3DR IRIS+ DRONE
-#### a) Mechanical System
+#### a) MECHANICAL SYSTEM
 This Drone platform is modified from 3DR iris+ drone, and the mechanical system is unchange. Pleas refer to the official [3DR Operation Manual](Hardware_Configuration/3DR_IRIS/IRIS-Plus-Operation-Manual-vH-web.pdf) for the hardware details. Following is the basic hardware spacification:
-- Autopilot: Firmware:
-- GPS: 3DR uBlox GPS with Compass (LEA-6H module, 5 Hz update)
-- Telemetry radio: 3DR Radio Telemetry v2 (915 mHz or 433 mHz)
-- Motors: 950 kV
+- UAV type: QuadCopter
 - Frame type: V
+- Motors: 950 kV
 - Propellers: 9.5 x 4.5 T-Motor multirotor self-tightening counterclockwise (2), 9.5 x 4.5 T-Motor multirotor self-tightening clockwise (2)
 - Battery: 3S 5.1 Ah 8C lithium polymer
 
+#### b) AUTOPILOT SYSTEM
+The auto pilot system shipped with iris+ drone is Pixhawk v2.4.5 with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. 
+- Autopilot: Pixhawk v2.4.5
+- Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
 
-#### b) AUTO PILOT SYSTEM
-The auto pilot system shipped with iris+ drone is Pixhawk v2.4.5 with firmware ArduCopter 3.2. I upgraded the firmeare to ArduCopter 3.3.3. 
+#### c) 
+
+
 
