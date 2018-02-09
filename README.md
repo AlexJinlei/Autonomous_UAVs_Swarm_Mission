@@ -17,11 +17,19 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 - Battery: 3S 5.1 Ah 8C lithium polymer
 
 #### b) AUTOPILOT SYSTEM
-The auto pilot system shipped with iris+ drone is Pixhawk v2.4.5 with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. 
+The autopilot system shipped with iris+ drone is Pixhawk v2.4.5 with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. 
 - Autopilot: Pixhawk v2.4.5
 - Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
 
-#### c) 
+#### c) POSITIONING SYSTEM
+- GPS: 3DR uBlox GPS with Compass (LEA-6H module, 5 Hz update)
+
+#### d) ON BOARD COMPUTING SYSTEM (COMPANION COMPUTER)
+- Single board computer: Intel UP board
+- Processor: Intel® Atom™ x5-Z8350 Processor (2M Cache, up to 1.92 GHz) CPU with 64 bit architecture; Quad Core CPU
+- Memory: 4GB DDR3L-1600
+- Storage Capacity: 32 GB eMMC
+- OS: Ubilinux
 
 
 
