@@ -33,7 +33,7 @@ This project need a high performance companion computer to do mission planning, 
 - Storage Capacity: 32 GB eMMC
 - OS: Ubilinux
 <p align="center">
-  <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Intel_UP_board_layout.jpg" width="800">
+  <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Intel_UP_board_layout.jpg" width="700">
 </p>
 
 
@@ -41,7 +41,7 @@ This project need a high performance companion computer to do mission planning, 
 Original iris+ drone does not have any vision system. I designed and assembled the stereo vision camare to equipe it on each drone. Please refer to my other repository [Stereo_Vision_Camera](/Stereo_Vision_Camera) for more detail. With stereo vision camera, drones are able to detect and locate objects in 3D frame. A sonar sensor is added to each iris+ drone for obstacle detection. The sonar sensor is installed in the center of the stereo vision camera. The solar sensor works with stereo vison camarea to locate objects accurately. 
 
 <p align="center">
-<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Stereo_Vision_Camera_with_Sonar.jpg" width="800">
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Stereo_Vision_Camera_with_Sonar.jpg" width="700">
 </p>
 
 
