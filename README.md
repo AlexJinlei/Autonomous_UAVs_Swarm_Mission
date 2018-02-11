@@ -21,7 +21,7 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 </p>
 
 #### b) AUTOPILOT SYSTEM
-The autopilot system shipped with iris+ drone is Pixhawk v2.4.5 with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details.
+The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg) with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details.
 - Autopilot: Pixhawk v2.4.5
 - Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
 
@@ -49,7 +49,7 @@ Original iris+ drone does not have any vision system. I designed and assembled t
 </p>
 
 #### f) COMMUNICATION SYSTEM
-Original iris+ drone is shipped with RC radio and 3DR radio. An operator can control iris+ maually with RC radio, or control it through ground station installed on computer with 3DR radio. In this project, the mission planning tasks are done by on board computer, so there is no need to use a ground station. I removed the 3DR radio and reserve the telemetry port for on board computer. The 
+Original iris+ drone is shipped with RC radio and 3DR radio. An operator can control iris+ maually with RC radio, or control it through ground station installed on computer with 3DR radio. In this project, the mission planning tasks are done by on board computer (companion computer), so there is no need to use a ground station. I removed the 3DR radio and reserve the telemetry port for on board computer. The port TELEM 2 on pixhawk is connected to companion computer via [USB to serial adapter](Hardware_Configuration/3DR_IRIS/README_PICS/USB_to_Serial_Adapter.jpg), and the port TELEM 1 on pixhawk is connected to RC radio receiver.
 
 
 
