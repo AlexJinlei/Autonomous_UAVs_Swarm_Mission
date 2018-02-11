@@ -30,7 +30,7 @@ The 3DR iris+ drone is shipped with GPS. This project uses its original GPS.
 - GPS: 3DR uBlox GPS with Compass (LEA-6H module, 5 Hz update)
 
 #### d) ON BOARD COMPUTING SYSTEM (COMPANION COMPUTER)
-This project need a high performance companion computer to do mission planning, computer vision task, and other computing-intensive tasks. However, the original iris+ done does not have a companion computer. After research, I found that the intel UP board is the best companion computer for this project.
+This project need a high performance companion computer to do mission planning, computer vision task, and other computing-intensive tasks. However, the original iris+ done does not have a companion computer. After research, I found that the intel UP board is the best companion computer for this project. A [power module](Hardware_Configuration/3DR_IRIS/README_PICS/Power_module_5V_3A.jpg) is needed to power the companion computer.
 - Single board computer: Intel UP board
 - Processor: Intel® Atom™ x5-Z8350 Processor (2M Cache, up to 1.92 GHz) CPU with 64 bit architecture; Quad Core CPU
 - Memory: 4GB DDR3L-1600
