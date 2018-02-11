@@ -9,7 +9,7 @@ For all the three subprojects, there is one drone acts as a leader (commander), 
 ## 2. HARDWARE CONFIGURATION
 ### 1) DRONE SWARM SET I: MODIFIED 3DR IRIS+ DRONE
 #### a) MECHANICAL SYSTEM
-This Drone platform is modified from 3DR iris+ drone, and the mechanical system is unchange. Pleas refer to the official [3DR Operation Manual](Hardware_Configuration/3DR_IRIS/DOCS/IRIS-Plus-Operation-Manual-vH-web.pdf) for the hardware details. Following is the basic hardware spacification:
+This Drone platform is modified from 3DR iris+ drone, and the mechanical system is unchange. Pleas refer to the official [3DR Operation Manual](Hardware_Configuration/3DR_IRIS/DOCS/IRIS-Plus-Operation-Manual-vH-web.pdf) for the hardware details. Following is the basic hardware spacification of the mechanical system:
 - UAV type: QuadCopter
 - Frame type: V
 - Motors: 950 kV
