@@ -140,11 +140,12 @@ Following picture shows the assembled final product (without battery). The compa
 
 ## 3. SOFTWARE CONFIGURATION
 ### 1) CONFIGUR OS ENVIRONMENT
-To work with drone, the companion computer should be able to start and login without password when power on. Also, To communicate with other drones via wifi, each computer need a static IP address. The flight control code should run automatically on boot. Please go through the procedures below to setup OS environment.
+To work with drone, the companion computer should be able to start and login without password when power on. Also, To communicate with other drones via wifi, each computer need a static IP address. The flight control code should run automatically on boot. Please go through the procedures below to setup OS environment. (More details will be added when I get time :) )
 ```
 - Install and setup LightDM to enable the companion computer auto login.
 - Edit /etc/network/interfaces to assign a static IP address to each drone.
 - Set the grub default boot entry, and set the grub timeout to 0.
+- Edit /etc/rc.local to add the auto run item. To avoid frequently modify this file, you can write the path and name of an script, say run_on_boot.sh, in rc.local file, then write all auto run items in run_on_boot.sh.
 ```
 
 ### 2) INSTALL PACKAGES
