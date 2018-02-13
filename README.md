@@ -54,7 +54,7 @@ This project need a high performance companion computer to do mission planning, 
 ```
 
 <p align="center">
-  <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Intel_UP_board_layout.jpg" width="700">
+  <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Intel_UP_board_layout.jpg" height="300">
 </p>
 
 #### e) STEREO VISION CAMERA AND SONAR SYSTEM
