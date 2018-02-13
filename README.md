@@ -86,6 +86,10 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 - Battery: Tattu Plus 10000mAh 22.2V 25C 6S1P Lipo Smart Battery
 ```
 
+<p align="center">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Ionman_650_Frame.jpg" height="300">
+</p>
+
 #### b) AUTOPILOT SYSTEM
 ```
 - Autopilot: Pixhawk 2.1
