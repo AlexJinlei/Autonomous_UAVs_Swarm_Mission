@@ -22,7 +22,7 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 ```
 
 <p align="center">
-  <img src="Hardware_Configuration/3DR_IRIS/README_PICS/3DR_Iris_Plus.jpg" width="700">
+  <img src="Hardware_Configuration/3DR_IRIS/README_PICS/3DR_Iris_Plus.jpg" height="300">
 </p>
 
 #### b) AUTOPILOT SYSTEM
@@ -33,7 +33,7 @@ The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Confi
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg" height="350">
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg" height="300">
 </p>
 
 #### c) POSITIONING SYSTEM
@@ -71,7 +71,7 @@ Original iris+ drone is shipped with RC radio and 3DR radio. An operator can con
 The following pictures show bottom view of the modified 3DR iris+ drone. In practical, a case covers on the companion computer to protect it from damage in case of crash, and the USB wifi adapter and USB to Serial adapter are fixed on each side of the companion computer.
 
 <p align="center">
-<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Modified_3DR_Iris_Plus_Bottom.jpg" height="350"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Modified_3DR_Iris_Plus_Wiring.jpg" height="350">
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Modified_3DR_Iris_Plus_Bottom.jpg" height="300"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Modified_3DR_Iris_Plus_Wiring.jpg" height="300">
 </p>
 
 ### 2) DRONE SWARM SET II: DRONE BIULT FROM SCRATCH BASED ON TAROT IONMAN 650 FRAME AND PIXHAWK2.1 AUTOPILOT
