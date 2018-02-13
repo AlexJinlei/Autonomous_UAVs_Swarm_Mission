@@ -17,7 +17,7 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 - Frame type: V
 - Motors: 950 kV
 - Propellers: 9.5 x 4.5 T-Motor multirotor self-tightening counterclockwise (2),
-**************9.5 x 4.5 T-Motor multirotor self-tightening clockwise (2)
+              9.5 x 4.5 T-Motor multirotor self-tightening clockwise (2)
 - Battery: 3S 5.1 Ah 8C lithium polymer
 ```
 
