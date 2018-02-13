@@ -33,7 +33,7 @@ The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Confi
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg" height="400"
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg" height="400">
 </p>
 
 #### c) POSITIONING SYSTEM
@@ -93,7 +93,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/TAROT_650/README_PICS/Pixhawk2.png" height="400"
+<img src="Hardware_Configuration/TAROT_650/README_PICS/pixhawk2.png" height="400">
 </p>
 
 #### c) POSITIONING SYSTEM
