@@ -6,6 +6,7 @@ There are three subprojects in this repository. 1) The Drone_Matrix_Formation_Fl
 
 For all the three subprojects, there is one drone acts as a leader (commander), and the other drones act as followers (soldiers). The leader drone plans the mission and sends real-time commands to all the follower drones, and the follower drones carry out required actions following the leader's instructions. All the drones in the troop are identical, which makes the decentralized swarm structure feasible. With a proper negotiation strategy, it is easy to reassign the leader drone. The mission is still achievable by other drones even if the leader fails.
 
+
 ## 2. HARDWARE CONFIGURATION
 ### 1) DRONE SWARM SET I: MODIFIED 3DR IRIS+ DRONE
 #### a) MECHANICAL SYSTEM
@@ -82,6 +83,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ### 2) COMMUNICATION PROTOCOL
 
 ### 3) SOFTWARE PACKAGES
+
 
 ## 4. MISSIONS
 ### 1) FORMATION FLIGHT
