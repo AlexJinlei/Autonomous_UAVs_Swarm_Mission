@@ -106,7 +106,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ```
 
 #### d) ON BOARD COMPUTING SYSTEM (COMPANION COMPUTER)
-The same with modified 3DR iris+.
+[Intel UP Board](https://github.com/FlyingCatAlex/Autonomous_UAVs_Swarm_Mission/blob/master/README.md#d-on-board-computing-system-companion-computer). The same with modified 3DR iris+.
 
 #### e) STEREO VISION CAMERA AND SONAR SYSTEM
 The same with modified 3DR iris+.
