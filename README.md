@@ -135,10 +135,58 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 Following picture shows the assembled final product (without battery). The companion computer is mounted on bottom of the drone, And the battery will be mounted under the companion computer. 
 
 <p align="center">
-  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650.png" height="400">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_1280w.png" height="400">
 </p>
 
 ## 3. SOFTWARE CONFIGURATION
+We need openCV for stereo vision system, please follow the instruction below to compile and install openCV 3.1.
+```
+# This script install opencv 3.1.0 in python and other neede components. 
+# This script is made according to the tutorial on pyimagesearch website.
+# You can save this script as install_opencv3.1_UP_board.sh. Then run . install_opencv3.1_UP_board.sh as root.
+
+# Step 1: Open up a terminal and update the apt-get  package manager followed by upgrading any pre-installed packages:
+sudo apt-get -y update
+sudo apt-get -y upgrade
+
+# Step 2: Our environment is now all setup — we can proceed to change to our home directory, pull down OpenCV from GitHub, and checkout the 3.1.0  version:
+cd ~
+git clone https://github.com/Itseez/opencv.git
+cd opencv
+sudo git checkout 3.1.0
+
+# we also need the opencv_contrib repo as well. Without this repository, we won’t have access to standard keypoint detectors and local invariant descriptors (such as SIFT, SURF, etc.) that were available in the OpenCV 2.4.X version. We’ll also be missing out on some of the newer OpenCV 3.0 features like text detection in natural images:
+cd ~
+git clone https://github.com/Itseez/opencv_contrib.git
+cd opencv_contrib
+sudo git checkout 3.1.0
+# make sure that you checkout the same version for opencv_contrib  that you did for opencv  above, otherwise you could run into compilation errors.
+
+# setup the build:
+cd ~/opencv
+mkdir build
+cd build
+cmake -D CMAKE_BUILD_TYPE=RELEASE \
+	-D CMAKE_INSTALL_PREFIX=/usr/local \
+	-D INSTALL_C_EXAMPLES=OFF \
+	-D INSTALL_PYTHON_EXAMPLES=ON \
+	-D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib/modules \
+	-D BUILD_EXAMPLES=ON ..
+
+# compile OpenCV: (The Intel UP board has a 4 core processer.)
+make -j4
+
+# Assuming that OpenCV compiled without error, you can now install it:
+sudo make instal # OpenCV is installed in global environment.
+sudo ldconfig
+
+# To confirm your installation:
+# python
+#>>> import cv2
+#>>> cv2.__version__
+#'3.1.0'
+```
+
 The following python packages will be used for flight control, mission planning, and object detection:
 ```
 - ppenCV 3.1
@@ -153,21 +201,12 @@ The following python packages will be used for flight control, mission planning,
 - geopy
 ```
 
-We need several developer tools:
-```
-- build-essential
-- cmake
-- git
-- pkg-config
-- gedit
-```
+Besides these, we need several developer tools and other support tools. Please run the following command to install necessary packages:
 
-OpenCV needs some image I\/O packages:
 ```
 # Set up companion computer
-# Run it in root terminal, install everything under /root folder. type sudo -i, then, . setup_UPboard_iris_v1.3.sh
-
-# Version 1.3 Install everything in global environment.
+# Run it in root terminal, install everything under /root folder. 
+# You can save this script as setup_UP_board.sh. Then run . setup_UP_board.sh as root.
 
 # First of all update apt-get
 sudo apt-get -y update
