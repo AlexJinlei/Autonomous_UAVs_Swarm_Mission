@@ -1,5 +1,5 @@
 # Autonomous UAVs Swarm Mission
----
+--
 ## 1. DESCRIPTON
 This is an autonomous quadcopter swarm project. The purpose of this project is to achieve a designated mission by multiple drone cooperation. I developed and assembled two sets of the drone as the hardware platform. One set consists of six drones modified from 3DR IRIS+ drone, the other set consists of four drones made from scratch. I also developed a drone swarm control software package, including the functions of flight control, multi-drone communication, multi-drone coordination, stereo vision, failure handle, and so on.
 
@@ -7,19 +7,18 @@ There are three subprojects in this repository. 1) The Drone_Matrix_Formation_Fl
 
 For all the three subprojects, there is one drone acts as a leader (commander), and the other drones act as followers (soldiers). The leader drone plans the mission and sends real-time commands to all the follower drones, and the follower drones carry out required actions following the leader's instructions. All the drones in the troop are identical, which makes the decentralized swarm structure feasible. With a proper negotiation strategy, it is easy to reassign the leader drone. The mission is still achievable by other drones even if the leader fails.
 
----
 
 ## 2. HARDWARE CONFIGURATION
 ### 1) DRONE SWARM SET I: MODIFIED 3DR IRIS+ DRONE
 #### a) MECHANICAL SYSTEM
 This Drone platform is modified from 3DR iris+ drone, and the mechanical system is unchange. Pleas refer to the official [3DR Operation Manual](Hardware_Configuration/3DR_IRIS/DOCS/IRIS-Plus-Operation-Manual-vH-web.pdf) for the hardware details. Following is the basic hardware spacification of the mechanical system:
-'''
+```
 - UAV type: QuadCopter
 - Frame type: V
 - Motors: 950 kV
 - Propellers: 9.5 x 4.5 T-Motor multirotor self-tightening counterclockwise (2), 9.5 x 4.5 T-Motor multirotor self-tightening clockwise (2)
 - Battery: 3S 5.1 Ah 8C lithium polymer
-'''
+```
 
 <p align="center">
   <img src="Hardware_Configuration/3DR_IRIS/README_PICS/3DR_Iris_Plus.jpg" width="700">
@@ -32,15 +31,19 @@ The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Confi
 
 #### c) POSITIONING SYSTEM
 The 3DR iris+ drone is shipped with GPS. This project uses its original GPS.
+```
 - GPS: 3DR uBlox GPS with Compass (LEA-6H module, 5 Hz update)
+```
 
 #### d) ON BOARD COMPUTING SYSTEM (COMPANION COMPUTER)
 This project need a high performance companion computer to do mission planning, computer vision task, and other computing-intensive tasks. However, the original iris+ done does not have a companion computer. After research, I found that the intel UP board is the best companion computer for this project. A [power module](Hardware_Configuration/3DR_IRIS/README_PICS/Power_module_5V_3A.jpg) is needed to power the companion computer.
+```
 - Single board computer: Intel UP board
 - Processor: Intel® Atom™ x5-Z8350 Processor (2M Cache, up to 1.92 GHz) CPU with 64 bit architecture; Quad Core CPU
 - Memory: 4GB DDR3L-1600
 - Storage Capacity: 32 GB eMMC
 - OS: Ubilinux
+```
 
 <p align="center">
   <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Intel_UP_board_layout.jpg" width="700">
