@@ -57,3 +57,6 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 <p align="center">
 <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Modified_3DR_Iris_Plus_Bottom.jpg" height="350"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Modified_3DR_Iris_Plus_Wiring.jpg" height="350">
 </p>
+
+2) DRONE SWARM SET II: DRONE BIULT FROM SCRATCH BASED ON TAROT IONMAN 650 FRAME AND PIXHAWK2.1 AUTOPILOT
+
