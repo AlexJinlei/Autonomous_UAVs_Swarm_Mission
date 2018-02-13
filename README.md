@@ -13,8 +13,8 @@ For all the three subprojects, there is one drone acts as a leader (commander), 
 #### a) MECHANICAL SYSTEM
 This Drone platform is modified from 3DR iris+ drone, and the mechanical system is unchange. Pleas refer to the official [3DR Operation Manual](Hardware_Configuration/3DR_IRIS/DOCS/IRIS-Plus-Operation-Manual-vH-web.pdf) for the hardware details. Following is the basic hardware spacification of the mechanical system:
 ```
-- UAV type: QuadCopter
-- Frame type: V
+- UAV Type: QuadCopter
+- Frame Type: V
 - Motors: 950 kV
 - Propellers: 9.5 x 4.5 T-Motor multirotor self-tightening counterclockwise (2),
               9.5 x 4.5 T-Motor multirotor self-tightening clockwise (2)
@@ -28,7 +28,7 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 #### b) AUTOPILOT SYSTEM
 The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg) with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details.
 ```
-- Autopilot: Pixhawk v2.4.5
+- Autopilot: Pixhawk 1
 - Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
 ```
 
@@ -41,7 +41,7 @@ The 3DR iris+ drone is shipped with GPS. This project uses its original GPS.
 #### d) ON BOARD COMPUTING SYSTEM (COMPANION COMPUTER)
 This project need a high performance companion computer to do mission planning, computer vision task, and other computing-intensive tasks. However, the original iris+ done does not have a companion computer. After research, I found that the intel UP board is the best companion computer for this project. A [power module](Hardware_Configuration/3DR_IRIS/README_PICS/Power_module_5V_3A.jpg) is needed to power the companion computer.
 ```
-- Single board computer: Intel UP board
+- Single Board Computer: Intel UP board
 - Processor: Intel® Atom™ x5-Z8350 Processor (2M Cache, up to 1.92 GHz),
              Quad Core CPU with 64 bit architecture
 - Memory: 4GB DDR3L-1600
@@ -72,10 +72,26 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 
 ### 2) DRONE SWARM SET II: DRONE BIULT FROM SCRATCH BASED ON TAROT IONMAN 650 FRAME AND PIXHAWK2.1 AUTOPILOT
 #### a) MECHANICAL SYSTEM
+```
+- UAV Type: QuadCopter
+- Frame Type: X
+- Frame Model: Tarot Iron Man 650 Carbon Fiber Fully Foldable Quadcopter Frame TL65B01
+- Motor: Sunnysky X4110S 340KV
+- Propeller: TAROT High Efficient Carbon Fiber Propeller 15x5.5 CW/CCW TL2812
+- Electronic Speed Controller (ESC): ARRIS Simonk 30A 2-6S OPTO Brushless ESC
+- Battery: Tattu Plus 10000mAh 22.2V 25C 6S1P Lipo Smart Battery
+```
 
 #### b) AUTOPILOT SYSTEM
+```
+- Autopilot: Pixhawk 2.1
+- Firmware: ArduCopter v3.5
+```
 
 #### c) POSITIONING SYSTEM
+```
+- GPS: Here GPS M8N & Compass Module for Pixhawk 2.1
+```
 
 #### d) ON BOARD COMPUTING SYSTEM (COMPANION COMPUTER)
 
