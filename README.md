@@ -93,7 +93,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/TAROT_650/README_PICS/pixhawk2.png" height="300">
+<img src="Hardware_Configuration/TAROT_650/README_PICS/pixhawk2.png" height="250">
 </p>
 
 #### c) POSITIONING SYSTEM
@@ -123,7 +123,7 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/TAROT_650/README_PICS/FrSky_Taranis_X9D_Plus_Digital_Telemetry_Radio.jpg" height="300"> <img src="Hardware_Configuration/TAROT_650/README_PICS/X8R_Telemetry_Receiver.jpg" height="300"> 
+<img src="Hardware_Configuration/TAROT_650/README_PICS/FrSky_Taranis_X9D_Plus_Digital_Telemetry_Radio.jpg" height="250"> <img src="Hardware_Configuration/TAROT_650/README_PICS/X8R_Telemetry_Receiver.jpg" height="250"> 
 </p>
 
 #### h) FINAL PRODUCT
