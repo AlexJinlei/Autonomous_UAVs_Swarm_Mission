@@ -87,7 +87,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ```
 
 <p align="center">
-  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Ionman_650_Frame.jpg" height="300">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_Frame.jpg" height="300">
 </p>
 
 #### b) AUTOPILOT SYSTEM
@@ -132,6 +132,9 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 
 #### h) FINAL PRODUCT
 
+<p align="center">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650.jpg" height="400">
+</p>
 
 ## 3. SOFTWARE CONFIGURATION
 ### 1) FIRMWARE
