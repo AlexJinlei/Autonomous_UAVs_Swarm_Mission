@@ -139,10 +139,19 @@ Following picture shows the assembled final product (without battery). The compa
 </p>
 
 ## 3. SOFTWARE CONFIGURATION
+### 1) CONFIGUR OS ENVIRONMENT
+To work with drone, the companion computer should be able to start and login without password when power on. Also, To communicate with other drones via wifi, each computer need a static IP address. The flight control code should run automatically on boot. Please go through the procedures below to setup OS environment.
+```
+- Install and setup LightDM to enable the companion computer auto login.
+- Edit /etc/network/interfaces to assign a static IP address to each drone.
+- Set the grub default boot entry, and set the grub timeout to 0.
+```
+
+### 2) INSTALL PACKAGES
 We need openCV for stereo vision system, please follow the instruction below to compile and install openCV 3.1.
 ```
-# This script install opencv 3.1.0 in python and other neede components. 
-# This script is made according to the tutorial on pyimagesearch website.
+# This script install opencv 3.1.0 for python and other needed components. 
+# This script is written according to the tutorial on pyimagesearch website.
 # You can save this script as install_opencv3.1_UP_board.sh. Then run . install_opencv3.1_UP_board.sh as root.
 
 # Step 1: Open up a terminal and update the apt-get  package manager followed by upgrading any pre-installed packages:
@@ -282,7 +291,6 @@ sudo pip install geopy
 
 #h) Install netifaces
 sudo pip install netifaces
-
 
 #Done with software installation.
 ```
