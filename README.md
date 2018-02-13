@@ -133,7 +133,7 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 #### h) FINAL PRODUCT
 
 <p align="center">
-  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650.jpg" height="400">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650.png" height="400">
 </p>
 
 ## 3. SOFTWARE CONFIGURATION
