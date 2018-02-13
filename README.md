@@ -27,8 +27,10 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 
 #### b) AUTOPILOT SYSTEM
 The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg) with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details.
+```
 - Autopilot: Pixhawk v2.4.5
 - Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
+```
 
 #### c) POSITIONING SYSTEM
 The 3DR iris+ drone is shipped with GPS. This project uses its original GPS.
@@ -40,7 +42,8 @@ The 3DR iris+ drone is shipped with GPS. This project uses its original GPS.
 This project need a high performance companion computer to do mission planning, computer vision task, and other computing-intensive tasks. However, the original iris+ done does not have a companion computer. After research, I found that the intel UP board is the best companion computer for this project. A [power module](Hardware_Configuration/3DR_IRIS/README_PICS/Power_module_5V_3A.jpg) is needed to power the companion computer.
 ```
 - Single board computer: Intel UP board
-- Processor: Intel® Atom™ x5-Z8350 Processor (2M Cache, up to 1.92 GHz) CPU with 64 bit architecture; Quad Core CPU
+- Processor: Intel® Atom™ x5-Z8350 Processor (2M Cache, up to 1.92 GHz),
+             Quad Core CPU with 64 bit architecture
 - Memory: 4GB DDR3L-1600
 - Storage Capacity: 32 GB eMMC
 - OS: Ubilinux
