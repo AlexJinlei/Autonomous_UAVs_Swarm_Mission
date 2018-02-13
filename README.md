@@ -109,7 +109,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 [Intel UP Board](https://github.com/FlyingCatAlex/Autonomous_UAVs_Swarm_Mission/blob/master/README.md#d-on-board-computing-system-companion-computer). The same with modified 3DR iris+.
 
 #### e) STEREO VISION CAMERA AND SONAR SYSTEM
-The same with modified 3DR iris+.
+[Stereo Vision Camera with Sonar Sensor](https://github.com/FlyingCatAlex/Autonomous_UAVs_Swarm_Mission/blob/master/README.md#e-stereo-vision-camera-and-sonar-system). The same with modified 3DR iris+.
 
 #### f) 360 DEGREE LASER SCANNER (LIDAR)
 ```
