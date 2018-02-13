@@ -117,6 +117,14 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 </p>
 
 #### g) COMMUNICATION SYSTEM
+```
+- Communication with Companion Computer: USB to Serial Adapter
+- Manually Control: FrSky Taranis X9D Plus Digital Telemetry Radio with X8R Telemetry Receiver
+```
+
+<p align="center">
+<img src="Hardware_Configuration/TAROT_650/README_PICS/FrSky_Taranis_X9D_Plus_Digital_Telemetry_Radio.jpg" height="300"> <img src="Hardware_Configuration/TAROT_650/README_PICS/X8R_Telemetry_Receiver.jpg" height="300"> 
+</p>
 
 #### h) FINAL PRODUCT
 
