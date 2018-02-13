@@ -112,6 +112,10 @@ The same with modified 3DR iris+.
 Lidar Scanner: Sweep V1 360° Laser Scanner
 ```
 
+<p align="center">
+<img src="Hardware_Configuration/TAROT_650/README_PICS/Sweep_v1_360_Laser_Scanner.jpg" height="300">
+</p>
+
 #### g) COMMUNICATION SYSTEM
 
 #### h) FINAL PRODUCT
