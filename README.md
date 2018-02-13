@@ -132,16 +132,122 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 
 #### h) FINAL PRODUCT
 
+Following picture shows the assembled final product (without battery). The companion computer is mounted on bottom of the drone, And the battery will be mounted under the companion computer. 
+
 <p align="center">
   <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650.png" height="400">
 </p>
 
 ## 3. SOFTWARE CONFIGURATION
-### 1) FIRMWARE
+The following python packages will be used for flight control, mission planning, and object detection:
+```
+- ppenCV 3.1
+- openssh-server
+- openssh-client
+- numpy
+- matplotlib
+- dronekit
+- pymavlink
+- mavproxy
+- netifaces
+- geopy
+```
 
-### 2) COMMUNICATION PROTOCOL
+We need several developer tools:
+```
+- build-essential
+- cmake
+- git
+- pkg-config
+- gedit
+```
 
-### 3) SOFTWARE PACKAGES
+OpenCV needs some image I\/O packages:
+```
+# Set up companion computer
+# Run it in root terminal, install everything under /root folder. type sudo -i, then, . setup_UPboard_iris_v1.3.sh
+
+# Version 1.3 Install everything in global environment.
+
+# First of all update apt-get
+sudo apt-get -y update
+sudo apt-get -y upgrade
+
+#a) Install some neccessary packages.
+#   1) Install SSH server and client.
+sudo apt-get install -y openssh-server
+sudo apt-get install -y openssh-client
+#   2) Install pip, a Python package manager.
+wget https://bootstrap.pypa.io/get-pip.py
+sudo -H python get-pip.py
+#   3) Install virtualenv.
+#sudo -H pip install virtualenv
+#sudo rm -rf ~/.cache/pip
+#   4) Install developer tools and gedit.
+sudo apt-get install -y build-essential
+sudo apt-get install -y cmake
+sudo apt-get install -y git
+sudo apt-get install -y pkg-config
+sudo apt-get install -y gedit
+#   5) OpenCV needs to be able to load various image file formats from disk, including JPEG, PNG, TIFF, etc. In order to load these image formats from disk, we’ll need our image I/O packages。
+sudo apt-get install -y libjpeg8-dev
+sudo apt-get install -y libtiff5-dev
+sudo apt-get install -y libjasper-dev
+sudo apt-get install -y libpng12-dev
+#   6）Install the GTK development library, which the highgui module of OpenCV depends on to guild Graphical User Interfaces (GUIs). With this we are able to display the actual image to our screen.
+sudo apt-get install -y libgtk2.0-dev
+#   7) Install packages to process video streams and access individual frames.
+sudo apt-get install -y libavcodec-dev
+sudo apt-get install -y libavformat-dev
+sudo apt-get install -y libswscale-dev
+sudo apt-get install -y libv4l-dev
+#   8) Install libraries that are used to optimize various routines inside of OpenCV:
+sudo apt-get install -y libatlas-base-dev
+sudo apt-get install -y gfortran
+#   9) Install some other needed packages.
+sudo apt-get install -y python2.7-dev
+sudo apt-get install -y python-matplotlib
+sudo apt-get inatall -y python-wxgtk3.0
+sudo apt-get install -y libxml2-dev
+sudo apt-get install -y libxslt-dev
+
+#b) Install numpy.
+sudo -H pip install numpy
+
+#c) Install matplotlib.
+sudo -H pip install matplotlib
+
+#d) Install dronekit
+#   1) Install dronekit.
+sudo -H pip install dronekit
+#pip install dronekit-sitl # dronekit-sitl is optional. For simulation.
+#   2) Then, we need mavlink packages.
+sudo -H pip install pymavlink
+sudo -H pip install mavproxy
+
+#e) Install exFAT support
+sudo apt-get install exfat-fuse exfat-utils
+
+#f) Install JAVA JRE/JDK
+#First, update the package index:
+sudo apt-get update
+#Then, check if Java is not already installed:
+#java -version
+#If it returns "The program java can be found in the following packages", Java hasn't been installed yet, so execute the following command:
+sudo apt-get install -y default-jre
+#This will install the Java Runtime Environment (JRE). If you instead need the Java Development Kit (JDK), which is usually needed to compile Java applications (for example Apache Ant, Apache Maven, Eclipse and IntelliJ IDEA execute the following command:
+sudo apt-get install -y default-jdk
+
+#g) Install geopy (GPS API)
+sudo pip install geopy
+
+#h) Install netifaces
+sudo pip install netifaces
+
+
+#Done with software installation.
+```
+
 
 
 ## 4. MISSIONS
