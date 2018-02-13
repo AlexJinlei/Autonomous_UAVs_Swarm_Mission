@@ -93,7 +93,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/TAROT_650/README_PICS/pixhawk2.png" height="350">
+<img src="Hardware_Configuration/TAROT_650/README_PICS/pixhawk2.png" height="300">
 </p>
 
 #### c) POSITIONING SYSTEM
