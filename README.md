@@ -32,6 +32,10 @@ The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Confi
 - Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
 ```
 
+<p align="center">
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg" height="400"
+</p>
+
 #### c) POSITIONING SYSTEM
 The 3DR iris+ drone is shipped with GPS. This project uses its original GPS.
 ```
@@ -88,16 +92,25 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 - Firmware: ArduCopter v3.5
 ```
 
+<p align="center">
+<img src="Hardware_Configuration/TAROT_650/README_PICS/Pixhawk2.png" height="400"
+</p>
+
 #### c) POSITIONING SYSTEM
 ```
 - GPS: Here GPS M8N & Compass Module for Pixhawk 2.1
 ```
 
 #### d) ON BOARD COMPUTING SYSTEM (COMPANION COMPUTER)
+The same with modified 3DR iris+.
 
 #### e) STEREO VISION CAMERA AND SONAR SYSTEM
+The same with modified 3DR iris+.
 
 #### f) 360 DEGREE LASER SCANNER (LIDAR)
+```
+Lidar Scanner: Sweep V1 360° Laser Scanner
+```
 
 #### g) COMMUNICATION SYSTEM
 
