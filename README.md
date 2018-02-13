@@ -74,3 +74,18 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 #### g) COMMUNICATION SYSTEM
 
 #### h) FINAL PRODUCT
+
+
+## 3. SOFTWARE CONFIGURATION
+### 1) FIRMWARE
+
+### 2) COMMUNICATION PROTOCOL
+
+### 3) SOFTWARE PACKAGES
+
+## 4. MISSIONS
+### 1) FORMATION FLIGHT
+
+### 2) CURVATUR FLIGHT
+
+### 3) BALLOON HUNTER
