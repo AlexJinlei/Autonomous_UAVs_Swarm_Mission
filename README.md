@@ -327,9 +327,19 @@ sudo pip install netifaces
 #Done with software installation.
 ```
 
+## 6. SOFTWARE ARCHITECHTURE
 
+As mentioned in [DESCRIPTION](), there are three subprojects in the repository. Technically, they are three different developemt phases of one project. The objective of the entire project is to develope a autonomous drone swarm platform to performe designated multi-drone coorperation missions. This platform including hardware and software. 
 
-## 4. MISSIONS
+[]()
+
+[]()
+
+[]()
+
+Since []() is the 
+
+## 5. MISSIONS
 ### 1) FORMATION FLIGHT
 
 ### 2) CURVATUR FLIGHT
