@@ -333,9 +333,9 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 
 [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/) is the firstly developed code set. Its architecture is very simple.
 
-[]()
+[formation_main_leader.py](Drone_Matrix_Formation_Flight/formation_main_leader.py) is the main function for the leader drone. The mission is planed in this code. This code also coordinates all drones in a mission. The client and server services start on boot, to send commands to and receive status reports from the follower drones.
 
-[]()
+[formation_main_follower.py](Drone_Matrix_Formation_Flight/formation_main_follower.py) is the main function for the follower code. It starts the client and server services on the follower drone. All the things that follower drones do are receiving and executing the commands from leader drone, and send their own status to the leader drone on demand.
 
 Since []() is the 
 
