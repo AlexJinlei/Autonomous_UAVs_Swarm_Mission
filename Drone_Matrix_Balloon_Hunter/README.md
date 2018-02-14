@@ -1,1 +1,5 @@
-# Drone_Matrix_Balloon_Hunter
+# DRONE SWARM BALLOON HUNTER
+## 1. OBJECTIVE
+The objective of this mission is letting the drone troop find a couple of balloons and destroy them. Each drone is designeted to find and destroy a balloon with specific color. All drones will take off at same time on the command of a leader drone. Each drone will search for a balloon with specified color via its stereo vision system. Once the balloon is found, the drone will adjust its heading and altitude and then lock and fly to the balloon. The sonar sensor will double check the distance between the balloon and the drone. The drone will adjust its position to make the balloon appear in its view center. Once the drone is close enough to the balloon and the heading and the position is just in front of the ballon, the drone will accelerate and hit in the balloon to destroy it. Once the mission is completed, all drones will return to launch point. The entire procedure will be recorded by the stereo vision camera.
+## 2. MORE DESCRIPTION
+See readme file under root directory of this repository.
