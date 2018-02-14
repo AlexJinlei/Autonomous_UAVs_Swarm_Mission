@@ -169,7 +169,7 @@ Below is the flight test. All drones work well. The flight time is more than 40 
 
 ## 3. SOFTWARE CONFIGURATION
 ### 1) CONFIGURE OS ENVIRONMENT
-To work with drone, the companion computer should be able to start and login without password when power on. Also, To communicate with other drones via wifi, each computer need a static IP address. The flight control code should run automatically on boot. Please go through the procedures below to setup OS environment. (More details will be added when I get time :) )
+To work with drone, the companion computer should be able to start and login without password when power on. Also, to communicate with other drones via wifi, each computer need a static IP address. The flight control code should run automatically on boot. Please go through the procedures below to setup OS environment. (More details will be added when I get time :) )
 ```
 - Install and setup LightDM to enable the companion computer auto login.
 - Edit /etc/network/interfaces to assign a static IP address to each drone.
