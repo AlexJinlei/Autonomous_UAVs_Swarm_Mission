@@ -332,10 +332,9 @@ sudo pip install netifaces
 As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_Swarm_Mission/blob/master/README.md#1-descripton), there are three subprojects in the repository. Technically, they are three different developemt phases of one project. The objective of the entire project is to develope a autonomous drone swarm platform to performe designated multi-drone coorperation missions. This platform including hardwares and softwares. During the early development phase, the maily objective is to assure the feasibility of the system design. I performed intensive hardware and software test while develop [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/) and [Drone_Matrix_Curvature_Flight](Drone_Matrix_Curvature_Flight/). All the components of the system work properly. The [Drone_Matrix_Balloon_Hunter](Drone_Matrix_Balloon_Hunter/) subproject is the final product. The balloon hunter mission can be considered as a demonstration.
 
 [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/) is the firstly developed code set. Its architecture is very simple.
-
-[formation_main_leader.py](Drone_Matrix_Formation_Flight/formation_main_leader.py) is the main function for the leader drone. The mission is planed in this code. This code also coordinates all drones in a mission. The client and server services start on boot, to send commands to and receive status reports from the follower drones.
-
-[formation_main_follower.py](Drone_Matrix_Formation_Flight/formation_main_follower.py) is the main function for the follower code. It starts the client and server services on the follower drone. All the things that follower drones do are receiving and executing the commands from leader drone, and send their own status to the leader drone on demand.
+- [formation_main_leader.py](Drone_Matrix_Formation_Flight/formation_main_leader.py) is the main function for the leader drone. The mission is planed in this code. This code also coordinates all drones in a mission. The client and server services start on boot, to send commands to and receive status reports from the follower drones.
+- [formation_main_follower.py](Drone_Matrix_Formation_Flight/formation_main_follower.py) is the main function for the follower code. It starts the client and server services on the follower drone. All the things that follower drones do are receiving and executing the commands from leader drone, and send their own status to the leader drone on demand.
+- [formation_function.py](Drone_Matrix_Formation_Flight/formation_function.py) is the shared code for both leader and follower drones.
 
 Since []() is the 
 
