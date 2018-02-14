@@ -141,13 +141,13 @@ Following picture shows the assembled final product (without battery). The compa
 Below is the fully assembled four Tarot Iron Man 650 drones.
 
 <p align="center">
-  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_Swarm.gif" height="400">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_Swarm.gif" width="600">
 </p>
 
 Below is the flight test. All drones work well. The flight time is about 40 minutes per fully charge.
 
 <p align="center">
-  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot650_Flight_Test.gif" height="400">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot650_Flight_Test.gif" width="600">
 </p>
 
 ## 3. SOFTWARE CONFIGURATION
