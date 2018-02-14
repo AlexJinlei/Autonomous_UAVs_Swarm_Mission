@@ -144,6 +144,12 @@ Below is the fully assembled four Tarot Iron Man 650 drones.
   <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_Swarm.gif" height="400">
 </p>
 
+Below is the flight test. All drones work well. The flight time is about 40 minutes per fully charge.
+
+<p align="center">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot650_Flight_Test.gif" height="400">
+</p>
+
 ## 3. SOFTWARE CONFIGURATION
 ### 1) CONFIGURE OS ENVIRONMENT
 To work with drone, the companion computer should be able to start and login without password when power on. Also, To communicate with other drones via wifi, each computer need a static IP address. The flight control code should run automatically on boot. Please go through the procedures below to setup OS environment. (More details will be added when I get time :) )
