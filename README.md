@@ -73,7 +73,7 @@ Original iris+ drone is shipped with RC radio and 3DR radio. An operator can con
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/3DR_IRIS/README_PICS/High_Power_Wireless_Router_TL-WR841HP.jpg" height="300"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg" height="100"> 
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/High_Power_Wireless_Router_TL-WR841HP.jpg" height="350"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg" height="150"> 
 </p>
 <p align="center">
 High Power Wireless Router (left) and USB WiFi Adapter (right)
@@ -99,7 +99,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ```
 
 <p align="center">
-  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_Frame.jpg" height="300">
+  <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_Frame.jpg" height="250">
 </p>
 
 #### b) AUTOPILOT SYSTEM
@@ -109,7 +109,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/TAROT_650/README_PICS/pixhawk2.png" height="250">
+<img src="Hardware_Configuration/TAROT_650/README_PICS/pixhawk2.png" height="200">
 </p>
 
 #### c) POSITIONING SYSTEM
@@ -141,7 +141,7 @@ The inter-drone communication method is the same with 3DR iris+. We use wifi for
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/TAROT_650/README_PICS/FrSky_Taranis_X9D_Plus_Digital_Telemetry_Radio.jpg" height="250"> <img src="Hardware_Configuration/TAROT_650/README_PICS/X8R_Telemetry_Receiver.jpg" height="250"> 
+<img src="Hardware_Configuration/TAROT_650/README_PICS/FrSky_Taranis_X9D_Plus_Digital_Telemetry_Radio.jpg" height="250"> <img src="Hardware_Configuration/TAROT_650/README_PICS/X8R_Telemetry_Receiver.jpg" height="200"> 
 </p>
 <p align="center">
 FrSky Taranis X9D Plus Digital Telemetry Radio (left) and X8R Telemetry Receiver (right)
