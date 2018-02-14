@@ -66,9 +66,14 @@ Original iris+ drone does not have any vision system. I designed and assembled t
 
 #### f) COMMUNICATION SYSTEM
 Original iris+ drone is shipped with RC radio and 3DR radio. An operator can control iris+ maually with RC radio, or control it through ground station installed on computer with 3DR radio. In this project, the mission planning tasks are done by on board computer (companion computer), so there is no need to use a ground station. I removed the 3DR radio and reserve the telemetry port for on board computer. The port TELEM 2 on pixhawk is connected to companion computer via [USB to serial adapter](Hardware_Configuration/3DR_IRIS/README_PICS/USB_to_Serial_Adapter.jpg), and the port TELEM 1 on pixhawk is connected to RC radio receiver. Please refer to [this guide](http://ardupilot.org/dev/docs/odroid-via-mavlink.html) to hook up pixhawk with companion computer. The communication between drones are achieved via WiFi. The communication between drones is achieved by wifi via wireless router on ground. A [USB WiFi adapter](Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg) is plugged to the usb port of companion computer to send and receive messages.
+```
+- Communication with Companion Computer: USB to serial port adapter
+- Communication with Other Drones: Wifi via ground-based wireless router
+- Manually Control: RC radio shipped with original 3DR iris+ drone
+```
 
 <p align="center">
-<img src="Hardware_Configuration/3DR_IRIS/README_PICS/High_Power_Wireless_Router_TL-WR841HP.jpg" height="250"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg" height="250"> 
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/High_Power_Wireless_Router_TL-WR841HP.jpg" height="300"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg" height="150"> 
 </p>
 <p align="center">
 High Power Wireless Router (left) and USB WiFi Adapter (right)
@@ -128,9 +133,10 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 </p>
 
 #### g) COMMUNICATION SYSTEM
+The inter-drone communication method is the same with 3DR iris+. We use wifi for communication between drones. Please see [the description of communication system of 3DR iris+ drone]() for details. 
 ```
-- Communication with Companion Computer: USB to Serial port Adapter
-- Communication with Other Drones: Wifi via Ground-Based Wireless Router
+- Communication with Companion Computer: USB to serial port adapter
+- Communication with Other Drones: Wifi via ground-based wireless router
 - Manually Control: FrSky Taranis X9D Plus Digital Telemetry Radio with X8R Telemetry Receiver
 ```
 
