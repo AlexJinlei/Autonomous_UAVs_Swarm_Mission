@@ -69,11 +69,11 @@ Original iris+ drone is shipped with RC radio and 3DR radio. An operator can con
 ```
 - Communication with Companion Computer: USB to serial port adapter
 - Communication with Other Drones: Wifi via ground-based wireless router
-- Manually Control: RC radio shipped with original 3DR iris+ drone
+- Manual Control: RC radio shipped with original 3DR iris+ drone
 ```
 
 <p align="center">
-<img src="Hardware_Configuration/3DR_IRIS/README_PICS/High_Power_Wireless_Router_TL-WR841HP.jpg" height="300"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg" height="150"> 
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/High_Power_Wireless_Router_TL-WR841HP.jpg" height="300"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg" height="100"> 
 </p>
 <p align="center">
 High Power Wireless Router (left) and USB WiFi Adapter (right)
@@ -133,11 +133,11 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 </p>
 
 #### g) COMMUNICATION SYSTEM
-The inter-drone communication method is the same with 3DR iris+. We use wifi for communication between drones. Please see [the description of communication system of 3DR iris+ drone]() for details. 
+The inter-drone communication method is the same with 3DR iris+. We use wifi for communication between drones. Please see [the description of communication system of 3DR iris+ drone](https://github.com/FlyingCatAlex/Autonomous_UAVs_Swarm_Mission/blob/master/README.md#f-communication-system) for details. 
 ```
 - Communication with Companion Computer: USB to serial port adapter
 - Communication with Other Drones: Wifi via ground-based wireless router
-- Manually Control: FrSky Taranis X9D Plus Digital Telemetry Radio with X8R Telemetry Receiver
+- Manual Control: FrSky Taranis X9D Plus Digital Telemetry Radio with X8R Telemetry Receiver
 ```
 
 <p align="center">
