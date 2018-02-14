@@ -26,7 +26,7 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 </p>
 
 #### b) AUTOPILOT SYSTEM
-The autopilot system shipped with iris+ drone is [Pixhawk v2.4.5](Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg) with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details.
+The autopilot system shipped with iris+ drone is [Pixhawk](Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg) with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details.
 ```
 - Autopilot: Pixhawk 1
 - Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
@@ -65,7 +65,14 @@ Original iris+ drone does not have any vision system. I designed and assembled t
 </p>
 
 #### f) COMMUNICATION SYSTEM
-Original iris+ drone is shipped with RC radio and 3DR radio. An operator can control iris+ maually with RC radio, or control it through ground station installed on computer with 3DR radio. In this project, the mission planning tasks are done by on board computer (companion computer), so there is no need to use a ground station. I removed the 3DR radio and reserve the telemetry port for on board computer. The port TELEM 2 on pixhawk is connected to companion computer via [USB to serial adapter](Hardware_Configuration/3DR_IRIS/README_PICS/USB_to_Serial_Adapter.jpg), and the port TELEM 1 on pixhawk is connected to RC radio receiver. Please refer to [this guide](http://ardupilot.org/dev/docs/odroid-via-mavlink.html) to hook up pixhawk with companion computer. The communication between drones are achieved via WiFi. A [USB WiFi adapter](Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg) is plugged to the usb port of companion computer to send and receive messages.
+Original iris+ drone is shipped with RC radio and 3DR radio. An operator can control iris+ maually with RC radio, or control it through ground station installed on computer with 3DR radio. In this project, the mission planning tasks are done by on board computer (companion computer), so there is no need to use a ground station. I removed the 3DR radio and reserve the telemetry port for on board computer. The port TELEM 2 on pixhawk is connected to companion computer via [USB to serial adapter](Hardware_Configuration/3DR_IRIS/README_PICS/USB_to_Serial_Adapter.jpg), and the port TELEM 1 on pixhawk is connected to RC radio receiver. Please refer to [this guide](http://ardupilot.org/dev/docs/odroid-via-mavlink.html) to hook up pixhawk with companion computer. The communication between drones are achieved via WiFi. The communication between drones is achieved by wifi via wireless router on ground. A [USB WiFi adapter](Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg) is plugged to the usb port of companion computer to send and receive messages.
+
+<p align="center">
+<img src="Hardware_Configuration/3DR_IRIS/README_PICS/High_Power_Wireless_Router_TL-WR841HP.jpg" height="250"> <img src="Hardware_Configuration/3DR_IRIS/README_PICS/Panda_Wireless_USB_WiFi_Adapter.jpg" height="250"> 
+</p>
+<p align="center">
+High Power Wireless Router (left) and USB WiFi Adapter (right)
+</p>
 
 #### g) FINAL PRODUCT
 The following pictures show bottom view of the modified 3DR iris+ drone. In practical, a case covers on the companion computer to protect it from damage in case of crash, and the USB wifi adapter and USB to Serial adapter are fixed on each side of the companion computer.
@@ -122,12 +129,16 @@ Lidar Scanner: Sweep V1 360° Laser Scanner
 
 #### g) COMMUNICATION SYSTEM
 ```
-- Communication with Companion Computer: USB to Serial Adapter
+- Communication with Companion Computer: USB to Serial port Adapter
+- Communication with Other Drones: Wifi via Ground-Based Wireless Router
 - Manually Control: FrSky Taranis X9D Plus Digital Telemetry Radio with X8R Telemetry Receiver
 ```
 
 <p align="center">
 <img src="Hardware_Configuration/TAROT_650/README_PICS/FrSky_Taranis_X9D_Plus_Digital_Telemetry_Radio.jpg" height="250"> <img src="Hardware_Configuration/TAROT_650/README_PICS/X8R_Telemetry_Receiver.jpg" height="250"> 
+</p>
+<p align="center">
+FrSky Taranis X9D Plus Digital Telemetry Radio (left) and X8R Telemetry Receiver (right)
 </p>
 
 #### h) FINAL PRODUCT
@@ -144,7 +155,7 @@ Below is the fully assembled four Tarot Iron Man 650 drones. It shows that all d
   <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot_Iron_Man_650_Swarm.gif" width="600">
 </p>
 
-Below is the flight test. All drones work well. The flight time is more than 40 minutes per fully charge with all payload (Lidar, Stereo Vision Camera, Companion computer, and so on). The is sufficient flight time for most missions. The flight time is also the top rank in all off-the-shelf products.
+Below is the flight test. All drones work well. The flight time is more than 40 minutes per fully charge with all payload (Lidar, Stereo Vision Camera, Companion computer, and so on), which is sufficient for most missions. The flight time is much longer than most of other off-the-shelf products in market.
 
 <p align="center">
   <img src="Hardware_Configuration/TAROT_650/README_PICS/Tarot650_Flight_Test.gif" width="600">
