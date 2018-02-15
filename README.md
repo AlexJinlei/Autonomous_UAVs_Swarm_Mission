@@ -342,6 +342,8 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 - [curvature_flight_main_follower.py](Drone_Matrix_Curvature_Flight/curvature_flight_main_follower.py) is similar to [formation_main_follower.py](Drone_Matrix_Formation_Flight/formation_main_follower.py)
 - [curvature_flight_function.py](Drone_Matrix_Curvature_Flight/curvature_flight_function.py) is similar to [formation_function.py](Drone_Matrix_Formation_Flight/formation_function.py)
 
+[Drone_Matrix_Balloon_Hunter](Drone_Matrix_Balloon_Hunter/) is the final version of this project. Though its name is balloon hunter, it is able to execute all missions completed by [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/) and [Drone_Matrix_Curvature_Flight](Drone_Matrix_Curvature_Flight/). The stereo vision system is implemented, which enables the drone troop to perform more complicated missions involving object detection and recognition requirement.
+
 Since []() is the 
 
 ## 5. MISSIONS
