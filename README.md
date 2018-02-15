@@ -336,6 +336,11 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 - [formation_main_follower.py](Drone_Matrix_Formation_Flight/formation_main_follower.py) is the main function for the follower code. It starts the client and server services on the follower drone. All the things that follower drones do are receiving and executing the commands from leader drone, and send their own status to the leader drone on demand.
 - [formation_function.py](Drone_Matrix_Formation_Flight/formation_function.py) is the shared code for both leader and follower drones. All the functions which may be called by leader drone or follower drone are in this code.
 
+[Drone_Matrix_Curvature_Flight](Drone_Matrix_Curvature_Flight/) is a improved version based on [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/). In this subproject, some new functions are added to achieve more complicated flight track. An execution queue is implemented to store the movement commands. The architechture is similar to its predecessor's.
+- [circle_flight_main_leader.py](Drone_Matrix_Curvature_Flight/circle_flight_main_leader.py)
+- [circle_flight_main_follower.py](Drone_Matrix_Curvature_Flight/circle_flight_main_follower.py)
+- [circle_flight_function.py](Drone_Matrix_Curvature_Flight/circle_flight_function.py)
+
 Since []() is the 
 
 ## 5. MISSIONS
