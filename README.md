@@ -360,8 +360,15 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 
 ### 2) FEATURED BY THIS PROJECT
 - Automatically return to launch point when wifi signal lost.
+- Collision avoidance using stereo vision camera and sonar. (To be done)
+- Collision avoidance using 360 rotating scanner lidar. (To be done)
 
-## 6. MISSIONS
+## 6. ADVANCED FEATURES
+The hardware platform enable us to do more advance missions. However, the software is to be developled.
+- SLAM
+- Auto Formation and Re-configuration
+
+## 7. MISSIONS
 ### 1) FORMATION FLIGHT
 #### OBJECTIVE
 
