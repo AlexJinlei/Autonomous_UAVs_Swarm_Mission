@@ -352,7 +352,16 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
     - [v4l2.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2.py) is video for linux 2 (v4l2) device python API.
     - [v4l2_device.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2_device.py) is stereo vision camera device class.
 
-## 5. MISSIONS
+## 5. SAFETY FEATURES
+### 1) FEATURED BY ARDUPILOT FIRMWARE
+- Automatically return to launch point when voltage is low.
+- Automatically return to launch point when GPS signal lost.
+- Automatically return to launch point when Radio controller signal lost.
+
+### 2) FEATURED BY THIS PROJECT
+- Automatically return to launch point when wifi signal lost.
+
+## 6. MISSIONS
 ### 1) FORMATION FLIGHT
 #### OBJECTIVE
 
