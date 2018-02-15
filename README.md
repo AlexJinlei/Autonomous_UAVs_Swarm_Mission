@@ -26,7 +26,7 @@ This Drone platform is modified from 3DR iris+ drone, and the mechanical system 
 </p>
 
 #### b) AUTOPILOT SYSTEM
-The autopilot system shipped with iris+ drone is [Pixhawk](Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg) with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details.
+The autopilot system shipped with iris+ drone is [Pixhawk](Hardware_Configuration/3DR_IRIS/README_PICS/Pixhawk.jpg) with firmware ArduCopter v3.2. I upgraded the firmeare to ArduCopter v3.3.3. All the software packages are tested with ArduCopter v3.3.3, and are guaranteed to work well. Please refer to [pixhawk official website](https://pixhawk.org) for details. The firmware is from ArduPilot open source project. Please refer to [ArduPilot official website](http://ardupilot.org/) for the introduction on this project and the instruction on how to flash firmeware and set parameters.
 ```
 - Autopilot: Pixhawk 1
 - Firmware: ArduCopter v3.3.3 (upgraded from original v3.2)
@@ -103,6 +103,7 @@ The following pictures show bottom view of the modified 3DR iris+ drone. In prac
 </p>
 
 #### b) AUTOPILOT SYSTEM
+We use pixhawk 2.1 autopilot flight controller from [pixhawk open source hardware project](https://pixhawk.org/) and ArduCopter firmware from [ArduPilot open source autopilot project](http://ardupilot.org/).
 ```
 - Autopilot: Pixhawk 2.1
 - Firmware: ArduCopter v3.5
