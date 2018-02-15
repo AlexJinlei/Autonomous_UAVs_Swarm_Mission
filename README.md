@@ -337,9 +337,9 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 - [formation_function.py](Drone_Matrix_Formation_Flight/formation_function.py) is the shared code for both leader and follower drones. All the functions which may be called by leader drone or follower drone are in this code.
 
 [Drone_Matrix_Curvature_Flight](Drone_Matrix_Curvature_Flight/) is a improved version based on [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/). In this subproject, some new functions are added to achieve more complicated flight track. An execution queue is implemented to store the movement commands. The architechture is similar to its predecessor's.
-- [circle_flight_main_leader.py](Drone_Matrix_Curvature_Flight/circle_flight_main_leader.py)
-- [circle_flight_main_follower.py](Drone_Matrix_Curvature_Flight/circle_flight_main_follower.py)
-- [circle_flight_function.py](Drone_Matrix_Curvature_Flight/circle_flight_function.py)
+- [curvature_flight_main_leader.py](Drone_Matrix_Curvature_Flight/curvature_flight_main_leader.py)
+- [curvature_flight_main_follower.py](Drone_Matrix_Curvature_Flight/curvature_flight_main_follower.py)
+- [curvature_flight_function.py](Drone_Matrix_Curvature_Flight/curvature_flight_function.py)
 
 Since []() is the 
 
