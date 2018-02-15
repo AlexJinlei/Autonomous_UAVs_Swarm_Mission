@@ -354,13 +354,14 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 
 ## 5. MISSIONS
 ### 1) FORMATION FLIGHT
-#### Objective
-#### Result
+#### OBJECTIVE
+
+#### RESULT
 
 ### 2) CURVATUR FLIGHT
-#### Objective
-#### Result
+#### OBJECTIVE
+#### RESULT
 
 ### 3) BALLOON HUNTER
-#### Objective
-#### Result
+#### OBJECTIVE
+#### RESULT
