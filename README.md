@@ -342,9 +342,15 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 - [curvature_flight_main_follower.py](Drone_Matrix_Curvature_Flight/curvature_flight_main_follower.py) is similar to [formation_main_follower.py](Drone_Matrix_Formation_Flight/formation_main_follower.py)
 - [curvature_flight_function.py](Drone_Matrix_Curvature_Flight/curvature_flight_function.py) is similar to [formation_function.py](Drone_Matrix_Formation_Flight/formation_function.py)
 
-[Drone_Matrix_Balloon_Hunter](Drone_Matrix_Balloon_Hunter/) is the final version of this project. Though its name is balloon hunter, it is able to execute all missions completed by [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/) and [Drone_Matrix_Curvature_Flight](Drone_Matrix_Curvature_Flight/). The stereo vision system is implemented, which enables the drone troop to perform more complicated missions involving object detection and recognition requirement.
+[Drone_Matrix_Balloon_Hunter](Drone_Matrix_Balloon_Hunter/) is the final version of this project. Though its name is balloon hunter, it is able to execute all missions completed by [Drone_Matrix_Formation_Flight](Drone_Matrix_Formation_Flight/) and [Drone_Matrix_Curvature_Flight](Drone_Matrix_Curvature_Flight/). The stereo vision system is implemented, which enables the drone troop to perform more complicated missions involving object detection and recognition requirement. Since the []() is the latest version. I will emphasize on its architecture.
 
-Since []() is the 
+- [balloon_finder_leader.py](Drone_Matrix_Balloon_Hunter/balloon_finder_leader.py) is the main function runs on the leader drone.
+- [balloon_finder_follower.py](Drone_Matrix_Balloon_Hunter/balloon_finder_follower.py) is the main function runs on the follower drones.
+-[MyPythonModule](Drone_Matrix_Balloon_Hunter/MyPythonModule/)
+ - [DroneControlFunction.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/DroneControlFunction.py)
+ - [ObjectDetection.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/ObjectDetection.py)
+ - [v4l2.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2.py)
+ - [v4l2_device.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2_device.py) 
 
 ## 5. MISSIONS
 ### 1) FORMATION FLIGHT
