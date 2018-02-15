@@ -346,11 +346,11 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 
 - [balloon_finder_leader.py](Drone_Matrix_Balloon_Hunter/balloon_finder_leader.py) is the main function runs on the leader drone.
 - [balloon_finder_follower.py](Drone_Matrix_Balloon_Hunter/balloon_finder_follower.py) is the main function runs on the follower drones.
-- [MyPythonModule](Drone_Matrix_Balloon_Hunter/MyPythonModule/): A module used by both leader drone and follower drones. All functions are in this module.  
-  - [DroneControlFunction.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/DroneControlFunction.py): Drone control functions.
-  - [ObjectDetection.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/ObjectDetection.py): Stereo vision and object detection functions.
-  - [v4l2.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2.py): Video for linux 2 (v4l2) device python API.
-  - [v4l2_device.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2_device.py): Stereo vision camera device class.
+- [MyPythonModule](Drone_Matrix_Balloon_Hunter/MyPythonModule/) - A module used by both leader drone and follower drones. All functions are in this module.  
+  - [DroneControlFunction.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/DroneControlFunction.py) is drone control functions.
+  - [ObjectDetection.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/ObjectDetection.py) is stereo vision and object detection functions.
+  - [v4l2.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2.py) is video for linux 2 (v4l2) device python API.
+  - [v4l2_device.py](Drone_Matrix_Balloon_Hunter/MyPythonModule/v4l2_device.py) is stereo vision camera device class.
 
 ## 5. MISSIONS
 ### 1) FORMATION FLIGHT
