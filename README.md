@@ -371,6 +371,9 @@ The hardware platform enable us to do more advance missions. However, the softwa
 ## 7. MISSIONS
 ### 1) FORMATION FLIGHT
 #### OBJECTIVE
+Drone troop flys in specified formations. Change formation in flight.
+Actions: Take off -> Square formation -> Diamond formation -> Triangle formation -> Return to launch point
+
 
 #### RESULT
 
