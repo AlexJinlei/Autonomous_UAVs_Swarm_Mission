@@ -395,7 +395,9 @@ Video (Click to watch in Youtube):
 
 ### 2) CURVATUR FLIGHT
 #### OBJECTIVE
+Formation flight along complicated curved path.
 #### RESULT
+Tested triangle formation flight in "8" shape loop
 
 ### 3) BALLOON HUNTER
 #### OBJECTIVE
