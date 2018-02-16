@@ -390,7 +390,7 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 
 Video:
 <p align="center">
-[<img src="Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview.jpg" width="790">](https://youtu.be/soto34wwzAU)
+[<img src="Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview.jpg" width="850">](https://youtu.be/soto34wwzAU)
 </p>
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
