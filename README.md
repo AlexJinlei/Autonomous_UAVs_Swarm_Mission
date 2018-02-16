@@ -388,6 +388,9 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 	<img src="Drone_Matrix_Formation_Flight/PICS/3_triangle.jpg" height="200"> 
 </p>
 
+Video:
+
+[![](Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Video_Thumbnail.png)](https://youtu.be/soto34wwzAU)
 
 ### 2) CURVATUR FLIGHT
 #### OBJECTIVE
