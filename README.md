@@ -381,16 +381,16 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 #### RESULT
 
 <p align="center">
-	<img src="Drone_Matrix_Formation_Flight/PICS/1_square.jpg" width="250">
+	<img src="Drone_Matrix_Formation_Flight/PICS/1_square.jpg" width="280">
 	<img src="Drone_Matrix_Formation_Flight/PICS/arrow_right.png" width="20">
-	<img src="Drone_Matrix_Formation_Flight/PICS/2_diamond.jpg" width="250">
+	<img src="Drone_Matrix_Formation_Flight/PICS/2_diamond.jpg" width="280">
 	<img src="Drone_Matrix_Formation_Flight/PICS/arrow_right.png" width="20">
-	<img src="Drone_Matrix_Formation_Flight/PICS/3_triangle.jpg" width="250"> 
+	<img src="Drone_Matrix_Formation_Flight/PICS/3_triangle.jpg" width="280"> 
 </p>
 
 Video:
 <p align="center">
-[<img src="Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview.jpg" width="850">](https://youtu.be/soto34wwzAU)
+[<img src="Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview.jpg" width="800">](https://youtu.be/soto34wwzAU)
 </p>
 
 [![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
