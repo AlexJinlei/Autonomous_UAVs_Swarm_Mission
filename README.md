@@ -360,6 +360,7 @@ As mentioned in [DESCRIPTION](https://github.com/FlyingCatAlex/Autonomous_UAVs_S
 
 ### 2) FEATURED BY THIS PROJECT
 - Automatically return to launch point when wifi signal lost.
+- Realtime flight log. This is a [log sample](Drone_Matrix_Formation_Flight/DOCS/FlightLog_iris1_20161031_16-59-55.txt)
 - Collision avoidance using stereo vision camera and sonar. (To be done)
 - Collision avoidance using 360 rotating scanner lidar. (To be done)
 
