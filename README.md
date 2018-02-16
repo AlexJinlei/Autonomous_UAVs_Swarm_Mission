@@ -390,7 +390,7 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 
 Video:
 <p align="center">
-[<img src="Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview.jpg" width="800">](https://youtu.be/soto34wwzAU)
+<img src="Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview.jpg" width="800">(https://youtu.be/soto34wwzAU)
 </p>
 
 ### 2) CURVATUR FLIGHT
