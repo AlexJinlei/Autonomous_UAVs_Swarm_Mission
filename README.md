@@ -381,7 +381,7 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 #### RESULT
 
 <p align="center">
-<img src="Drone_Matrix_Formation_Flight/PICS/1_square.jpg" height="200"> <img src="Drone_Matrix_Formation_Flight/PICS/Arrow.jpg" width="20"> <img src="Drone_Matrix_Formation_Flight/PICS/2_diamond.jpg" height="200"> <img src="Drone_Matrix_Formation_Flight/PICS/Arrow.jpg" width="20"> <img src="Drone_Matrix_Formation_Flight/PICS/3_triangle.jpg" height="200"> 
+<img src="Drone_Matrix_Formation_Flight/PICS/1_square.jpg" height="220"> <img src="Drone_Matrix_Formation_Flight/PICS/Arrow.jpg" width="20"> <img src="Drone_Matrix_Formation_Flight/PICS/2_diamond.jpg" height="220"> <img src="Drone_Matrix_Formation_Flight/PICS/Arrow.jpg" width="20"> <img src="Drone_Matrix_Formation_Flight/PICS/3_triangle.jpg" height="220"> 
 </p>
 
 
