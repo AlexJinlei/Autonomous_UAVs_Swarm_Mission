@@ -392,6 +392,8 @@ Video:
 
 [![](Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Video_Thumbnail.png)](https://youtu.be/soto34wwzAU)
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
 ### 2) CURVATUR FLIGHT
 #### OBJECTIVE
 #### RESULT
