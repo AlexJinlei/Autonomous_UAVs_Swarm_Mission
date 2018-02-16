@@ -390,7 +390,7 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 
 Video:
 <p align="center">
-<img src="https://youtu.be/soto34wwzAU" width="800">
+<img src="https://www.youtube.com/watch?v=soto34wwzAU#action=share" width="800">
 </p>
 
 ### 2) CURVATUR FLIGHT
