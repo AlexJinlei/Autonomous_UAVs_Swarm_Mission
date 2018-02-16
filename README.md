@@ -390,9 +390,8 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 
 Video (Click to watch in Youtube):
 
-<p align="center">
-[![watch the video](Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview_w800.jpg)](https://youtu.be/soto34wwzAU)
-</p>
+	[![watch the video](Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview_w800.jpg)](https://youtu.be/soto34wwzAU)
+
 
 ### 2) CURVATUR FLIGHT
 #### OBJECTIVE
