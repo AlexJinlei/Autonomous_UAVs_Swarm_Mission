@@ -1,0 +1,1818 @@
+Mon Oct 31 16:59:55 2016 - This is a leader drone.
+Mon Oct 31 16:59:55 2016 - local_host = 192.168.2.101.
+Mon Oct 31 16:59:55 2016 - This drone is iris1
+Mon Oct 31 16:59:55 2016 - local_host = 192.168.2.101.
+Mon Oct 31 16:59:55 2016 - This drone is iris1
+Mon Oct 31 16:59:55 2016 - Connecting to vehicle...
+Mon Oct 31 17:00:05 2016 - Vehicle is connected!
+Mon Oct 31 17:00:05 2016 - Thread SERVER_send_gps_coordinate is started!
+Mon Oct 31 17:00:05 2016 - SERVER_send_gps_coordinate() is started!
+ Mon Oct 31 17:00:05 2016 - Thread SERVER_send_heading_direction is started!
+Mon Oct 31 17:00:05 2016 - SERVER_send_heading_direction() is started!
+Mon Oct 31 17:00:05 2016 - Thread SERVER_send_status has started!
+ Mon Oct 31 17:00:05 2016 - SERVER_send_status() is started!
+Mon Oct 31 17:00:05 2016 - CHECK_network_connection(192.168.2.1) is started.
+Mon Oct 31 17:00:05 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:00:08 2016 - Arming motors...
+Mon Oct 31 17:00:11 2016 - Vehicle mode is changed to GUIDED
+Mon Oct 31 17:00:11 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:14 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:15 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:00:17 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:20 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:23 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:25 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:00:26 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:29 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:32 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:35 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:35 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:00:38 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:41 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:44 2016 - Vehicle is not armed, try to arm vehicle again...
+Mon Oct 31 17:00:45 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:00:48 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:48 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:48 2016 - Wait for 1 second.
+Mon Oct 31 17:00:49 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:49 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:49 2016 - Wait for 1 second.
+Mon Oct 31 17:00:50 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:50 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:50 2016 - Wait for 1 second.
+Mon Oct 31 17:00:51 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:51 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:51 2016 - Wait for 1 second.
+Mon Oct 31 17:00:52 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:52 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:52 2016 - Wait for 1 second.
+Mon Oct 31 17:00:53 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:53 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:53 2016 - Wait for 1 second.
+Mon Oct 31 17:00:54 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:54 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:54 2016 - Wait for 1 second.
+Mon Oct 31 17:00:56 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:00:56 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:00:56 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:56 2016 - Wait for 1 second.
+Mon Oct 31 17:00:57 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:57 2016 - Wait for 1 second.
+Mon Oct 31 17:00:58 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:58 2016 - Wait for 1 second.
+Mon Oct 31 17:00:59 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:00:59 2016 - Wait for 1 second.
+Mon Oct 31 17:01:00 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:00 2016 - Wait for 1 second.
+Mon Oct 31 17:01:01 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:01 2016 - Wait for 1 second.
+Mon Oct 31 17:01:03 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:03 2016 - Wait for 1 second.
+Mon Oct 31 17:01:04 2016 - Home GPS coordinate :
+     leader_lat_home = 34.7839521
+     leader_lon_home = -86.5786019
+     leader_alt_home = 0.0 (relative)
+
+Mon Oct 31 17:01:04 2016 - Sending immediate command to : 192.168.2.102.
+
+Mon Oct 31 17:01:04 2016 - Executing takeoff_and_hover().
+Mon Oct 31 17:01:04 2016 - Current Altitude: 0.0 m
+Mon Oct 31 17:01:04 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839521, lon=-86.5786019, alt(above sea leavel)=213.64
+     Global Location (relative altitude): lat=34.7839521, lon=-86.5786019, alt(relative)=0.0
+     Local Location(NED coordinate): north=0.479448854923, east=0.285128414631, down=0.0532394424081
+     Attitude(radians): Pitch=0.00499853398651, Yaw=2.96075105667, Roll=0.00514428317547
+     Velocity: Vx=0.0, Vy=0.0, Vz=0.01
+     GPS Info: fix_type=3, num_sat=9
+     Battery: voltage=11.526V, current=1.16A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 169 (degrees from North)
+     Groundspeed: 0.0799999982119 m/s
+     Airspeed: 0.0799999982119 m/s
+
+
+Mon Oct 31 17:01:04 2016 - Sending immediate command to : 192.168.2.103.
+Mon Oct 31 17:01:05 2016 - Current Altitude: 0.01 m
+Mon Oct 31 17:01:05 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839522, lon=-86.5786015, alt(above sea leavel)=213.65
+     Global Location (relative altitude): lat=34.7839522, lon=-86.5786015, alt(relative)=0.01
+     Local Location(NED coordinate): north=0.49052515626, east=0.328620284796, down=0.0430602356791
+     Attitude(radians): Pitch=0.00400034058839, Yaw=2.96152329445, Roll=0.00586594548076
+     Velocity: Vx=0.0, Vy=-0.01, Vz=0.02
+     GPS Info: fix_type=3, num_sat=9
+     Battery: voltage=11.614V, current=7.85A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 169 (degrees from North)
+     Groundspeed: 0.0799999982119 m/s
+     Airspeed: 0.0799999982119 m/s
+
+
+Mon Oct 31 17:01:05 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:05 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:05 2016 - Wait for 1 second.
+Mon Oct 31 17:01:06 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:01:06 2016 - Current Altitude: 0.21 m
+Mon Oct 31 17:01:06 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839515, lon=-86.5786014, alt(above sea leavel)=213.85
+     Global Location (relative altitude): lat=34.7839515, lon=-86.5786014, alt(relative)=0.21
+     Local Location(NED coordinate): north=0.41159388423, east=0.336475908756, down=-0.164915218949
+     Attitude(radians): Pitch=0.0255065392703, Yaw=2.97368717194, Roll=-0.0105189252645
+     Velocity: Vx=-0.18, Vy=-0.07, Vz=0.86
+     GPS Info: fix_type=3, num_sat=9
+     Battery: voltage=11.358V, current=20.49A, level=99%
+     Sonar distance: 1.15999996662 m
+     Heading: 170 (degrees from North)
+     Groundspeed: 0.239999994636 m/s
+     Airspeed: 0.239999994636 m/s
+
+
+Mon Oct 31 17:01:06 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:06 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:06 2016 - Wait for 1 second.
+Mon Oct 31 17:01:07 2016 - Current Altitude: 2.08 m
+Mon Oct 31 17:01:07 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839503, lon=-86.5786017, alt(above sea leavel)=215.72
+     Global Location (relative altitude): lat=34.7839503, lon=-86.5786017, alt(relative)=2.08
+     Local Location(NED coordinate): north=0.285874605179, east=0.30194440484, down=-2.02962493896
+     Attitude(radians): Pitch=0.0138364853337, Yaw=2.98656392097, Roll=-0.0138642359525
+     Velocity: Vx=0.07, Vy=-0.08, Vz=1.87
+     GPS Info: fix_type=3, num_sat=9
+     Battery: voltage=11.226V, current=19.91A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.189999997616 m/s
+     Airspeed: 0.189999997616 m/s
+
+
+Mon Oct 31 17:01:07 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:07 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:07 2016 - Wait for 1 second.
+Mon Oct 31 17:01:08 2016 - Current Altitude: 3.48 m
+Mon Oct 31 17:01:08 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839511, lon=-86.5786025, alt(above sea leavel)=217.12
+     Global Location (relative altitude): lat=34.7839511, lon=-86.5786025, alt(relative)=3.48
+     Local Location(NED coordinate): north=0.371944665909, east=0.232486203313, down=-3.43893051147
+     Attitude(radians): Pitch=-0.00437112385407, Yaw=2.9867503643, Roll=-0.00353580899537
+     Velocity: Vx=0.09, Vy=-0.02, Vz=2.09
+     GPS Info: fix_type=3, num_sat=9
+     Battery: voltage=11.309V, current=19.66A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.42999997735 m/s
+     Airspeed: 0.42999997735 m/s
+
+
+Mon Oct 31 17:01:08 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:08 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:08 2016 - Wait for 1 second.
+Mon Oct 31 17:01:09 2016 - Current Altitude: 5.94 m
+Mon Oct 31 17:01:09 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839537, lon=-86.5786012, alt(above sea leavel)=219.58
+     Global Location (relative altitude): lat=34.7839537, lon=-86.5786012, alt(relative)=5.94
+     Local Location(NED coordinate): north=0.667305350304, east=0.350029081106, down=-5.89203310013
+     Attitude(radians): Pitch=-0.0212735105306, Yaw=2.99458742142, Roll=0.0132238995284
+     Velocity: Vx=0.0, Vy=-0.03, Vz=2.31
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.303V, current=19.29A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.25 m/s
+     Airspeed: 0.25 m/s
+
+
+Mon Oct 31 17:01:09 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:09 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:09 2016 - Wait for 1 second.
+Mon Oct 31 17:01:10 2016 - Current Altitude: 8.0 m
+Mon Oct 31 17:01:10 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839531, lon=-86.578602, alt(above sea leavel)=221.64
+     Global Location (relative altitude): lat=34.7839531, lon=-86.578602, alt(relative)=8.0
+     Local Location(NED coordinate): north=0.597673416138, east=0.28136330843, down=-7.95340776443
+     Attitude(radians): Pitch=0.0092652849853, Yaw=2.98967933655, Roll=-0.0233825519681
+     Velocity: Vx=-0.01, Vy=-0.03, Vz=2.32
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.379V, current=18.92A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.109999999404 m/s
+     Airspeed: 0.109999999404 m/s
+
+
+Mon Oct 31 17:01:10 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:10 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:10 2016 - Wait for 1 second.
+Mon Oct 31 17:01:11 2016 - Current Altitude: 10.08 m
+Mon Oct 31 17:01:11 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839529, lon=-86.5786023, alt(above sea leavel)=223.72
+     Global Location (relative altitude): lat=34.7839529, lon=-86.5786023, alt(relative)=10.08
+     Local Location(NED coordinate): north=0.575610518456, east=0.250125229359, down=-10.0369920731
+     Attitude(radians): Pitch=-0.00696147559211, Yaw=2.99867200851, Roll=-0.0103765241802
+     Velocity: Vx=-0.01, Vy=0.07, Vz=2.31
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.189V, current=19.25A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.280000001192 m/s
+     Airspeed: 0.280000001192 m/s
+
+
+Mon Oct 31 17:01:11 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:11 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:11 2016 - Wait for 1 second.
+Mon Oct 31 17:01:12 2016 - Current Altitude: 12.16 m
+Mon Oct 31 17:01:12 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839532, lon=-86.5786022, alt(above sea leavel)=225.8
+     Global Location (relative altitude): lat=34.7839532, lon=-86.5786022, alt(relative)=12.16
+     Local Location(NED coordinate): north=0.601534605026, east=0.255764275789, down=-12.1195230484
+     Attitude(radians): Pitch=-0.010480989702, Yaw=2.99416923523, Roll=-0.00621606037021
+     Velocity: Vx=-0.05, Vy=0.04, Vz=2.31
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.286V, current=19.42A, level=99%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.219999998808 m/s
+     Airspeed: 0.219999998808 m/s
+
+
+Mon Oct 31 17:01:12 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:12 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:12 2016 - Wait for 1 second.
+Mon Oct 31 17:01:13 2016 - Current Altitude: 14.21 m
+Mon Oct 31 17:01:13 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839524, lon=-86.5786028, alt(above sea leavel)=227.85
+     Global Location (relative altitude): lat=34.7839524, lon=-86.5786028, alt(relative)=14.21
+     Local Location(NED coordinate): north=0.520360410213, east=0.204031735659, down=-14.1662111282
+     Attitude(radians): Pitch=0.0090298159048, Yaw=2.99409508705, Roll=-0.012318206951
+     Velocity: Vx=-0.06, Vy=0.04, Vz=2.31
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.23V, current=18.68A, level=98%
+     Sonar distance: 7.17999982834 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.0799999982119 m/s
+     Airspeed: 0.0799999982119 m/s
+
+
+Mon Oct 31 17:01:13 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:13 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:13 2016 - Wait for 1 second.
+Mon Oct 31 17:01:14 2016 - Current Altitude: 16.21 m
+Mon Oct 31 17:01:14 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839517, lon=-86.5786022, alt(above sea leavel)=229.85
+     Global Location (relative altitude): lat=34.7839517, lon=-86.5786022, alt(relative)=16.21
+     Local Location(NED coordinate): north=0.440918982029, east=0.262365847826, down=-16.1650924683
+     Attitude(radians): Pitch=0.014949657023, Yaw=2.99350667, Roll=-0.00558125041425
+     Velocity: Vx=-0.01, Vy=0.04, Vz=2.3
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.206V, current=18.17A, level=98%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.140000000596 m/s
+     Airspeed: 0.140000000596 m/s
+
+
+Mon Oct 31 17:01:14 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:14 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:14 2016 - Wait for 1 second.
+Mon Oct 31 17:01:15 2016 - Current Altitude: 18.01 m
+Mon Oct 31 17:01:15 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839521, lon=-86.578602, alt(above sea leavel)=231.65
+     Global Location (relative altitude): lat=34.7839521, lon=-86.578602, alt(relative)=18.01
+     Local Location(NED coordinate): north=0.479811191559, east=0.278882354498, down=-17.9579925537
+     Attitude(radians): Pitch=-0.016823656857, Yaw=2.99552154541, Roll=0.00648532249033
+     Velocity: Vx=0.04, Vy=0.03, Vz=1.77
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.518V, current=15.83A, level=98%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.170000001788 m/s
+     Airspeed: 0.170000001788 m/s
+
+
+Mon Oct 31 17:01:15 2016 - Host 192.168.2.102 is not ready.
+Mon Oct 31 17:01:15 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:01:15 2016 - Wait for 1 second.
+Mon Oct 31 17:01:16 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:01:16 2016 - Current Altitude: 19.16 m
+Mon Oct 31 17:01:16 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839531, lon=-86.5786007, alt(above sea leavel)=232.8
+     Global Location (relative altitude): lat=34.7839531, lon=-86.5786007, alt(relative)=19.16
+     Local Location(NED coordinate): north=0.596307277679, east=0.398232758045, down=-19.1109542847
+     Attitude(radians): Pitch=-0.00549571728334, Yaw=2.99188613892, Roll=0.0191652346402
+     Velocity: Vx=-0.06, Vy=0.01, Vz=0.8
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.266V, current=15.69A, level=98%
+     Sonar distance: 7.63999986649 m
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.25 m/s
+     Airspeed: 0.25 m/s
+
+
+Mon Oct 31 17:01:16 2016 - Reached target altitude!
+
+Mon Oct 31 17:01:16 2016 - After taking off and hover, Leader's GPS coordinate : lat=34.7839531, lon=-86.5786007, alt_relative=19.16
+Mon Oct 31 17:01:16 2016 - Leader current heading is 171 degree.
+Mon Oct 31 17:01:16 2016 - Leader is going to pointA : (34.783775, -86.5785665)
+
+Mon Oct 31 17:01:16 2016 - Sending command fly_follow() to follower1.
+
+Mon Oct 31 17:01:16 2016 - Calling goto_gps_location_relative(lat=34.783775, lon=-86.5785665, alt=20, groundspeed=1).
+Mon Oct 31 17:01:16 2016 - Before calling goto_gps_location_relative(), vehicle state is:
+Mon Oct 31 17:01:16 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7839531, lon=-86.5786007, alt(above sea leavel)=232.8
+     Global Location (relative altitude): lat=34.7839531, lon=-86.5786007, alt(relative)=19.16
+     Local Location(NED coordinate): north=0.596307277679, east=0.398232758045, down=-19.1109542847
+     Attitude(radians): Pitch=-0.00549571728334, Yaw=2.99188613892, Roll=0.0191652346402
+     Velocity: Vx=-0.06, Vy=0.01, Vz=0.8
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.266V, current=15.69A, level=98%
+     Sonar distance: 7.63999986649 m
+ Mon Oct 31 17:01:16 2016 - Sending command fly_follow() to follower2.
+     Heading: 171 (degrees from North)
+     Groundspeed: 0.189999997616 m/s
+     Airspeed: 0.189999997616 m/s
+Mon Oct 31 17:01:16 2016 - Received GPS coordinate request from ('192.168.2.102', 39522).
+Mon Oct 31 17:01:16 2016 - Received GPS coordinate request from ('192.168.2.103', 51610).
+Mon Oct 31 17:01:16 2016 - Received heading direction request from ('192.168.2.102', 43384).
+Mon Oct 31 17:01:16 2016 - Received heading direction request from ('192.168.2.103', 53660).
+Mon Oct 31 17:01:17 2016 - Horizontal distance to destination: 20.0247220379 m.
+Mon Oct 31 17:01:17 2016 - Perpendicular distance to destination: -0.67 m.
+Mon Oct 31 17:01:17 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:17 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:17 2016 - Received GPS coordinate request from ('192.168.2.102', 39526).
+Mon Oct 31 17:01:17 2016 - Received heading direction request from ('192.168.2.102', 43388).
+Mon Oct 31 17:01:17 2016 - Received GPS coordinate request from ('192.168.2.103', 51614).
+Mon Oct 31 17:01:17 2016 - Received heading direction request from ('192.168.2.103', 53664).
+Mon Oct 31 17:01:17 2016 - Horizontal distance to destination: 19.8756547598 m.
+Mon Oct 31 17:01:17 2016 - Perpendicular distance to destination: -0.58 m.
+Mon Oct 31 17:01:17 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:17 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:17 2016 - Received GPS coordinate request from ('192.168.2.102', 39530).
+Mon Oct 31 17:01:17 2016 - Received GPS coordinate request from ('192.168.2.103', 51618).
+ Mon Oct 31 17:01:17 2016 - Received heading direction request from ('192.168.2.102', 43392).
+Mon Oct 31 17:01:17 2016 - Received heading direction request from ('192.168.2.103', 53668).
+Mon Oct 31 17:01:18 2016 - Horizontal distance to destination: 19.5799654725 m.
+Mon Oct 31 17:01:18 2016 - Perpendicular distance to destination: -0.5 m.
+Mon Oct 31 17:01:18 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:18 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:18 2016 - Received GPS coordinate request from ('192.168.2.102', 39534).
+Mon Oct 31 17:01:18 2016 - Received GPS coordinate request from ('192.168.2.103', 51622).
+Mon Oct 31 17:01:18 2016 - Received heading direction request from ('192.168.2.102', 43396).
+Mon Oct 31 17:01:18 2016 - Received heading direction request from ('192.168.2.103', 53672).
+Mon Oct 31 17:01:18 2016 - Horizontal distance to destination: 19.3127734486 m.
+Mon Oct 31 17:01:18 2016 - Perpendicular distance to destination: -0.45 m.
+Mon Oct 31 17:01:18 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:18 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:18 2016 - Received GPS coordinate request from ('192.168.2.102', 39538).
+Mon Oct 31 17:01:18 2016 - Received GPS coordinate request from ('192.168.2.103', 51626).
+Mon Oct 31 17:01:18 2016 - Received heading direction request from ('192.168.2.102', 43400).
+Mon Oct 31 17:01:18 2016 - Received heading direction request from ('192.168.2.103', 53676).
+Mon Oct 31 17:01:19 2016 - Horizontal distance to destination: 19.0361380076 m.
+Mon Oct 31 17:01:19 2016 - Perpendicular distance to destination: -0.41 m.
+Mon Oct 31 17:01:19 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:19 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:19 2016 - Received GPS coordinate request from ('192.168.2.102', 39542).
+Mon Oct 31 17:01:19 2016 - Received GPS coordinate request from ('192.168.2.103', 51630).
+Mon Oct 31 17:01:19 2016 - Received heading direction request from ('192.168.2.102', 43404).
+Mon Oct 31 17:01:19 2016 - Received heading direction request from ('192.168.2.103', 53680).
+Mon Oct 31 17:01:19 2016 - Horizontal distance to destination: 18.7580385555 m.
+Mon Oct 31 17:01:19 2016 - Perpendicular distance to destination: -0.38 m.
+Mon Oct 31 17:01:19 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:19 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:19 2016 - Received GPS coordinate request from ('192.168.2.102', 39546).
+Mon Oct 31 17:01:19 2016 - Received heading direction request from ('192.168.2.102', 43408).
+Mon Oct 31 17:01:19 2016 - Received GPS coordinate request from ('192.168.2.103', 51634).
+Mon Oct 31 17:01:19 2016 - Received heading direction request from ('192.168.2.103', 53684).
+Mon Oct 31 17:01:20 2016 - Horizontal distance to destination: 18.4550601864 m.
+Mon Oct 31 17:01:20 2016 - Perpendicular distance to destination: -0.35 m.
+Mon Oct 31 17:01:20 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:20 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:20 2016 - Received GPS coordinate request from ('192.168.2.102', 39550).
+Mon Oct 31 17:01:20 2016 - Received heading direction request from ('192.168.2.102', 43412).
+Mon Oct 31 17:01:20 2016 - Horizontal distance to destination: 18.1366440435 m.
+Mon Oct 31 17:01:20 2016 - Perpendicular distance to destination: -0.32 m.
+Mon Oct 31 17:01:20 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:20 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:20 2016 - Received GPS coordinate request from ('192.168.2.102', 39554).
+Mon Oct 31 17:01:20 2016 - Received heading direction request from ('192.168.2.102', 43416).
+Mon Oct 31 17:01:21 2016 - Horizontal distance to destination: 17.6043278694 m.
+Mon Oct 31 17:01:21 2016 - Perpendicular distance to destination: -0.33 m.
+Mon Oct 31 17:01:21 2016 - Received GPS coordinate request from ('192.168.2.103', 51638).
+Mon Oct 31 17:01:21 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:21 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:21 2016 - Received heading direction request from ('192.168.2.103', 53688).
+Mon Oct 31 17:01:21 2016 - Received GPS coordinate request from ('192.168.2.102', 39558).
+Mon Oct 31 17:01:21 2016 - Received GPS coordinate request from ('192.168.2.103', 51642).
+Mon Oct 31 17:01:21 2016 - Received heading direction request from ('192.168.2.102', 43420).
+Mon Oct 31 17:01:21 2016 - Received heading direction request from ('192.168.2.103', 53692).
+Mon Oct 31 17:01:21 2016 - Received GPS coordinate request from ('192.168.2.103', 51646).
+Mon Oct 31 17:01:21 2016 - Received heading direction request from ('192.168.2.103', 53696).
+Mon Oct 31 17:01:21 2016 - Horizontal distance to destination: 17.4108238143 m.
+Mon Oct 31 17:01:21 2016 - Perpendicular distance to destination: -0.35 m.
+Mon Oct 31 17:01:21 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:21 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:21 2016 - Received GPS coordinate request from ('192.168.2.102', 39562).
+Mon Oct 31 17:01:21 2016 - Received GPS coordinate request from ('192.168.2.103', 51650).
+ Mon Oct 31 17:01:21 2016 - Received heading direction request from ('192.168.2.102', 43424).
+Mon Oct 31 17:01:22 2016 - Received heading direction request from ('192.168.2.103', 53700).
+Mon Oct 31 17:01:22 2016 - Horizontal distance to destination: 17.0815310996 m.
+Mon Oct 31 17:01:22 2016 - Perpendicular distance to destination: -0.38 m.
+Mon Oct 31 17:01:22 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:22 2016 - Horizontal distance to destination: 16.5617036998 m.
+Mon Oct 31 17:01:22 2016 - Perpendicular distance to destination: -0.45 m.
+Mon Oct 31 17:01:23 2016 - Horizontal distance to destination: 16.1929936265 m.
+Mon Oct 31 17:01:23 2016 - Perpendicular distance to destination: -0.5 m.
+Mon Oct 31 17:01:23 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:23 2016 - Received GPS coordinate request from ('192.168.2.102', 39566).
+Mon Oct 31 17:01:23 2016 - Received GPS coordinate request from ('192.168.2.103', 51654).
+Mon Oct 31 17:01:23 2016 - Received heading direction request from ('192.168.2.102', 43428).
+Mon Oct 31 17:01:23 2016 - Received heading direction request from ('192.168.2.103', 53704).
+Mon Oct 31 17:01:23 2016 - Horizontal distance to destination: 15.8645274082 m.
+Mon Oct 31 17:01:23 2016 - Perpendicular distance to destination: -0.5 m.
+Mon Oct 31 17:01:24 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:24 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:24 2016 - Received GPS coordinate request from ('192.168.2.103', 51658).
+Mon Oct 31 17:01:24 2016 - Received GPS coordinate request from ('192.168.2.102', 39570).
+Mon Oct 31 17:01:24 2016 - Received heading direction request from ('192.168.2.102', 43432).
+Mon Oct 31 17:01:24 2016 - Received heading direction request from ('192.168.2.103', 53708).
+Mon Oct 31 17:01:24 2016 - Horizontal distance to destination: 15.5287088611 m.
+Mon Oct 31 17:01:24 2016 - Perpendicular distance to destination: -0.48 m.
+Mon Oct 31 17:01:24 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:24 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:24 2016 - Received GPS coordinate request from ('192.168.2.102', 39574).
+Mon Oct 31 17:01:24 2016 - Received heading direction request from ('192.168.2.102', 43436).Mon Oct 31 17:01:24 2016 - Received GPS coordinate request from ('192.168.2.103', 51662).
+
+Mon Oct 31 17:01:24 2016 - Received heading direction request from ('192.168.2.103', 53712).
+Mon Oct 31 17:01:24 2016 - Horizontal distance to destination: 15.2212623296 m.
+Mon Oct 31 17:01:24 2016 - Perpendicular distance to destination: -0.45 m.
+Mon Oct 31 17:01:25 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:25 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:25 2016 - Received GPS coordinate request from ('192.168.2.102', 39578).
+Mon Oct 31 17:01:25 2016 - Received GPS coordinate request from ('192.168.2.103', 51666).
+Mon Oct 31 17:01:25 2016 - Received heading direction request from ('192.168.2.102', 43440).
+Mon Oct 31 17:01:25 2016 - Received heading direction request from ('192.168.2.103', 53716).
+Mon Oct 31 17:01:25 2016 - Horizontal distance to destination: 14.8824747637 m.
+Mon Oct 31 17:01:25 2016 - Perpendicular distance to destination: -0.42 m.
+Mon Oct 31 17:01:25 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:25 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:25 2016 - Received GPS coordinate request from ('192.168.2.102', 39582).
+Mon Oct 31 17:01:25 2016 - Received GPS coordinate request from ('192.168.2.103', 51670).
+Mon Oct 31 17:01:25 2016 - Received heading direction request from ('192.168.2.102', 43444).
+Mon Oct 31 17:01:25 2016 - Received heading direction request from ('192.168.2.103', 53720).
+Mon Oct 31 17:01:25 2016 - Horizontal distance to destination: 14.5765440287 m.
+Mon Oct 31 17:01:25 2016 - Perpendicular distance to destination: -0.38 m.
+Mon Oct 31 17:01:26 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:26 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:26 2016 - Received GPS coordinate request from ('192.168.2.102', 39586).
+Mon Oct 31 17:01:26 2016 - Received GPS coordinate request from ('192.168.2.103', 51674).
+Mon Oct 31 17:01:26 2016 - Received heading direction request from ('192.168.2.102', 43448).
+Mon Oct 31 17:01:26 2016 - Received heading direction request from ('192.168.2.103', 53724).
+Mon Oct 31 17:01:26 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:01:26 2016 - Horizontal distance to destination: 14.2392350674 m.
+Mon Oct 31 17:01:26 2016 - Perpendicular distance to destination: -0.33 m.
+Mon Oct 31 17:01:26 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:26 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:26 2016 - Received GPS coordinate request from ('192.168.2.102', 39590).
+Mon Oct 31 17:01:26 2016 - Received GPS coordinate request from ('192.168.2.103', 51678).
+Mon Oct 31 17:01:26 2016 - Received heading direction request from ('192.168.2.102', 43452).
+Mon Oct 31 17:01:26 2016 - Received heading direction request from ('192.168.2.103', 53728).
+Mon Oct 31 17:01:26 2016 - Horizontal distance to destination: 13.8924439061 m.
+Mon Oct 31 17:01:26 2016 - Perpendicular distance to destination: -0.29 m.
+Mon Oct 31 17:01:27 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:27 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:27 2016 - Received GPS coordinate request from ('192.168.2.102', 39594).
+Mon Oct 31 17:01:27 2016 - Received heading direction request from ('192.168.2.102', 43456).
+Mon Oct 31 17:01:27 2016 - Received GPS coordinate request from ('192.168.2.103', 51682).
+Mon Oct 31 17:01:27 2016 - Received heading direction request from ('192.168.2.103', 53732).
+Mon Oct 31 17:01:27 2016 - Horizontal distance to destination: 13.5347121846 m.
+Mon Oct 31 17:01:27 2016 - Perpendicular distance to destination: -0.25 m.
+Mon Oct 31 17:01:27 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:27 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:27 2016 - Received GPS coordinate request from ('192.168.2.102', 39598).
+Mon Oct 31 17:01:27 2016 - Received heading direction request from ('192.168.2.102', 43460).
+Mon Oct 31 17:01:27 2016 - Received GPS coordinate request from ('192.168.2.103', 51686).
+Mon Oct 31 17:01:27 2016 - Received heading direction request from ('192.168.2.103', 53736).
+Mon Oct 31 17:01:27 2016 - Horizontal distance to destination: 13.1835063716 m.
+Mon Oct 31 17:01:27 2016 - Perpendicular distance to destination: -0.22 m.
+Mon Oct 31 17:01:28 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:28 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:28 2016 - Received GPS coordinate request from ('192.168.2.102', 39602).
+Mon Oct 31 17:01:28 2016 - Received GPS coordinate request from ('192.168.2.103', 51690).
+Mon Oct 31 17:01:28 2016 - Received heading direction request from ('192.168.2.102', 43464).
+Mon Oct 31 17:01:28 2016 - Received heading direction request from ('192.168.2.103', 53740).
+Mon Oct 31 17:01:28 2016 - Horizontal distance to destination: 12.7914493369 m.
+Mon Oct 31 17:01:28 2016 - Perpendicular distance to destination: -0.2 m.
+Mon Oct 31 17:01:28 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:28 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:28 2016 - Received GPS coordinate request from ('192.168.2.102', 39606).
+Mon Oct 31 17:01:28 2016 - Received GPS coordinate request from ('192.168.2.103', 51694).
+Mon Oct 31 17:01:28 2016 - Received heading direction request from ('192.168.2.102', 43468).
+Mon Oct 31 17:01:28 2016 - Received heading direction request from ('192.168.2.103', 53744).
+Mon Oct 31 17:01:28 2016 - Horizontal distance to destination: 12.3869724779 m.
+Mon Oct 31 17:01:28 2016 - Perpendicular distance to destination: -0.18 m.
+Mon Oct 31 17:01:29 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:29 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:29 2016 - Received GPS coordinate request from ('192.168.2.102', 39610).
+Mon Oct 31 17:01:29 2016 - Received GPS coordinate request from ('192.168.2.103', 51698).
+Mon Oct 31 17:01:29 2016 - Received heading direction request from ('192.168.2.102', 43472).
+Mon Oct 31 17:01:29 2016 - Received heading direction request from ('192.168.2.103', 53748).
+Mon Oct 31 17:01:29 2016 - Horizontal distance to destination: 11.9824957156 m.
+Mon Oct 31 17:01:29 2016 - Perpendicular distance to destination: -0.19 m.
+Mon Oct 31 17:01:29 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:29 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:29 2016 - Received GPS coordinate request from ('192.168.2.102', 39614).
+Mon Oct 31 17:01:29 2016 - Received GPS coordinate request from ('192.168.2.103', 51702).
+Mon Oct 31 17:01:29 2016 - Received heading direction request from ('192.168.2.102', 43476).
+Mon Oct 31 17:01:29 2016 - Received heading direction request from ('192.168.2.103', 53752).
+Mon Oct 31 17:01:29 2016 - Horizontal distance to destination: 11.580985215 m.
+Mon Oct 31 17:01:29 2016 - Perpendicular distance to destination: -0.19 m.
+Mon Oct 31 17:01:30 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:30 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:30 2016 - Received GPS coordinate request from ('192.168.2.102', 39618).
+Mon Oct 31 17:01:30 2016 - Received GPS coordinate request from ('192.168.2.103', 51706).
+Mon Oct 31 17:01:30 2016 - Received heading direction request from ('192.168.2.102', 43480).
+Mon Oct 31 17:01:30 2016 - Received heading direction request from ('192.168.2.103', 53756).
+Mon Oct 31 17:01:30 2016 - Horizontal distance to destination: 11.2312415214 m.
+Mon Oct 31 17:01:30 2016 - Perpendicular distance to destination: -0.22 m.
+Mon Oct 31 17:01:30 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:30 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:30 2016 - Received GPS coordinate request from ('192.168.2.103', 51710).
+Mon Oct 31 17:01:30 2016 - Received GPS coordinate request from ('192.168.2.102', 39622).
+Mon Oct 31 17:01:30 2016 - Received heading direction request from ('192.168.2.103', 53760).
+Mon Oct 31 17:01:30 2016 - Received heading direction request from ('192.168.2.102', 43484).
+Mon Oct 31 17:01:30 2016 - Horizontal distance to destination: 10.8581299329 m.
+Mon Oct 31 17:01:30 2016 - Perpendicular distance to destination: -0.15 m.
+Mon Oct 31 17:01:31 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:31 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:31 2016 - Received GPS coordinate request from ('192.168.2.103', 51714).
+Mon Oct 31 17:01:31 2016 - Received heading direction request from ('192.168.2.103', 53764).
+Mon Oct 31 17:01:31 2016 - Horizontal distance to destination: 10.4821260682 m.
+Mon Oct 31 17:01:31 2016 - Perpendicular distance to destination: -0.13 m.
+Mon Oct 31 17:01:31 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:31 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:31 2016 - Received GPS coordinate request from ('192.168.2.103', 51718).
+Mon Oct 31 17:01:31 2016 - Received heading direction request from ('192.168.2.103', 53768).
+Mon Oct 31 17:01:31 2016 - Horizontal distance to destination: 10.0981177009 m.
+Mon Oct 31 17:01:31 2016 - Perpendicular distance to destination: -0.14 m.
+Mon Oct 31 17:01:32 2016 - Received GPS coordinate request from ('192.168.2.102', 39626).
+Mon Oct 31 17:01:32 2016 - Received heading direction request from ('192.168.2.102', 43488).
+Mon Oct 31 17:01:32 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:32 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:32 2016 - Received GPS coordinate request from ('192.168.2.102', 39630).
+Mon Oct 31 17:01:32 2016 - Received heading direction request from ('192.168.2.102', 43492).
+Mon Oct 31 17:01:32 2016 - Received GPS coordinate request from ('192.168.2.103', 51722).
+Mon Oct 31 17:01:32 2016 - Received GPS coordinate request from ('192.168.2.102', 39634).
+Mon Oct 31 17:01:32 2016 - Received heading direction request from ('192.168.2.103', 53772).
+Mon Oct 31 17:01:32 2016 - Received heading direction request from ('192.168.2.102', 43496).
+Mon Oct 31 17:01:32 2016 - Horizontal distance to destination: 9.47020836112 m.
+Mon Oct 31 17:01:32 2016 - Perpendicular distance to destination: -0.16 m.
+Mon Oct 31 17:01:32 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:32 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:32 2016 - Received GPS coordinate request from ('192.168.2.102', 39638).
+Mon Oct 31 17:01:32 2016 - Received heading direction request from ('192.168.2.102', 43500).
+Mon Oct 31 17:01:32 2016 - Received GPS coordinate request from ('192.168.2.103', 51726).
+Mon Oct 31 17:01:32 2016 - Received heading direction request from ('192.168.2.103', 53776).
+Mon Oct 31 17:01:32 2016 - Horizontal distance to destination: 9.27820572494 m.
+Mon Oct 31 17:01:32 2016 - Perpendicular distance to destination: -0.18 m.
+Mon Oct 31 17:01:33 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:33 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:33 2016 - Received GPS coordinate request from ('192.168.2.102', 39642).
+Mon Oct 31 17:01:33 2016 - Received GPS coordinate request from ('192.168.2.103', 51730).
+Mon Oct 31 17:01:33 2016 - Received heading direction request from ('192.168.2.102', 43504).
+Mon Oct 31 17:01:33 2016 - Horizontal distance to destination: 8.88325600231 m.
+Mon Oct 31 17:01:33 2016 - Perpendicular distance to destination: -0.2 m.
+Mon Oct 31 17:01:33 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:33 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:33 2016 - Received GPS coordinate request from ('192.168.2.102', 39646).
+Mon Oct 31 17:01:33 2016 - Received heading direction request from ('192.168.2.102', 43508).
+Mon Oct 31 17:01:33 2016 - Horizontal distance to destination: 8.48973841049 m.
+Mon Oct 31 17:01:33 2016 - Perpendicular distance to destination: -0.21 m.
+Mon Oct 31 17:01:34 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:34 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:34 2016 - Received heading direction request from ('192.168.2.103', 53780).
+Mon Oct 31 17:01:34 2016 - Received GPS coordinate request from ('192.168.2.102', 39650).
+Mon Oct 31 17:01:34 2016 - Received GPS coordinate request from ('192.168.2.103', 51734).
+Mon Oct 31 17:01:34 2016 - Received heading direction request from ('192.168.2.102', 43512).
+Mon Oct 31 17:01:34 2016 - Received heading direction request from ('192.168.2.103', 53784).
+Mon Oct 31 17:01:34 2016 - Received GPS coordinate request from ('192.168.2.103', 51738).
+Mon Oct 31 17:01:34 2016 - Received heading direction request from ('192.168.2.103', 53788).
+Mon Oct 31 17:01:34 2016 - Horizontal distance to destination: 8.08244356116 m.
+Mon Oct 31 17:01:34 2016 - Perpendicular distance to destination: -0.26 m.
+Mon Oct 31 17:01:34 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:34 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:34 2016 - Received GPS coordinate request from ('192.168.2.102', 39654).
+Mon Oct 31 17:01:34 2016 - Received heading direction request from ('192.168.2.102', 43516).
+Mon Oct 31 17:01:34 2016 - Received GPS coordinate request from ('192.168.2.103', 51742).
+Mon Oct 31 17:01:34 2016 - Received heading direction request from ('192.168.2.103', 53792).
+Mon Oct 31 17:01:34 2016 - Horizontal distance to destination: 7.74101285253 m.
+Mon Oct 31 17:01:34 2016 - Perpendicular distance to destination: -0.27 m.
+Mon Oct 31 17:01:35 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:35 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:35 2016 - Received GPS coordinate request from ('192.168.2.102', 39658).
+Mon Oct 31 17:01:35 2016 - Received heading direction request from ('192.168.2.102', 43520).
+Mon Oct 31 17:01:35 2016 - Received GPS coordinate request from ('192.168.2.103', 51746).
+Mon Oct 31 17:01:35 2016 - Received heading direction request from ('192.168.2.103', 53796).
+Mon Oct 31 17:01:35 2016 - Horizontal distance to destination: 7.38316343524 m.
+Mon Oct 31 17:01:35 2016 - Perpendicular distance to destination: -0.29 m.
+Mon Oct 31 17:01:35 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:35 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:35 2016 - Received GPS coordinate request from ('192.168.2.102', 39662).
+Mon Oct 31 17:01:35 2016 - Received GPS coordinate request from ('192.168.2.103', 51750).
+Mon Oct 31 17:01:35 2016 - Received heading direction request from ('192.168.2.102', 43524).
+Mon Oct 31 17:01:35 2016 - Received heading direction request from ('192.168.2.103', 53800).
+Mon Oct 31 17:01:36 2016 - Horizontal distance to destination: 6.78812288486 m.
+Mon Oct 31 17:01:36 2016 - Perpendicular distance to destination: -0.24 m.
+Mon Oct 31 17:01:36 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:01:36 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:36 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:36 2016 - Received GPS coordinate request from ('192.168.2.102', 39666).
+Mon Oct 31 17:01:36 2016 - Received GPS coordinate request from ('192.168.2.103', 51754).
+Mon Oct 31 17:01:36 2016 - Received heading direction request from ('192.168.2.102', 43528).
+Mon Oct 31 17:01:36 2016 - Received heading direction request from ('192.168.2.103', 53804).
+Mon Oct 31 17:01:36 2016 - Horizontal distance to destination: 6.57560931747 m.
+Mon Oct 31 17:01:36 2016 - Perpendicular distance to destination: -0.21 m.
+Mon Oct 31 17:01:36 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:36 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:36 2016 - Received GPS coordinate request from ('192.168.2.102', 39670).
+Mon Oct 31 17:01:36 2016 - Received GPS coordinate request from ('192.168.2.103', 51758).
+Mon Oct 31 17:01:36 2016 - Received heading direction request from ('192.168.2.102', 43532).
+Mon Oct 31 17:01:36 2016 - Received heading direction request from ('192.168.2.103', 53808).
+Mon Oct 31 17:01:37 2016 - Horizontal distance to destination: 5.91066567812 m.
+Mon Oct 31 17:01:37 2016 - Perpendicular distance to destination: -0.21 m.
+Mon Oct 31 17:01:37 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:37 2016 - Sending command fly_follow() to follower2.
+ Mon Oct 31 17:01:37 2016 - Received GPS coordinate request from ('192.168.2.102', 39674).
+Mon Oct 31 17:01:37 2016 - Received heading direction request from ('192.168.2.102', 43536).
+Mon Oct 31 17:01:37 2016 - Received GPS coordinate request from ('192.168.2.103', 51762).
+Mon Oct 31 17:01:37 2016 - Received heading direction request from ('192.168.2.103', 53812).
+Mon Oct 31 17:01:37 2016 - Horizontal distance to destination: 5.46098013411 m.
+Mon Oct 31 17:01:37 2016 - Perpendicular distance to destination: -0.19 m.
+Mon Oct 31 17:01:37 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:37 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:37 2016 - Received GPS coordinate request from ('192.168.2.102', 39678).
+Mon Oct 31 17:01:37 2016 - Received heading direction request from ('192.168.2.102', 43540).
+Mon Oct 31 17:01:38 2016 - Horizontal distance to destination: 5.05787071703 m.
+Mon Oct 31 17:01:38 2016 - Perpendicular distance to destination: -0.19 m.
+Mon Oct 31 17:01:38 2016 - Received GPS coordinate request from ('192.168.2.103', 51766).
+Mon Oct 31 17:01:38 2016 - Received heading direction request from ('192.168.2.103', 53816).
+Mon Oct 31 17:01:38 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:38 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:38 2016 - Received GPS coordinate request from ('192.168.2.103', 51770).
+Mon Oct 31 17:01:38 2016 - Received heading direction request from ('192.168.2.103', 53820).
+Mon Oct 31 17:01:38 2016 - Horizontal distance to destination: 4.67537602891 m.
+Mon Oct 31 17:01:38 2016 - Perpendicular distance to destination: -0.17 m.
+Mon Oct 31 17:01:38 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:38 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:38 2016 - Received GPS coordinate request from ('192.168.2.103', 51774).
+Mon Oct 31 17:01:38 2016 - Received heading direction request from ('192.168.2.103', 53824).
+Mon Oct 31 17:01:39 2016 - Horizontal distance to destination: 4.28731454656 m.
+Mon Oct 31 17:01:39 2016 - Perpendicular distance to destination: -0.13 m.
+Mon Oct 31 17:01:39 2016 - Received GPS coordinate request from ('192.168.2.102', 39682).
+Mon Oct 31 17:01:39 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:39 2016 - Received heading direction request from ('192.168.2.102', 43544).
+Mon Oct 31 17:01:39 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:39 2016 - Received GPS coordinate request from ('192.168.2.102', 39686).
+Mon Oct 31 17:01:39 2016 - Received GPS coordinate request from ('192.168.2.103', 51778).
+Mon Oct 31 17:01:39 2016 - Received heading direction request from ('192.168.2.102', 43548).
+Mon Oct 31 17:01:39 2016 - Received heading direction request from ('192.168.2.103', 53828).
+Mon Oct 31 17:01:39 2016 - Received GPS coordinate request from ('192.168.2.102', 39690).
+Mon Oct 31 17:01:39 2016 - Received heading direction request from ('192.168.2.102', 43552).
+Mon Oct 31 17:01:39 2016 - Horizontal distance to destination: 3.89948956019 m.
+Mon Oct 31 17:01:39 2016 - Perpendicular distance to destination: -0.11 m.
+Mon Oct 31 17:01:39 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:39 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:39 2016 - Received GPS coordinate request from ('192.168.2.102', 39694).
+Mon Oct 31 17:01:39 2016 - Received heading direction request from ('192.168.2.102', 43556).
+Mon Oct 31 17:01:39 2016 - Received GPS coordinate request from ('192.168.2.103', 51782).
+Mon Oct 31 17:01:39 2016 - Received heading direction request from ('192.168.2.103', 53832).
+Mon Oct 31 17:01:40 2016 - Horizontal distance to destination: 3.52643227329 m.
+Mon Oct 31 17:01:40 2016 - Perpendicular distance to destination: -0.1 m.
+Mon Oct 31 17:01:40 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:40 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:40 2016 - Received GPS coordinate request from ('192.168.2.102', 39698).
+Mon Oct 31 17:01:40 2016 - Received GPS coordinate request from ('192.168.2.103', 51786).
+Mon Oct 31 17:01:40 2016 - Received heading direction request from ('192.168.2.102', 43560).
+Mon Oct 31 17:01:40 2016 - Received heading direction request from ('192.168.2.103', 53836).
+Mon Oct 31 17:01:40 2016 - Horizontal distance to destination: 3.1548366484 m.
+Mon Oct 31 17:01:40 2016 - Perpendicular distance to destination: -0.12 m.
+Mon Oct 31 17:01:40 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:40 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:40 2016 - Received GPS coordinate request from ('192.168.2.102', 39702).
+Mon Oct 31 17:01:40 2016 - Received GPS coordinate request from ('192.168.2.103', 51790).
+Mon Oct 31 17:01:40 2016 - Received heading direction request from ('192.168.2.102', 43564).
+Mon Oct 31 17:01:40 2016 - Received heading direction request from ('192.168.2.103', 53840).
+Mon Oct 31 17:01:41 2016 - Horizontal distance to destination: 2.75994617633 m.
+Mon Oct 31 17:01:41 2016 - Perpendicular distance to destination: -0.15 m.
+Mon Oct 31 17:01:41 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:41 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:41 2016 - Received GPS coordinate request from ('192.168.2.102', 39706).
+Mon Oct 31 17:01:41 2016 - Received GPS coordinate request from ('192.168.2.103', 51794).
+Mon Oct 31 17:01:41 2016 - Received heading direction request from ('192.168.2.102', 43568).
+Mon Oct 31 17:01:41 2016 - Received heading direction request from ('192.168.2.103', 53844).
+Mon Oct 31 17:01:41 2016 - Horizontal distance to destination: 2.37879085702 m.
+Mon Oct 31 17:01:41 2016 - Perpendicular distance to destination: -0.15 m.
+Mon Oct 31 17:01:41 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:41 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:41 2016 - Received GPS coordinate request from ('192.168.2.102', 39710).
+Mon Oct 31 17:01:41 2016 - Received heading direction request from ('192.168.2.102', 43572).
+Mon Oct 31 17:01:41 2016 - Received GPS coordinate request from ('192.168.2.103', 51798).
+Mon Oct 31 17:01:41 2016 - Received heading direction request from ('192.168.2.103', 53848).
+Mon Oct 31 17:01:42 2016 - Horizontal distance to destination: 1.98397188518 m.
+Mon Oct 31 17:01:42 2016 - Perpendicular distance to destination: -0.15 m.
+Mon Oct 31 17:01:42 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:42 2016 - Sending command fly_follow() to follower2.
+ Mon Oct 31 17:01:42 2016 - Received GPS coordinate request from ('192.168.2.102', 39714).
+Mon Oct 31 17:01:42 2016 - Received heading direction request from ('192.168.2.102', 43576).
+Mon Oct 31 17:01:42 2016 - Received GPS coordinate request from ('192.168.2.103', 51802).
+Mon Oct 31 17:01:42 2016 - Received heading direction request from ('192.168.2.103', 53852).
+Mon Oct 31 17:01:42 2016 - Horizontal distance to destination: 1.6112980255 m.
+Mon Oct 31 17:01:42 2016 - Perpendicular distance to destination: -0.17 m.
+Mon Oct 31 17:01:42 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:43 2016 - Horizontal distance to destination: 1.22701196379 m.
+Mon Oct 31 17:01:43 2016 - Perpendicular distance to destination: -0.2 m.
+Mon Oct 31 17:01:43 2016 - Horizontal distance to destination: 0.845549135916 m.
+Mon Oct 31 17:01:43 2016 - Perpendicular distance to destination: -0.22 m.
+Mon Oct 31 17:01:44 2016 - Horizontal distance to destination: 0.543666144568 m.
+Mon Oct 31 17:01:44 2016 - Perpendicular distance to destination: -0.25 m.
+Mon Oct 31 17:01:44 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:44 2016 - Received GPS coordinate request from ('192.168.2.103', 51806).
+Mon Oct 31 17:01:44 2016 - Received heading direction request from ('192.168.2.103', 53856).
+Mon Oct 31 17:01:44 2016 - Received GPS coordinate request from ('192.168.2.102', 39718).
+Mon Oct 31 17:01:44 2016 - Received heading direction request from ('192.168.2.102', 43580).
+Mon Oct 31 17:01:44 2016 - Horizontal distance to destination: 0.356057514326 m.
+Mon Oct 31 17:01:44 2016 - Perpendicular distance to destination: -0.35 m.
+Mon Oct 31 17:01:44 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:44 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:44 2016 - Received GPS coordinate request from ('192.168.2.103', 51810).
+Mon Oct 31 17:01:44 2016 - Received heading direction request from ('192.168.2.103', 53860).
+Mon Oct 31 17:01:44 2016 - Received GPS coordinate request from ('192.168.2.102', 39722).
+Mon Oct 31 17:01:44 2016 - Received heading direction request from ('192.168.2.102', 43584).
+Mon Oct 31 17:01:45 2016 - Horizontal distance to destination: 0.239352000361 m.
+Mon Oct 31 17:01:45 2016 - Perpendicular distance to destination: -0.39 m.
+Mon Oct 31 17:01:45 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:45 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:45 2016 - Received GPS coordinate request from ('192.168.2.103', 51814).
+Mon Oct 31 17:01:45 2016 - Received heading direction request from ('192.168.2.103', 53864).
+ Mon Oct 31 17:01:45 2016 - Received GPS coordinate request from ('192.168.2.102', 39726).
+Mon Oct 31 17:01:45 2016 - Received heading direction request from ('192.168.2.102', 43588).
+Mon Oct 31 17:01:45 2016 - Horizontal distance to destination: 0.185677555702 m.
+Mon Oct 31 17:01:45 2016 - Perpendicular distance to destination: -0.41 m.
+Mon Oct 31 17:01:45 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:45 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:45 2016 - Received GPS coordinate request from ('192.168.2.102', 39730).
+Mon Oct 31 17:01:45 2016 - Received GPS coordinate request from ('192.168.2.103', 51818).
+Mon Oct 31 17:01:45 2016 - Received heading direction request from ('192.168.2.102', 43592).
+Mon Oct 31 17:01:45 2016 - Received heading direction request from ('192.168.2.103', 53868).
+Mon Oct 31 17:01:46 2016 - Horizontal distance to destination: 0.151932253353 m.
+Mon Oct 31 17:01:46 2016 - Perpendicular distance to destination: -0.35 m.
+Mon Oct 31 17:01:46 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:01:46 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:46 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:46 2016 - Received GPS coordinate request from ('192.168.2.102', 39734).
+Mon Oct 31 17:01:46 2016 - Received GPS coordinate request from ('192.168.2.103', 51822).
+Mon Oct 31 17:01:46 2016 - Received heading direction request from ('192.168.2.102', 43596).
+Mon Oct 31 17:01:46 2016 - Received heading direction request from ('192.168.2.103', 53872).
+Mon Oct 31 17:01:46 2016 - Horizontal distance to destination: 0.132922379866 m.
+Mon Oct 31 17:01:46 2016 - Perpendicular distance to destination: -0.33 m.
+Mon Oct 31 17:01:46 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:46 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:46 2016 - Received GPS coordinate request from ('192.168.2.102', 39738).
+Mon Oct 31 17:01:46 2016 - Received GPS coordinate request from ('192.168.2.103', 51826).
+Mon Oct 31 17:01:46 2016 - Received heading direction request from ('192.168.2.102', 43600).
+Mon Oct 31 17:01:46 2016 - Received heading direction request from ('192.168.2.103', 53876).
+Mon Oct 31 17:01:47 2016 - Horizontal distance to destination: 0.12810845008 m.
+Mon Oct 31 17:01:47 2016 - Perpendicular distance to destination: -0.32 m.
+Mon Oct 31 17:01:47 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:47 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:47 2016 - Received GPS coordinate request from ('192.168.2.102', 39742).
+Mon Oct 31 17:01:47 2016 - Received GPS coordinate request from ('192.168.2.103', 51830).
+Mon Oct 31 17:01:47 2016 - Received heading direction request from ('192.168.2.102', 43604).
+Mon Oct 31 17:01:47 2016 - Received heading direction request from ('192.168.2.103', 53880).
+Mon Oct 31 17:01:47 2016 - Horizontal distance to destination: 0.151932253353 m.
+Mon Oct 31 17:01:47 2016 - Perpendicular distance to destination: -0.3 m.
+192.168.2.102
+ 
+
+Mon Oct 31 17:01:47 2016 - Calling function air_break().
+Mon Oct 31 17:01:47 2016 - Sending air break command first time.
+Mon Oct 31 17:01:47 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7837765, lon=-86.578567, alt(above sea leavel)=233.4
+     Global Location (relative altitude): lat=34.7837765, lon=-86.578567, alt(relative)=19.76
+     Local Location(NED coordinate): north=-19.077085495, east=3.4762544632, down=-19.7030963898
+     Attitude(radians): Pitch=-0.0148711325601, Yaw=2.97843623161, Roll=-0.00309552019462
+ 192.168.2.103
+     Velocity: Vx=-0.06, Vy=0.03, Vz=0.23
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.159V, current=16.96A, level=95%
+     Sonar distance: 7.63999986649 m
+     Heading: 170 (degrees from North)
+     Groundspeed: 0.0799999982119 m/s
+     Airspeed: 0.0799999982119 m/s
+Mon Oct 31 17:01:48 2016 - Horizontal distance to destination: 0.172583047182 m.
+Mon Oct 31 17:01:48 2016 - Perpendicular distance to destination: -0.24 m.
+Mon Oct 31 17:01:48 2016 - After calling goto_gps_location_relative(), vehicle state is:
+Mon Oct 31 17:01:48 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7837765, lon=-86.578567, alt(above sea leavel)=233.4
+     Global Location (relative altitude): lat=34.7837765, lon=-86.578567, alt(relative)=19.76
+     Local Location(NED coordinate): north=-19.077085495, east=3.4762544632, down=-19.7030963898
+     Attitude(radians): Pitch=-0.0164660140872, Yaw=2.97668862343, Roll=-0.00395049713552
+     Velocity: Vx=-0.06, Vy=0.03, Vz=0.23
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.147V, current=16.97A, level=95%
+     Sonar distance: 7.63999986649 m
+     Heading: 170 (degrees from North)
+     Groundspeed: 0.129999995232 m/s
+     Airspeed: 0.129999995232 m/s
+Mon Oct 31 17:01:50 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:01:50 2016 - Received GPS coordinate request from ('192.168.2.103', 51834).
+Mon Oct 31 17:01:50 2016 - Received heading direction request from ('192.168.2.103', 53884).
+Mon Oct 31 17:01:55 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:01:55 2016 - Received GPS coordinate request from ('192.168.2.102', 39746).
+Mon Oct 31 17:01:55 2016 - Received heading direction request from ('192.168.2.102', 43608).
+Mon Oct 31 17:01:56 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:02:00 2016 - After taking off and hover, Leader's GPS coordinate : lat=34.7837766, lon=-86.5785666, alt_relative=19.85
+Mon Oct 31 17:02:00 2016 - Leader current heading is 170 degree.
+Mon Oct 31 17:02:00 2016 - Leader is going to pointA : (34.7835991, -86.5785287)
+
+Mon Oct 31 17:02:00 2016 - Sending command fly_follow() to follower1.
+
+Mon Oct 31 17:02:00 2016 - Calling goto_gps_location_relative(lat=34.7835991, lon=-86.5785287, alt=20, groundspeed=1).
+Mon Oct 31 17:02:00 2016 - Before calling goto_gps_location_relative(), vehicle state is:
+Mon Oct 31 17:02:00 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7837766, lon=-86.5785666, alt(above sea leavel)=233.49
+     Global Location (relative altitude): lat=34.7837766, lon=-86.5785666, alt(relative)=19.85
+     Local Location(NED coordinate): north=-19.0618534088, east=3.5174036026, down=-19.8005275726
+     Attitude(radians): Pitch=0.00139846024103, Yaw=2.9753715992, Roll=0.00392527412623
+     Velocity: Vx=-0.03, Vy=-0.04, Vz=-0.07
+     GPS Info: fix_type=3, num_sat=10
+     Battery: voltage=11.095V, current=16.96A, level=94%
+     Sonar distance: 7.63999986649 m
+     Heading: 170 (degrees from North)
+     Groundspeed: 0.0499999970198 m/s
+     Airspeed: 0.0499999970198 m/s
+Mon Oct 31 17:02:00 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:00 2016 - Received GPS coordinate request from ('192.168.2.102', 39750).
+Mon Oct 31 17:02:00 2016 - Received GPS coordinate request from ('192.168.2.103', 51838).
+Mon Oct 31 17:02:00 2016 - Received heading direction request from ('192.168.2.102', 43612).
+Mon Oct 31 17:02:00 2016 - Received heading direction request from ('192.168.2.103', 53888).
+Mon Oct 31 17:02:01 2016 - Horizontal distance to destination: 19.9757982041 m.
+Mon Oct 31 17:02:01 2016 - Perpendicular distance to destination: -0.15 m.
+Mon Oct 31 17:02:01 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:01 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:01 2016 - Received GPS coordinate request from ('192.168.2.102', 39754).
+Mon Oct 31 17:02:01 2016 - Received GPS coordinate request from ('192.168.2.103', 51842).
+Mon Oct 31 17:02:01 2016 - Received heading direction request from ('192.168.2.102', 43616).
+Mon Oct 31 17:02:01 2016 - Received heading direction request from ('192.168.2.103', 53892).
+Mon Oct 31 17:02:01 2016 - Horizontal distance to destination: 19.9195838434 m.
+Mon Oct 31 17:02:01 2016 - Perpendicular distance to destination: -0.16 m.
+Mon Oct 31 17:02:01 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:01 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:01 2016 - Received GPS coordinate request from ('192.168.2.102', 39758).
+Mon Oct 31 17:02:01 2016 - Received heading direction request from ('192.168.2.102', 43620).
+Mon Oct 31 17:02:01 2016 - Received GPS coordinate request from ('192.168.2.103', 51846).
+Mon Oct 31 17:02:01 2016 - Received heading direction request from ('192.168.2.103', 53896).
+Mon Oct 31 17:02:02 2016 - Horizontal distance to destination: 19.6478387132 m.
+Mon Oct 31 17:02:02 2016 - Perpendicular distance to destination: -0.12 m.
+Mon Oct 31 17:02:02 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:02 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:02 2016 - Received GPS coordinate request from ('192.168.2.102', 39762).
+Mon Oct 31 17:02:02 2016 - Received GPS coordinate request from ('192.168.2.103', 51850).
+Mon Oct 31 17:02:02 2016 - Received heading direction request from ('192.168.2.103', 53900).
+Mon Oct 31 17:02:02 2016 - Received heading direction request from ('192.168.2.102', 43624).
+Mon Oct 31 17:02:02 2016 - Horizontal distance to destination: 19.341731528 m.
+Mon Oct 31 17:02:02 2016 - Perpendicular distance to destination: -0.08 m.
+Mon Oct 31 17:02:02 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:02 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:02 2016 - Received GPS coordinate request from ('192.168.2.102', 39766).
+Mon Oct 31 17:02:02 2016 - Received GPS coordinate request from ('192.168.2.103', 51854).
+Mon Oct 31 17:02:02 2016 - Received heading direction request from ('192.168.2.102', 43628).
+Mon Oct 31 17:02:02 2016 - Received heading direction request from ('192.168.2.103', 53904).
+Mon Oct 31 17:02:03 2016 - Horizontal distance to destination: 18.999687447 m.
+Mon Oct 31 17:02:03 2016 - Perpendicular distance to destination: -0.02 m.
+Mon Oct 31 17:02:03 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:03 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:03 2016 - Received GPS coordinate request from ('192.168.2.102', 39770).
+Mon Oct 31 17:02:03 2016 - Received GPS coordinate request from ('192.168.2.103', 51858).
+Mon Oct 31 17:02:03 2016 - Received heading direction request from ('192.168.2.102', 43632).
+Mon Oct 31 17:02:03 2016 - Received heading direction request from ('192.168.2.103', 53908).
+Mon Oct 31 17:02:03 2016 - Horizontal distance to destination: 18.6686030113 m.
+Mon Oct 31 17:02:03 2016 - Perpendicular distance to destination: 0.0 m.
+Mon Oct 31 17:02:03 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:03 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:03 2016 - Received GPS coordinate request from ('192.168.2.102', 39774).
+Mon Oct 31 17:02:03 2016 - Received GPS coordinate request from ('192.168.2.103', 51862).
+Mon Oct 31 17:02:03 2016 - Received heading direction request from ('192.168.2.102', 43636).
+Mon Oct 31 17:02:03 2016 - Received heading direction request from ('192.168.2.103', 53912).
+Mon Oct 31 17:02:04 2016 - Horizontal distance to destination: 18.1986098028 m.
+Mon Oct 31 17:02:04 2016 - Perpendicular distance to destination: -0.05 m.
+Mon Oct 31 17:02:04 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:04 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:04 2016 - Received GPS coordinate request from ('192.168.2.102', 39778).
+Mon Oct 31 17:02:04 2016 - Received GPS coordinate request from ('192.168.2.103', 51866).
+Mon Oct 31 17:02:04 2016 - Received heading direction request from ('192.168.2.102', 43640).
+Mon Oct 31 17:02:04 2016 - Received heading direction request from ('192.168.2.103', 53916).
+Mon Oct 31 17:02:04 2016 - Horizontal distance to destination: 17.8613052444 m.
+Mon Oct 31 17:02:04 2016 - Perpendicular distance to destination: -0.08 m.
+Mon Oct 31 17:02:04 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:04 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:04 2016 - Received GPS coordinate request from ('192.168.2.102', 39782).
+Mon Oct 31 17:02:05 2016 - Received GPS coordinate request from ('192.168.2.103', 51870).
+Mon Oct 31 17:02:05 2016 - Received heading direction request from ('192.168.2.102', 43644).
+Mon Oct 31 17:02:05 2016 - Received heading direction request from ('192.168.2.103', 53920).
+Mon Oct 31 17:02:05 2016 - Horizontal distance to destination: 17.4553061246 m.
+Mon Oct 31 17:02:05 2016 - Perpendicular distance to destination: -0.13 m.
+Mon Oct 31 17:02:05 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:05 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:05 2016 - Received GPS coordinate request from ('192.168.2.103', 51874).
+Mon Oct 31 17:02:05 2016 - Received heading direction request from ('192.168.2.103', 53924).
+Mon Oct 31 17:02:05 2016 - Horizontal distance to destination: 17.0508487363 m.
+Mon Oct 31 17:02:05 2016 - Perpendicular distance to destination: -0.2 m.
+Mon Oct 31 17:02:06 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:06 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:06 2016 - Received GPS coordinate request from ('192.168.2.103', 51878).
+Mon Oct 31 17:02:06 2016 - Received heading direction request from ('192.168.2.103', 53928).
+Mon Oct 31 17:02:06 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:02:06 2016 - Horizontal distance to destination: 16.8275249364 m.
+Mon Oct 31 17:02:06 2016 - Perpendicular distance to destination: -0.25 m.
+Mon Oct 31 17:02:06 2016 - Received GPS coordinate request from ('192.168.2.102', 39786).
+Mon Oct 31 17:02:06 2016 - Received heading direction request from ('192.168.2.102', 43648).
+Mon Oct 31 17:02:06 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:06 2016 - Sending command fly_follow() to follower2.
+ Mon Oct 31 17:02:06 2016 - Received GPS coordinate request from ('192.168.2.102', 39790).
+Mon Oct 31 17:02:06 2016 - Received heading direction request from ('192.168.2.102', 43652).
+Mon Oct 31 17:02:06 2016 - Received GPS coordinate request from ('192.168.2.103', 51882).
+Mon Oct 31 17:02:06 2016 - Received GPS coordinate request from ('192.168.2.102', 39794).
+Mon Oct 31 17:02:06 2016 - Received heading direction request from ('192.168.2.103', 53932).
+Mon Oct 31 17:02:06 2016 - Received heading direction request from ('192.168.2.102', 43656).
+Mon Oct 31 17:02:06 2016 - Horizontal distance to destination: 16.2341099965 m.
+Mon Oct 31 17:02:06 2016 - Perpendicular distance to destination: -0.34 m.
+Mon Oct 31 17:02:07 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:07 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:07 2016 - Received GPS coordinate request from ('192.168.2.102', 39798).
+Mon Oct 31 17:02:07 2016 - Received GPS coordinate request from ('192.168.2.103', 51886).
+Mon Oct 31 17:02:07 2016 - Received heading direction request from ('192.168.2.102', 43660).
+Mon Oct 31 17:02:07 2016 - Received heading direction request from ('192.168.2.103', 53936).
+Mon Oct 31 17:02:07 2016 - Horizontal distance to destination: 15.8499678841 m.
+Mon Oct 31 17:02:07 2016 - Perpendicular distance to destination: -0.37 m.
+Mon Oct 31 17:02:07 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:07 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:07 2016 - Received GPS coordinate request from ('192.168.2.102', 39802).
+Mon Oct 31 17:02:07 2016 - Received GPS coordinate request from ('192.168.2.103', 51890).
+Mon Oct 31 17:02:07 2016 - Received heading direction request from ('192.168.2.103', 53940).
+Mon Oct 31 17:02:07 2016 - Received heading direction request from ('192.168.2.102', 43664).
+Mon Oct 31 17:02:07 2016 - Horizontal distance to destination: 15.4658299371 m.
+Mon Oct 31 17:02:07 2016 - Perpendicular distance to destination: -0.44 m.
+Mon Oct 31 17:02:08 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:08 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:08 2016 - Received GPS coordinate request from ('192.168.2.102', 39806).
+Mon Oct 31 17:02:08 2016 - Received GPS coordinate request from ('192.168.2.103', 51894).
+Mon Oct 31 17:02:08 2016 - Received heading direction request from ('192.168.2.102', 43668).
+Mon Oct 31 17:02:08 2016 - Received heading direction request from ('192.168.2.103', 53944).
+Mon Oct 31 17:02:08 2016 - Horizontal distance to destination: 15.1019865638 m.
+Mon Oct 31 17:02:08 2016 - Perpendicular distance to destination: -0.48 m.
+Mon Oct 31 17:02:08 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:08 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:08 2016 - Received GPS coordinate request from ('192.168.2.102', 39810).
+Mon Oct 31 17:02:08 2016 - Received GPS coordinate request from ('192.168.2.103', 51898).
+Mon Oct 31 17:02:08 2016 - Received heading direction request from ('192.168.2.102', 43672).
+Mon Oct 31 17:02:08 2016 - Received heading direction request from ('192.168.2.103', 53948).
+Mon Oct 31 17:02:08 2016 - Horizontal distance to destination: 14.746007191 m.
+Mon Oct 31 17:02:08 2016 - Perpendicular distance to destination: -0.5 m.
+Mon Oct 31 17:02:09 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:09 2016 - Horizontal distance to destination: 14.5555139924 m.
+Mon Oct 31 17:02:09 2016 - Perpendicular distance to destination: -0.52 m.
+Mon Oct 31 17:02:09 2016 - Horizontal distance to destination: 13.9840486974 m.
+Mon Oct 31 17:02:10 2016 - Perpendicular distance to destination: -0.51 m.
+Mon Oct 31 17:02:10 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:10 2016 - Received GPS coordinate request from ('192.168.2.103', 51902).
+Mon Oct 31 17:02:10 2016 - Received heading direction request from ('192.168.2.103', 53952).
+Mon Oct 31 17:02:10 2016 - Received GPS coordinate request from ('192.168.2.102', 39814).
+Mon Oct 31 17:02:10 2016 - Received heading direction request from ('192.168.2.102', 43676).
+Mon Oct 31 17:02:10 2016 - Horizontal distance to destination: 13.6123956107 m.
+Mon Oct 31 17:02:10 2016 - Perpendicular distance to destination: -0.46 m.
+Mon Oct 31 17:02:10 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:10 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:10 2016 - Received GPS coordinate request from ('192.168.2.102', 39818).
+Mon Oct 31 17:02:10 2016 - Received GPS coordinate request from ('192.168.2.103', 51906).
+Mon Oct 31 17:02:10 2016 - Received heading direction request from ('192.168.2.102', 43680).
+Mon Oct 31 17:02:10 2016 - Received heading direction request from ('192.168.2.103', 53956).
+Mon Oct 31 17:02:11 2016 - Horizontal distance to destination: 13.2282161564 m.
+Mon Oct 31 17:02:11 2016 - Perpendicular distance to destination: -0.4 m.
+Mon Oct 31 17:02:11 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:11 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:11 2016 - Received GPS coordinate request from ('192.168.2.102', 39822).
+Mon Oct 31 17:02:11 2016 - Received GPS coordinate request from ('192.168.2.103', 51910).
+Mon Oct 31 17:02:11 2016 - Received heading direction request from ('192.168.2.102', 43684).
+Mon Oct 31 17:02:11 2016 - Received heading direction request from ('192.168.2.103', 53960).
+Mon Oct 31 17:02:11 2016 - Horizontal distance to destination: 12.8517823462 m.
+Mon Oct 31 17:02:11 2016 - Perpendicular distance to destination: -0.34 m.
+Mon Oct 31 17:02:11 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:11 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:11 2016 - Received GPS coordinate request from ('192.168.2.102', 39826).
+Mon Oct 31 17:02:11 2016 - Received GPS coordinate request from ('192.168.2.103', 51914).
+Mon Oct 31 17:02:11 2016 - Received heading direction request from ('192.168.2.102', 43688).
+Mon Oct 31 17:02:12 2016 - Received heading direction request from ('192.168.2.103', 53964).
+Mon Oct 31 17:02:12 2016 - Horizontal distance to destination: 12.3848325854 m.
+Mon Oct 31 17:02:12 2016 - Perpendicular distance to destination: -0.29 m.
+Mon Oct 31 17:02:12 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:12 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:12 2016 - Received GPS coordinate request from ('192.168.2.102', 39830).
+Mon Oct 31 17:02:12 2016 - Received GPS coordinate request from ('192.168.2.103', 51918).
+Mon Oct 31 17:02:12 2016 - Received heading direction request from ('192.168.2.102', 43692).
+Mon Oct 31 17:02:12 2016 - Received heading direction request from ('192.168.2.103', 53968).
+Mon Oct 31 17:02:12 2016 - Horizontal distance to destination: 11.9148122405 m.
+Mon Oct 31 17:02:12 2016 - Perpendicular distance to destination: -0.2 m.
+Mon Oct 31 17:02:12 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:13 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:13 2016 - Received GPS coordinate request from ('192.168.2.102', 39834).
+Mon Oct 31 17:02:13 2016 - Horizontal distance to destination: 11.4744403111 m.
+Mon Oct 31 17:02:13 2016 - Perpendicular distance to destination: -0.12 m.
+Mon Oct 31 17:02:13 2016 - Received heading direction request from ('192.168.2.102', 43696).
+Mon Oct 31 17:02:13 2016 - Received GPS coordinate request from ('192.168.2.103', 51922).
+Mon Oct 31 17:02:13 2016 - Received heading direction request from ('192.168.2.103', 53972).
+Mon Oct 31 17:02:13 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:13 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:13 2016 - Received GPS coordinate request from ('192.168.2.102', 39838).
+ Mon Oct 31 17:02:13 2016 - Horizontal distance to destination: 11.0122122516 m.
+Mon Oct 31 17:02:13 2016 - Perpendicular distance to destination: -0.08 m.
+Mon Oct 31 17:02:13 2016 - Received GPS coordinate request from ('192.168.2.103', 51926).
+Mon Oct 31 17:02:13 2016 - Received heading direction request from ('192.168.2.102', 43700).
+Mon Oct 31 17:02:13 2016 - Received heading direction request from ('192.168.2.103', 53976).
+Mon Oct 31 17:02:14 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:14 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:14 2016 - Horizontal distance to destination: 10.5609157815 m.
+Mon Oct 31 17:02:14 2016 - Perpendicular distance to destination: -0.06 m.
+Mon Oct 31 17:02:14 2016 - Received GPS coordinate request from ('192.168.2.102', 39842).
+Mon Oct 31 17:02:14 2016 - Received GPS coordinate request from ('192.168.2.103', 51930).
+Mon Oct 31 17:02:14 2016 - Received heading direction request from ('192.168.2.102', 43704).
+Mon Oct 31 17:02:14 2016 - Received heading direction request from ('192.168.2.103', 53980).
+Mon Oct 31 17:02:14 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:14 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:14 2016 - Horizontal distance to destination: 10.1190019031 m.
+Mon Oct 31 17:02:14 2016 - Perpendicular distance to destination: -0.06 m.
+Mon Oct 31 17:02:14 2016 - Received GPS coordinate request from ('192.168.2.102', 39846).
+Mon Oct 31 17:02:14 2016 - Received heading direction request from ('192.168.2.102', 43708).
+Mon Oct 31 17:02:14 2016 - Received GPS coordinate request from ('192.168.2.103', 51934).
+Mon Oct 31 17:02:14 2016 - Received heading direction request from ('192.168.2.103', 53984).
+Mon Oct 31 17:02:15 2016 - Horizontal distance to destination: 9.68805401302 m.
+Mon Oct 31 17:02:15 2016 - Perpendicular distance to destination: -0.13 m.
+Mon Oct 31 17:02:15 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:15 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:15 2016 - Received GPS coordinate request from ('192.168.2.102', 39850).
+Mon Oct 31 17:02:15 2016 - Received heading direction request from ('192.168.2.102', 43712).
+Mon Oct 31 17:02:15 2016 - Received GPS coordinate request from ('192.168.2.103', 51938).
+Mon Oct 31 17:02:15 2016 - Received heading direction request from ('192.168.2.103', 53988).
+Mon Oct 31 17:02:15 2016 - Horizontal distance to destination: 9.2367836498 m.
+Mon Oct 31 17:02:15 2016 - Perpendicular distance to destination: -0.18 m.
+Mon Oct 31 17:02:15 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:15 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:15 2016 - Received GPS coordinate request from ('192.168.2.102', 39854).
+Mon Oct 31 17:02:15 2016 - Received GPS coordinate request from ('192.168.2.103', 51942).
+Mon Oct 31 17:02:15 2016 - Received heading direction request from ('192.168.2.103', 53992).
+Mon Oct 31 17:02:15 2016 - Received heading direction request from ('192.168.2.102', 43716).
+Mon Oct 31 17:02:16 2016 - Horizontal distance to destination: 8.78385390514 m.
+Mon Oct 31 17:02:16 2016 - Perpendicular distance to destination: -0.18 m.
+Mon Oct 31 17:02:16 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:16 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:16 2016 - Received GPS coordinate request from ('192.168.2.102', 39858).
+Mon Oct 31 17:02:16 2016 - Received GPS coordinate request from ('192.168.2.103', 51946).
+Mon Oct 31 17:02:16 2016 - Received heading direction request from ('192.168.2.102', 43720).
+Mon Oct 31 17:02:16 2016 - Received heading direction request from ('192.168.2.103', 53996).
+Mon Oct 31 17:02:16 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:02:16 2016 - Horizontal distance to destination: 8.34822651366 m.
+Mon Oct 31 17:02:16 2016 - Perpendicular distance to destination: -0.19 m.
+Mon Oct 31 17:02:16 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:16 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:16 2016 - Received GPS coordinate request from ('192.168.2.102', 39862).
+Mon Oct 31 17:02:16 2016 - Received heading direction request from ('192.168.2.102', 43724).
+Mon Oct 31 17:02:16 2016 - Received GPS coordinate request from ('192.168.2.103', 51950).
+Mon Oct 31 17:02:16 2016 - Received heading direction request from ('192.168.2.103', 54000).
+Mon Oct 31 17:02:17 2016 - Horizontal distance to destination: 7.8969155627 m.
+Mon Oct 31 17:02:17 2016 - Perpendicular distance to destination: -0.19 m.
+Mon Oct 31 17:02:17 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:17 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:17 2016 - Received GPS coordinate request from ('192.168.2.102', 39866).
+Mon Oct 31 17:02:17 2016 - Received GPS coordinate request from ('192.168.2.103', 51954).
+Mon Oct 31 17:02:17 2016 - Received heading direction request from ('192.168.2.102', 43728).
+Mon Oct 31 17:02:17 2016 - Received heading direction request from ('192.168.2.103', 54004).
+Mon Oct 31 17:02:17 2016 - Horizontal distance to destination: 7.44402564741 m.
+Mon Oct 31 17:02:17 2016 - Perpendicular distance to destination: -0.23 m.
+Mon Oct 31 17:02:17 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:17 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:17 2016 - Received GPS coordinate request from ('192.168.2.102', 39870).
+Mon Oct 31 17:02:17 2016 - Received GPS coordinate request from ('192.168.2.103', 51958).
+Mon Oct 31 17:02:17 2016 - Received heading direction request from ('192.168.2.102', 43732).
+Mon Oct 31 17:02:17 2016 - Received heading direction request from ('192.168.2.103', 54008).
+Mon Oct 31 17:02:18 2016 - Horizontal distance to destination: 7.03801186276 m.
+Mon Oct 31 17:02:18 2016 - Perpendicular distance to destination: -0.28 m.
+Mon Oct 31 17:02:18 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:18 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:18 2016 - Received GPS coordinate request from ('192.168.2.103', 51962).
+Mon Oct 31 17:02:18 2016 - Received heading direction request from ('192.168.2.103', 54012).
+Mon Oct 31 17:02:18 2016 - Horizontal distance to destination: 6.62264520247 m.
+Mon Oct 31 17:02:18 2016 - Perpendicular distance to destination: -0.32 m.
+Mon Oct 31 17:02:18 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:18 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:18 2016 - Received GPS coordinate request from ('192.168.2.103', 51966).
+Mon Oct 31 17:02:18 2016 - Received heading direction request from ('192.168.2.103', 54016).
+Mon Oct 31 17:02:19 2016 - Horizontal distance to destination: 6.21662934551 m.
+Mon Oct 31 17:02:19 2016 - Perpendicular distance to destination: -0.33 m.
+Mon Oct 31 17:02:19 2016 - Received GPS coordinate request from ('192.168.2.102', 39874).
+Mon Oct 31 17:02:19 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:19 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:19 2016 - Received heading direction request from ('192.168.2.102', 43736).
+Mon Oct 31 17:02:19 2016 - Received GPS coordinate request from ('192.168.2.102', 39878).
+Mon Oct 31 17:02:19 2016 - Received GPS coordinate request from ('192.168.2.103', 51970).
+Mon Oct 31 17:02:19 2016 - Received heading direction request from ('192.168.2.102', 43740).
+Mon Oct 31 17:02:19 2016 - Received heading direction request from ('192.168.2.103', 54020).
+Mon Oct 31 17:02:19 2016 - Received GPS coordinate request from ('192.168.2.102', 39882).
+Mon Oct 31 17:02:19 2016 - Horizontal distance to destination: 5.84340484999 m.
+Mon Oct 31 17:02:19 2016 - Perpendicular distance to destination: -0.3 m.
+Mon Oct 31 17:02:19 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:19 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:19 2016 - Received GPS coordinate request from ('192.168.2.103', 51974).
+Mon Oct 31 17:02:19 2016 - Received heading direction request from ('192.168.2.103', 54024).
+Mon Oct 31 17:02:20 2016 - Horizontal distance to destination: 5.46081985349 m.
+Mon Oct 31 17:02:20 2016 - Perpendicular distance to destination: -0.29 m.
+Mon Oct 31 17:02:20 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:20 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:20 2016 - Received heading direction request from ('192.168.2.102', 43744).
+ Mon Oct 31 17:02:20 2016 - Received GPS coordinate request from ('192.168.2.103', 51978).
+Mon Oct 31 17:02:20 2016 - Received heading direction request from ('192.168.2.103', 54028).
+Mon Oct 31 17:02:20 2016 - Received GPS coordinate request from ('192.168.2.102', 39886).
+Mon Oct 31 17:02:20 2016 - Received heading direction request from ('192.168.2.102', 43748).
+Mon Oct 31 17:02:20 2016 - Received GPS coordinate request from ('192.168.2.102', 39890).
+Mon Oct 31 17:02:20 2016 - Received heading direction request from ('192.168.2.102', 43752).
+Mon Oct 31 17:02:20 2016 - Horizontal distance to destination: 4.8799959492 m.
+Mon Oct 31 17:02:20 2016 - Perpendicular distance to destination: -0.26 m.
+Mon Oct 31 17:02:20 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:20 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:20 2016 - Received GPS coordinate request from ('192.168.2.102', 39894).
+Mon Oct 31 17:02:20 2016 - Received GPS coordinate request from ('192.168.2.103', 51982).
+Mon Oct 31 17:02:20 2016 - Received heading direction request from ('192.168.2.102', 43756).
+Mon Oct 31 17:02:20 2016 - Received heading direction request from ('192.168.2.103', 54032).
+Mon Oct 31 17:02:21 2016 - Horizontal distance to destination: 4.48489202193 m.
+Mon Oct 31 17:02:21 2016 - Perpendicular distance to destination: -0.22 m.
+Mon Oct 31 17:02:21 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:21 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:21 2016 - Received GPS coordinate request from ('192.168.2.102', 39898).
+Mon Oct 31 17:02:21 2016 - Received GPS coordinate request from ('192.168.2.103', 51986).
+Mon Oct 31 17:02:21 2016 - Received heading direction request from ('192.168.2.102', 43760).
+Mon Oct 31 17:02:21 2016 - Received heading direction request from ('192.168.2.103', 54036).
+Mon Oct 31 17:02:21 2016 - Horizontal distance to destination: 4.07262030968 m.
+Mon Oct 31 17:02:21 2016 - Perpendicular distance to destination: -0.18 m.
+Mon Oct 31 17:02:21 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:21 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:21 2016 - Received GPS coordinate request from ('192.168.2.102', 39902).
+Mon Oct 31 17:02:21 2016 - Received heading direction request from ('192.168.2.102', 43764).
+Mon Oct 31 17:02:22 2016 - Horizontal distance to destination: 3.6746174081 m.
+Mon Oct 31 17:02:22 2016 - Perpendicular distance to destination: -0.13 m.
+Mon Oct 31 17:02:22 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:22 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:22 2016 - Received GPS coordinate request from ('192.168.2.102', 39906).
+Mon Oct 31 17:02:22 2016 - Received heading direction request from ('192.168.2.102', 43768).
+Mon Oct 31 17:02:22 2016 - Horizontal distance to destination: 3.27412653813 m.
+Mon Oct 31 17:02:22 2016 - Perpendicular distance to destination: -0.11 m.
+Mon Oct 31 17:02:22 2016 - Received GPS coordinate request from ('192.168.2.103', 51990).
+Mon Oct 31 17:02:22 2016 - Received heading direction request from ('192.168.2.103', 54040).
+ Mon Oct 31 17:02:22 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:22 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:22 2016 - Received GPS coordinate request from ('192.168.2.103', 51994).
+Mon Oct 31 17:02:22 2016 - Received GPS coordinate request from ('192.168.2.102', 39910).
+Mon Oct 31 17:02:22 2016 - Received heading direction request from ('192.168.2.103', 54044).
+Mon Oct 31 17:02:22 2016 - Received heading direction request from ('192.168.2.102', 43772).
+Mon Oct 31 17:02:22 2016 - Received GPS coordinate request from ('192.168.2.103', 51998).
+Mon Oct 31 17:02:22 2016 - Received heading direction request from ('192.168.2.103', 54048).
+Mon Oct 31 17:02:23 2016 - Horizontal distance to destination: 2.87810733145 m.
+Mon Oct 31 17:02:23 2016 - Perpendicular distance to destination: -0.11 m.
+Mon Oct 31 17:02:23 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:23 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:23 2016 - Received GPS coordinate request from ('192.168.2.102', 39914).
+Mon Oct 31 17:02:23 2016 - Received GPS coordinate request from ('192.168.2.103', 52002).
+Mon Oct 31 17:02:23 2016 - Received heading direction request from ('192.168.2.102', 43776).
+Mon Oct 31 17:02:23 2016 - Received heading direction request from ('192.168.2.103', 54052).
+Mon Oct 31 17:02:23 2016 - Horizontal distance to destination: 2.45175396295 m.
+Mon Oct 31 17:02:23 2016 - Perpendicular distance to destination: -0.07 m.
+Mon Oct 31 17:02:23 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:23 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:23 2016 - Received GPS coordinate request from ('192.168.2.102', 39918).
+Mon Oct 31 17:02:23 2016 - Received GPS coordinate request from ('192.168.2.103', 52006).
+Mon Oct 31 17:02:23 2016 - Received heading direction request from ('192.168.2.102', 43780).
+Mon Oct 31 17:02:23 2016 - Received heading direction request from ('192.168.2.103', 54056).
+Mon Oct 31 17:02:24 2016 - Horizontal distance to destination: 2.03524599412 m.
+Mon Oct 31 17:02:24 2016 - Perpendicular distance to destination: -0.04 m.
+Mon Oct 31 17:02:24 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:24 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:24 2016 - Received GPS coordinate request from ('192.168.2.102', 39922).
+Mon Oct 31 17:02:24 2016 - Received GPS coordinate request from ('192.168.2.103', 52010).
+Mon Oct 31 17:02:24 2016 - Received heading direction request from ('192.168.2.102', 43784).
+Mon Oct 31 17:02:24 2016 - Received heading direction request from ('192.168.2.103', 54060).
+Mon Oct 31 17:02:24 2016 - Horizontal distance to destination: 1.58389151223 m.
+Mon Oct 31 17:02:24 2016 - Perpendicular distance to destination: 0.0 m.
+Mon Oct 31 17:02:24 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:24 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:24 2016 - Received GPS coordinate request from ('192.168.2.102', 39926).
+Mon Oct 31 17:02:24 2016 - Received GPS coordinate request from ('192.168.2.103', 52014).
+Mon Oct 31 17:02:24 2016 - Received heading direction request from ('192.168.2.102', 43788).
+Mon Oct 31 17:02:24 2016 - Received heading direction request from ('192.168.2.103', 54064).
+Mon Oct 31 17:02:25 2016 - Horizontal distance to destination: 1.15736560668 m.
+Mon Oct 31 17:02:25 2016 - Perpendicular distance to destination: 0.07 m.
+Mon Oct 31 17:02:25 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:25 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:25 2016 - Received GPS coordinate request from ('192.168.2.102', 39930).
+Mon Oct 31 17:02:25 2016 - Received GPS coordinate request from ('192.168.2.103', 52018).
+Mon Oct 31 17:02:25 2016 - Received heading direction request from ('192.168.2.102', 43792).
+Mon Oct 31 17:02:25 2016 - Received heading direction request from ('192.168.2.103', 54068).
+Mon Oct 31 17:02:25 2016 - Horizontal distance to destination: 0.743331435423 m.
+Mon Oct 31 17:02:25 2016 - Perpendicular distance to destination: 0.1 m.
+Mon Oct 31 17:02:25 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:25 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:25 2016 - Received GPS coordinate request from ('192.168.2.102', 39934).
+Mon Oct 31 17:02:25 2016 - Received GPS coordinate request from ('192.168.2.103', 52022).
+Mon Oct 31 17:02:25 2016 - Received heading direction request from ('192.168.2.102', 43796).
+Mon Oct 31 17:02:25 2016 - Received heading direction request from ('192.168.2.103', 54072).
+Mon Oct 31 17:02:26 2016 - Horizontal distance to destination: 0.524286150339 m.
+Mon Oct 31 17:02:26 2016 - Perpendicular distance to destination: 0.09 m.
+Mon Oct 31 17:02:26 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:02:26 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:26 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:26 2016 - Received GPS coordinate request from ('192.168.2.102', 39938).
+Mon Oct 31 17:02:26 2016 - Received GPS coordinate request from ('192.168.2.103', 52026).
+Mon Oct 31 17:02:26 2016 - Received heading direction request from ('192.168.2.102', 43800).
+Mon Oct 31 17:02:26 2016 - Received heading direction request from ('192.168.2.103', 54076).
+Mon Oct 31 17:02:26 2016 - Horizontal distance to destination: 0.393528637702 m.
+Mon Oct 31 17:02:26 2016 - Perpendicular distance to destination: 0.04 m.
+Mon Oct 31 17:02:26 2016 - After calling goto_gps_location_relative(), vehicle state is:
+Mon Oct 31 17:02:26 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7836026, lon=-86.578528, alt(above sea leavel)=233.68
+     Global Location (relative altitude): lat=34.7836026, lon=-86.578528, alt(relative)=20.04
+     Local Location(NED coordinate): north=-38.4369697571, east=7.04881334305, down=-19.988986969
+     Attitude(radians): Pitch=-0.00222887052223, Yaw=2.96309041977, Roll=0.00347612798214
+     Velocity: Vx=-0.31, Vy=-0.01, Vz=-0.05
+     GPS Info: fix_type=4, num_sat=10
+     Battery: voltage=11.001V, current=17.39A, level=92%
+     Sonar distance: 7.63999986649 m
+     Heading: 169 (degrees from North)
+     Groundspeed: 0.189999997616 m/s
+     Airspeed: 0.189999997616 m/s
+
+
+Mon Oct 31 17:02:26 2016 - Calling function air_break().
+Mon Oct 31 17:02:26 2016 - Sending air break command first time.
+Mon Oct 31 17:02:26 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7836026, lon=-86.578528, alt(above sea leavel)=233.68
+     Global Location (relative altitude): lat=34.7836026, lon=-86.578528, alt(relative)=20.04
+     Local Location(NED coordinate): north=-38.4369697571, east=7.04881334305, down=-19.988986969
+     Attitude(radians): Pitch=-0.00222887052223, Yaw=2.96309041977, Roll=0.00347612798214
+     Velocity: Vx=-0.31, Vy=-0.01, Vz=-0.05
+     GPS Info: fix_type=4, num_sat=10
+     Battery: voltage=11.016V, current=17.91A, level=92%
+     Sonar distance: 7.63999986649 m
+     Heading: 169 (degrees from North)
+     Groundspeed: 0.129999995232 m/s
+     Airspeed: 0.129999995232 m/s
+Mon Oct 31 17:02:29 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:29 2016 - Received GPS coordinate request from ('192.168.2.102', 39942).
+Mon Oct 31 17:02:29 2016 - Received heading direction request from ('192.168.2.102', 43804).
+Mon Oct 31 17:02:34 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:34 2016 - Received GPS coordinate request from ('192.168.2.103', 52030).
+Mon Oct 31 17:02:34 2016 - Received heading direction request from ('192.168.2.103', 54080).
+Mon Oct 31 17:02:36 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:02:39 2016 - After taking off and hover, Leader's GPS coordinate : lat=34.783602, lon=-86.578528, alt_relative=19.99
+Mon Oct 31 17:02:39 2016 - Leader current heading is 169 degree.
+Mon Oct 31 17:02:39 2016 - Leader is going to pointA : (34.783425, -86.5784863)
+Mon Oct 31 17:02:39 2016 - Sending command fly_follow() to follower1.
+
+
+Mon Oct 31 17:02:39 2016 - Calling goto_gps_location_relative(lat=34.783425, lon=-86.5784863, alt=20, groundspeed=1).
+Mon Oct 31 17:02:39 2016 - Before calling goto_gps_location_relative(), vehicle state is:
+Mon Oct 31 17:02:39 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.783602, lon=-86.578528, alt(above sea leavel)=233.63
+     Global Location (relative altitude): lat=34.783602, lon=-86.578528, alt(relative)=19.99
+ Mon Oct 31 17:02:39 2016 - Sending command fly_follow() to follower2.
+     Local Location(NED coordinate): north=-38.4966773987, east=7.04545640945, down=-19.9355716705
+     Attitude(radians): Pitch=-0.00922570098191, Yaw=2.96314167976, Roll=0.00933187454939
+     Velocity: Vx=-0.02, Vy=-0.03, Vz=0.01
+     GPS Info: fix_type=4, num_sat=10
+     Battery: voltage=11.082V, current=17.61A, level=90%
+     Sonar distance: 7.63999986649 m
+     Heading: 169 (degrees from North)
+     Groundspeed: 0.0599999986589 m/s
+     Airspeed: 0.0599999986589 m/s
+Mon Oct 31 17:02:39 2016 - Received GPS coordinate request from ('192.168.2.102', 39946).
+Mon Oct 31 17:02:39 2016 - Received GPS coordinate request from ('192.168.2.103', 52034).
+Mon Oct 31 17:02:39 2016 - Received heading direction request from ('192.168.2.102', 43808).
+Mon Oct 31 17:02:39 2016 - Received heading direction request from ('192.168.2.103', 54084).
+Mon Oct 31 17:02:40 2016 - Horizontal distance to destination: 19.9832473679 m.
+Mon Oct 31 17:02:40 2016 - Perpendicular distance to destination: 0.0 m.
+Mon Oct 31 17:02:40 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:40 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:40 2016 - Received GPS coordinate request from ('192.168.2.102', 39950).
+Mon Oct 31 17:02:40 2016 - Received GPS coordinate request from ('192.168.2.103', 52038).
+Mon Oct 31 17:02:40 2016 - Received heading direction request from ('192.168.2.102', 43812).
+Mon Oct 31 17:02:40 2016 - Received heading direction request from ('192.168.2.103', 54088).
+Mon Oct 31 17:02:40 2016 - Horizontal distance to destination: 19.8076787014 m.
+Mon Oct 31 17:02:40 2016 - Perpendicular distance to destination: 0.01 m.
+Mon Oct 31 17:02:40 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:40 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:40 2016 - Received GPS coordinate request from ('192.168.2.103', 52042).
+Mon Oct 31 17:02:40 2016 - Received GPS coordinate request from ('192.168.2.102', 39954).
+Mon Oct 31 17:02:40 2016 - Received heading direction request from ('192.168.2.103', 54092).
+Mon Oct 31 17:02:40 2016 - Received heading direction request from ('192.168.2.102', 43816).
+Mon Oct 31 17:02:41 2016 - Horizontal distance to destination: 19.4727334806 m.
+Mon Oct 31 17:02:41 2016 - Perpendicular distance to destination: 0.03 m.
+Mon Oct 31 17:02:41 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:41 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:41 2016 - Received GPS coordinate request from ('192.168.2.102', 39958).
+Mon Oct 31 17:02:41 2016 - Received GPS coordinate request from ('192.168.2.103', 52046).
+Mon Oct 31 17:02:41 2016 - Received heading direction request from ('192.168.2.102', 43820).
+Mon Oct 31 17:02:41 2016 - Received heading direction request from ('192.168.2.103', 54096).
+Mon Oct 31 17:02:41 2016 - Horizontal distance to destination: 19.1160644683 m.
+Mon Oct 31 17:02:41 2016 - Perpendicular distance to destination: 0.04 m.
+Mon Oct 31 17:02:41 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:41 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:41 2016 - Received GPS coordinate request from ('192.168.2.102', 39962).
+Mon Oct 31 17:02:41 2016 - Received GPS coordinate request from ('192.168.2.103', 52050).
+Mon Oct 31 17:02:41 2016 - Received heading direction request from ('192.168.2.102', 43824).
+Mon Oct 31 17:02:41 2016 - Received heading direction request from ('192.168.2.103', 54100).
+Mon Oct 31 17:02:42 2016 - Horizontal distance to destination: 18.7141576187 m.
+Mon Oct 31 17:02:42 2016 - Perpendicular distance to destination: 0.05 m.
+Mon Oct 31 17:02:42 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:42 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:42 2016 - Received GPS coordinate request from ('192.168.2.102', 39966).
+Mon Oct 31 17:02:42 2016 - Received GPS coordinate request from ('192.168.2.103', 52054).
+Mon Oct 31 17:02:42 2016 - Received heading direction request from ('192.168.2.102', 43828).
+Mon Oct 31 17:02:42 2016 - Received heading direction request from ('192.168.2.103', 54104).
+Mon Oct 31 17:02:42 2016 - Horizontal distance to destination: 18.3232290426 m.
+Mon Oct 31 17:02:42 2016 - Perpendicular distance to destination: 0.07 m.
+Mon Oct 31 17:02:42 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:42 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:42 2016 - Received GPS coordinate request from ('192.168.2.102', 39970).
+Mon Oct 31 17:02:42 2016 - Received GPS coordinate request from ('192.168.2.103', 52058).
+Mon Oct 31 17:02:42 2016 - Received heading direction request from ('192.168.2.102', 43832).
+Mon Oct 31 17:02:42 2016 - Received heading direction request from ('192.168.2.103', 54108).
+Mon Oct 31 17:02:43 2016 - Horizontal distance to destination: 17.9826510339 m.
+Mon Oct 31 17:02:43 2016 - Perpendicular distance to destination: 0.06 m.
+Mon Oct 31 17:02:43 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:43 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:43 2016 - Received GPS coordinate request from ('192.168.2.102', 39974).
+Mon Oct 31 17:02:43 2016 - Received heading direction request from ('192.168.2.102', 43836).
+Mon Oct 31 17:02:43 2016 - Received GPS coordinate request from ('192.168.2.103', 52062).
+Mon Oct 31 17:02:43 2016 - Received heading direction request from ('192.168.2.103', 54112).
+Mon Oct 31 17:02:43 2016 - Horizontal distance to destination: 17.6705588341 m.
+Mon Oct 31 17:02:43 2016 - Perpendicular distance to destination: 0.08 m.
+Mon Oct 31 17:02:43 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:43 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:43 2016 - Received GPS coordinate request from ('192.168.2.102', 39978).
+Mon Oct 31 17:02:43 2016 - Received GPS coordinate request from ('192.168.2.103', 52066).
+Mon Oct 31 17:02:43 2016 - Received heading direction request from ('192.168.2.102', 43840).
+Mon Oct 31 17:02:43 2016 - Received heading direction request from ('192.168.2.103', 54116).
+Mon Oct 31 17:02:44 2016 - Horizontal distance to destination: 17.3022858371 m.
+Mon Oct 31 17:02:44 2016 - Perpendicular distance to destination: 0.06 m.
+Mon Oct 31 17:02:44 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:44 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:44 2016 - Received GPS coordinate request from ('192.168.2.102', 39982).
+Mon Oct 31 17:02:44 2016 - Received heading direction request from ('192.168.2.102', 43844).
+Mon Oct 31 17:02:44 2016 - Received GPS coordinate request from ('192.168.2.103', 52070).
+Mon Oct 31 17:02:44 2016 - Received heading direction request from ('192.168.2.103', 54120).
+Mon Oct 31 17:02:44 2016 - Horizontal distance to destination: 16.9105430545 m.
+Mon Oct 31 17:02:44 2016 - Perpendicular distance to destination: 0.03 m.
+Mon Oct 31 17:02:44 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:44 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:44 2016 - Received GPS coordinate request from ('192.168.2.103', 52074).
+Mon Oct 31 17:02:44 2016 - Received heading direction request from ('192.168.2.103', 54124).
+Mon Oct 31 17:02:44 2016 - Received GPS coordinate request from ('192.168.2.102', 39986).
+Mon Oct 31 17:02:44 2016 - Received heading direction request from ('192.168.2.102', 43848).
+Mon Oct 31 17:02:45 2016 - Horizontal distance to destination: 16.4936176781 m.
+Mon Oct 31 17:02:45 2016 - Perpendicular distance to destination: -0.01 m.
+Mon Oct 31 17:02:45 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:45 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:45 2016 - Received GPS coordinate request from ('192.168.2.102', 39990).
+Mon Oct 31 17:02:45 2016 - Received GPS coordinate request from ('192.168.2.103', 52078).
+Mon Oct 31 17:02:45 2016 - Received heading direction request from ('192.168.2.102', 43852).
+Mon Oct 31 17:02:45 2016 - Received heading direction request from ('192.168.2.103', 54128).
+Mon Oct 31 17:02:45 2016 - Horizontal distance to destination: 16.1110950629 m.
+Mon Oct 31 17:02:45 2016 - Perpendicular distance to destination: 0.04 m.
+Mon Oct 31 17:02:45 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:45 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:45 2016 - Received GPS coordinate request from ('192.168.2.102', 39994).
+Mon Oct 31 17:02:45 2016 - Received GPS coordinate request from ('192.168.2.103', 52082).
+Mon Oct 31 17:02:45 2016 - Received heading direction request from ('192.168.2.102', 43856).
+Mon Oct 31 17:02:45 2016 - Received heading direction request from ('192.168.2.103', 54132).
+Mon Oct 31 17:02:46 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:02:46 2016 - Horizontal distance to destination: 15.7067768852 m.
+Mon Oct 31 17:02:46 2016 - Perpendicular distance to destination: 0.1 m.
+Mon Oct 31 17:02:46 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:46 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:46 2016 - Received GPS coordinate request from ('192.168.2.102', 39998).
+Mon Oct 31 17:02:46 2016 - Received GPS coordinate request from ('192.168.2.103', 52086).
+Mon Oct 31 17:02:46 2016 - Received heading direction request from ('192.168.2.102', 43860).
+Mon Oct 31 17:02:46 2016 - Received heading direction request from ('192.168.2.103', 54136).
+Mon Oct 31 17:02:46 2016 - Horizontal distance to destination: 15.3351609958 m.
+Mon Oct 31 17:02:46 2016 - Perpendicular distance to destination: 0.11 m.
+Mon Oct 31 17:02:46 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:46 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:46 2016 - Received GPS coordinate request from ('192.168.2.102', 40002).
+Mon Oct 31 17:02:46 2016 - Received GPS coordinate request from ('192.168.2.103', 52090).
+ Mon Oct 31 17:02:46 2016 - Received heading direction request from ('192.168.2.102', 43864).
+Mon Oct 31 17:02:46 2016 - Received heading direction request from ('192.168.2.103', 54140).
+Mon Oct 31 17:02:47 2016 - Horizontal distance to destination: 14.9005334729 m.
+Mon Oct 31 17:02:47 2016 - Perpendicular distance to destination: 0.1 m.
+Mon Oct 31 17:02:47 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:47 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:47 2016 - Received GPS coordinate request from ('192.168.2.102', 40006).
+Mon Oct 31 17:02:47 2016 - Received GPS coordinate request from ('192.168.2.103', 52094).
+Mon Oct 31 17:02:47 2016 - Received heading direction request from ('192.168.2.102', 43868).
+Mon Oct 31 17:02:47 2016 - Received heading direction request from ('192.168.2.103', 54144).
+Mon Oct 31 17:02:47 2016 - Horizontal distance to destination: 14.4727055766 m.
+Mon Oct 31 17:02:47 2016 - Perpendicular distance to destination: 0.1 m.
+Mon Oct 31 17:02:47 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:47 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:47 2016 - Received GPS coordinate request from ('192.168.2.102', 40010).
+Mon Oct 31 17:02:47 2016 - Received GPS coordinate request from ('192.168.2.103', 52098).
+Mon Oct 31 17:02:47 2016 - Received heading direction request from ('192.168.2.102', 43872).
+Mon Oct 31 17:02:47 2016 - Received heading direction request from ('192.168.2.103', 54148).
+Mon Oct 31 17:02:48 2016 - Horizontal distance to destination: 13.7512640096 m.
+Mon Oct 31 17:02:48 2016 - Perpendicular distance to destination: 0.02 m.
+Mon Oct 31 17:02:48 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:48 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:48 2016 - Received GPS coordinate request from ('192.168.2.102', 40014).
+Mon Oct 31 17:02:48 2016 - Received GPS coordinate request from ('192.168.2.103', 52102).
+Mon Oct 31 17:02:48 2016 - Received heading direction request from ('192.168.2.102', 43876).
+Mon Oct 31 17:02:48 2016 - Received heading direction request from ('192.168.2.103', 54152).
+Mon Oct 31 17:02:48 2016 - Horizontal distance to destination: 13.2512483139 m.
+Mon Oct 31 17:02:48 2016 - Perpendicular distance to destination: -0.03 m.
+Mon Oct 31 17:02:48 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:48 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:49 2016 - Horizontal distance to destination: 13.0012494008 m.
+Mon Oct 31 17:02:49 2016 - Perpendicular distance to destination: -0.05 m.
+Mon Oct 31 17:02:49 2016 - Received GPS coordinate request from ('192.168.2.102', 40018).
+Mon Oct 31 17:02:49 2016 - Received heading direction request from ('192.168.2.102', 43880).
+Mon Oct 31 17:02:49 2016 - Horizontal distance to destination: 12.341890705 m.
+Mon Oct 31 17:02:49 2016 - Perpendicular distance to destination: -0.11 m.
+Mon Oct 31 17:02:49 2016 - Received GPS coordinate request from ('192.168.2.103', 52106).
+Mon Oct 31 17:02:49 2016 - Received heading direction request from ('192.168.2.103', 54156).
+Mon Oct 31 17:02:50 2016 - Horizontal distance to destination: 11.9190751798 m.
+Mon Oct 31 17:02:50 2016 - Perpendicular distance to destination: -0.1 m.
+Mon Oct 31 17:02:50 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:50 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:50 2016 - Received GPS coordinate request from ('192.168.2.102', 40022).
+Mon Oct 31 17:02:50 2016 - Received heading direction request from ('192.168.2.102', 43884).
+Mon Oct 31 17:02:50 2016 - Horizontal distance to destination: 11.4929387708 m.
+Mon Oct 31 17:02:50 2016 - Perpendicular distance to destination: -0.1 m.
+Mon Oct 31 17:02:50 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:50 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:50 2016 - Received GPS coordinate request from ('192.168.2.102', 40026).
+Mon Oct 31 17:02:50 2016 - Received heading direction request from ('192.168.2.102', 43888).
+Mon Oct 31 17:02:51 2016 - Horizontal distance to destination: 11.0777210157 m.
+Mon Oct 31 17:02:51 2016 - Perpendicular distance to destination: -0.07 m.
+Mon Oct 31 17:02:51 2016 - Received GPS coordinate request from ('192.168.2.103', 52110).
+Mon Oct 31 17:02:51 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:51 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:51 2016 - Received heading direction request from ('192.168.2.103', 54160).
+ Mon Oct 31 17:02:51 2016 - Received GPS coordinate request from ('192.168.2.102', 40030).
+Mon Oct 31 17:02:51 2016 - Horizontal distance to destination: 10.6447957356 m.
+Mon Oct 31 17:02:51 2016 - Perpendicular distance to destination: -0.1 m.
+Mon Oct 31 17:02:51 2016 - Received heading direction request from ('192.168.2.102', 43892).
+ Mon Oct 31 17:02:51 2016 - Received GPS coordinate request from ('192.168.2.103', 52114).
+Mon Oct 31 17:02:51 2016 - Received heading direction request from ('192.168.2.103', 54164).
+Mon Oct 31 17:02:51 2016 - Received GPS coordinate request from ('192.168.2.103', 52118).
+Mon Oct 31 17:02:51 2016 - Received heading direction request from ('192.168.2.103', 54168).
+Mon Oct 31 17:02:51 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:51 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:51 2016 - Received GPS coordinate request from ('192.168.2.102', 40034).
+Mon Oct 31 17:02:51 2016 - Received GPS coordinate request from ('192.168.2.103', 52122).
+Mon Oct 31 17:02:51 2016 - Received heading direction request from ('192.168.2.102', 43896).
+Mon Oct 31 17:02:51 2016 - Received heading direction request from ('192.168.2.103', 54172).
+Mon Oct 31 17:02:52 2016 - Horizontal distance to destination: 10.1993342351 m.
+Mon Oct 31 17:02:52 2016 - Perpendicular distance to destination: -0.1 m.
+Mon Oct 31 17:02:52 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:52 2016 - Horizontal distance to destination: 9.75560095157 m.
+Mon Oct 31 17:02:52 2016 - Perpendicular distance to destination: -0.1 m.
+Mon Oct 31 17:02:53 2016 - Horizontal distance to destination: 9.29937102267 m.
+Mon Oct 31 17:02:53 2016 - Perpendicular distance to destination: -0.06 m.
+Mon Oct 31 17:02:53 2016 - Horizontal distance to destination: 8.86508495623 m.
+Mon Oct 31 17:02:53 2016 - Perpendicular distance to destination: -0.04 m.
+Mon Oct 31 17:02:53 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:53 2016 - Received GPS coordinate request from ('192.168.2.102', 40038).
+Mon Oct 31 17:02:53 2016 - Received heading direction request from ('192.168.2.102', 43900).
+ Mon Oct 31 17:02:53 2016 - Received GPS coordinate request from ('192.168.2.103', 52126).
+Mon Oct 31 17:02:53 2016 - Received heading direction request from ('192.168.2.103', 54176).
+Mon Oct 31 17:02:54 2016 - Horizontal distance to destination: 8.36223989961 m.
+Mon Oct 31 17:02:54 2016 - Perpendicular distance to destination: -0.04 m.
+Mon Oct 31 17:02:54 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:54 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:54 2016 - Received GPS coordinate request from ('192.168.2.102', 40042).
+Mon Oct 31 17:02:54 2016 - Received GPS coordinate request from ('192.168.2.103', 52130).
+Mon Oct 31 17:02:54 2016 - Received heading direction request from ('192.168.2.102', 43904).
+Mon Oct 31 17:02:54 2016 - Received heading direction request from ('192.168.2.103', 54180).
+Mon Oct 31 17:02:54 2016 - Horizontal distance to destination: 7.87357392011 m.
+Mon Oct 31 17:02:54 2016 - Perpendicular distance to destination: 0.0 m.
+Mon Oct 31 17:02:54 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:54 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:54 2016 - Received GPS coordinate request from ('192.168.2.102', 40046).
+Mon Oct 31 17:02:54 2016 - Received GPS coordinate request from ('192.168.2.103', 52134).
+Mon Oct 31 17:02:54 2016 - Received heading direction request from ('192.168.2.102', 43908).
+Mon Oct 31 17:02:54 2016 - Received heading direction request from ('192.168.2.103', 54184).
+Mon Oct 31 17:02:55 2016 - Horizontal distance to destination: 7.42082591494 m.
+Mon Oct 31 17:02:55 2016 - Perpendicular distance to destination: -0.01 m.
+Mon Oct 31 17:02:55 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:55 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:55 2016 - Received GPS coordinate request from ('192.168.2.103', 52138).
+Mon Oct 31 17:02:55 2016 - Received GPS coordinate request from ('192.168.2.102', 40050).
+Mon Oct 31 17:02:55 2016 - Received heading direction request from ('192.168.2.103', 54188).
+Mon Oct 31 17:02:55 2016 - Received heading direction request from ('192.168.2.102', 43912).
+Mon Oct 31 17:02:55 2016 - Horizontal distance to destination: 6.94918853262 m.
+Mon Oct 31 17:02:55 2016 - Perpendicular distance to destination: -0.01 m.
+Mon Oct 31 17:02:55 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:55 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:55 2016 - Received GPS coordinate request from ('192.168.2.102', 40054).
+Mon Oct 31 17:02:55 2016 - Received GPS coordinate request from ('192.168.2.103', 52142).
+Mon Oct 31 17:02:55 2016 - Received heading direction request from ('192.168.2.102', 43916).
+Mon Oct 31 17:02:55 2016 - Received heading direction request from ('192.168.2.103', 54192).
+Mon Oct 31 17:02:56 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:02:56 2016 - Horizontal distance to destination: 6.51984798854 m.
+Mon Oct 31 17:02:56 2016 - Perpendicular distance to destination: -0.01 m.
+Mon Oct 31 17:02:56 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:56 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:56 2016 - Received GPS coordinate request from ('192.168.2.102', 40058).
+Mon Oct 31 17:02:56 2016 - Received GPS coordinate request from ('192.168.2.103', 52146).
+Mon Oct 31 17:02:56 2016 - Received heading direction request from ('192.168.2.102', 43920).
+Mon Oct 31 17:02:56 2016 - Received heading direction request from ('192.168.2.103', 54196).
+Mon Oct 31 17:02:56 2016 - Horizontal distance to destination: 6.0153664662 m.
+Mon Oct 31 17:02:56 2016 - Perpendicular distance to destination: 0.01 m.
+Mon Oct 31 17:02:56 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:56 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:56 2016 - Received GPS coordinate request from ('192.168.2.102', 40062).
+Mon Oct 31 17:02:56 2016 - Received heading direction request from ('192.168.2.102', 43924).
+Mon Oct 31 17:02:56 2016 - Received GPS coordinate request from ('192.168.2.103', 52150).
+Mon Oct 31 17:02:56 2016 - Received heading direction request from ('192.168.2.103', 54200).
+Mon Oct 31 17:02:57 2016 - Horizontal distance to destination: 5.56413663731 m.
+Mon Oct 31 17:02:57 2016 - Perpendicular distance to destination: 0.02 m.
+Mon Oct 31 17:02:57 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:57 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:57 2016 - Received GPS coordinate request from ('192.168.2.102', 40066).
+Mon Oct 31 17:02:57 2016 - Received heading direction request from ('192.168.2.102', 43928).
+Mon Oct 31 17:02:57 2016 - Received GPS coordinate request from ('192.168.2.103', 52154).
+Mon Oct 31 17:02:57 2016 - Received heading direction request from ('192.168.2.103', 54204).
+Mon Oct 31 17:02:57 2016 - Horizontal distance to destination: 5.10862129826 m.
+Mon Oct 31 17:02:57 2016 - Perpendicular distance to destination: 0.02 m.
+Mon Oct 31 17:02:57 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:57 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:57 2016 - Received GPS coordinate request from ('192.168.2.102', 40070).
+Mon Oct 31 17:02:57 2016 - Received GPS coordinate request from ('192.168.2.103', 52158).
+Mon Oct 31 17:02:57 2016 - Received heading direction request from ('192.168.2.102', 43932).
+Mon Oct 31 17:02:57 2016 - Received heading direction request from ('192.168.2.103', 54208).
+Mon Oct 31 17:02:58 2016 - Horizontal distance to destination: 4.61225171471 m.
+Mon Oct 31 17:02:58 2016 - Perpendicular distance to destination: 0.02 m.
+Mon Oct 31 17:02:58 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:58 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:58 2016 - Received GPS coordinate request from ('192.168.2.102', 40074).
+Mon Oct 31 17:02:58 2016 - Received GPS coordinate request from ('192.168.2.103', 52162).
+Mon Oct 31 17:02:58 2016 - Received heading direction request from ('192.168.2.102', 43936).
+Mon Oct 31 17:02:58 2016 - Received heading direction request from ('192.168.2.103', 54212).
+Mon Oct 31 17:02:58 2016 - Horizontal distance to destination: 4.10231744508 m.
+Mon Oct 31 17:02:58 2016 - Perpendicular distance to destination: 0.02 m.
+Mon Oct 31 17:02:58 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:58 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:58 2016 - Received GPS coordinate request from ('192.168.2.102', 40078).
+Mon Oct 31 17:02:58 2016 - Received GPS coordinate request from ('192.168.2.103', 52166).
+Mon Oct 31 17:02:58 2016 - Received heading direction request from ('192.168.2.102', 43940).
+Mon Oct 31 17:02:58 2016 - Received heading direction request from ('192.168.2.103', 54216).
+Mon Oct 31 17:02:59 2016 - Horizontal distance to destination: 3.6367182264 m.
+Mon Oct 31 17:02:59 2016 - Perpendicular distance to destination: 0.03 m.
+Mon Oct 31 17:02:59 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:59 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:02:59 2016 - Received GPS coordinate request from ('192.168.2.103', 52170).
+Mon Oct 31 17:02:59 2016 - Received GPS coordinate request from ('192.168.2.102', 40082).
+Mon Oct 31 17:02:59 2016 - Received heading direction request from ('192.168.2.103', 54220).
+Mon Oct 31 17:02:59 2016 - Received heading direction request from ('192.168.2.102', 43944).
+Mon Oct 31 17:02:59 2016 - Horizontal distance to destination: 3.18497745319 m.
+Mon Oct 31 17:02:59 2016 - Perpendicular distance to destination: 0.04 m.
+Mon Oct 31 17:02:59 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:02:59 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:03:00 2016 - Received GPS coordinate request from ('192.168.2.102', 40086).
+Mon Oct 31 17:03:00 2016 - Received GPS coordinate request from ('192.168.2.103', 52174).
+Mon Oct 31 17:03:00 2016 - Received heading direction request from ('192.168.2.102', 43948).
+Mon Oct 31 17:03:00 2016 - Received heading direction request from ('192.168.2.103', 54224).
+Mon Oct 31 17:03:00 2016 - Horizontal distance to destination: 2.45308495421 m.
+Mon Oct 31 17:03:00 2016 - Perpendicular distance to destination: 0.04 m.
+Mon Oct 31 17:03:00 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:03:00 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:03:00 2016 - Received GPS coordinate request from ('192.168.2.102', 40090).
+Mon Oct 31 17:03:00 2016 - Received GPS coordinate request from ('192.168.2.103', 52178).
+Mon Oct 31 17:03:00 2016 - Received heading direction request from ('192.168.2.102', 43952).
+Mon Oct 31 17:03:00 2016 - Received heading direction request from ('192.168.2.103', 54228).
+Mon Oct 31 17:03:00 2016 - Horizontal distance to destination: 2.22785077797 m.
+Mon Oct 31 17:03:00 2016 - Perpendicular distance to destination: 0.05 m.
+Mon Oct 31 17:03:01 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:03:01 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:03:01 2016 - Received GPS coordinate request from ('192.168.2.102', 40094).
+Mon Oct 31 17:03:01 2016 - Received GPS coordinate request from ('192.168.2.103', 52182).
+Mon Oct 31 17:03:01 2016 - Received heading direction request from ('192.168.2.102', 43956).
+Mon Oct 31 17:03:01 2016 - Received heading direction request from ('192.168.2.103', 54232).
+Mon Oct 31 17:03:01 2016 - Horizontal distance to destination: 1.72362935352 m.
+Mon Oct 31 17:03:01 2016 - Perpendicular distance to destination: 0.04 m.
+Mon Oct 31 17:03:01 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:03:01 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:03:01 2016 - Received GPS coordinate request from ('192.168.2.102', 40098).
+Mon Oct 31 17:03:01 2016 - Received GPS coordinate request from ('192.168.2.103', 52186).
+Mon Oct 31 17:03:01 2016 - Received heading direction request from ('192.168.2.102', 43960).
+Mon Oct 31 17:03:01 2016 - Received heading direction request from ('192.168.2.103', 54236).
+Mon Oct 31 17:03:01 2016 - Horizontal distance to destination: 1.25478604957 m.
+Mon Oct 31 17:03:01 2016 - Perpendicular distance to destination: 0.03 m.
+Mon Oct 31 17:03:02 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:03:02 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:03:02 2016 - Received GPS coordinate request from ('192.168.2.102', 40102).
+Mon Oct 31 17:03:02 2016 - Received heading direction request from ('192.168.2.102', 43964).
+Mon Oct 31 17:03:02 2016 - Horizontal distance to destination: 0.614529231084 m.
+Mon Oct 31 17:03:02 2016 - Perpendicular distance to destination: 0.05 m.
+Mon Oct 31 17:03:02 2016 - Sending command fly_follow() to follower1.
+Mon Oct 31 17:03:02 2016 - Sending command fly_follow() to follower2.
+Mon Oct 31 17:03:02 2016 - Received GPS coordinate request from ('192.168.2.102', 40106).
+Mon Oct 31 17:03:02 2016 - Horizontal distance to destination: 0.333411782457 m.
+Mon Oct 31 17:03:02 2016 - Perpendicular distance to destination: 0.03 m.
+Mon Oct 31 17:03:02 2016 - After calling goto_gps_location_relative(), vehicle state is:
+Mon Oct 31 17:03:02 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7834277, lon=-86.5784847, alt(above sea leavel)=233.67
+     Global Location (relative altitude): lat=34.7834277, lon=-86.5784847, alt(relative)=20.03
+     Local Location(NED coordinate): north=-57.9023666382, east=10.9999437332, down=-19.9727592468
+     Attitude(radians): Pitch=0.0560272745788, Yaw=2.94183301926, Roll=-0.00165965268388
+     Velocity: Vx=-0.51, Vy=0.1, Vz=-0.06
+     GPS Info: fix_type=4, num_sat=10
+     Battery: voltage=11.071V, current=17.86A, level=88%
+     Sonar distance: 7.63999986649 m
+     Heading: 168 (degrees from North)
+     Groundspeed: 0.77999997139 m/s
+     Airspeed: 0.77999997139 m/s
+
+
+Mon Oct 31 17:03:03 2016 - Calling function air_break().
+Mon Oct 31 17:03:03 2016 - Sending air break command first time.
+Mon Oct 31 17:03:03 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7834277, lon=-86.5784847, alt(above sea leavel)=233.67
+     Global Location (relative altitude): lat=34.7834277, lon=-86.5784847, alt(relative)=20.03
+     Local Location(NED coordinate): north=-57.9023666382, east=10.9999437332, down=-19.9727592468
+     Attitude(radians): Pitch=0.0560272745788, Yaw=2.94183301926, Roll=-0.00165965268388
+     Velocity: Vx=-0.51, Vy=0.1, Vz=-0.06
+     GPS Info: fix_type=4, num_sat=10
+     Battery: voltage=11.016V, current=18.8A, level=88%
+     Sonar distance: 7.63999986649 m
+     Heading: 168 (degrees from North)
+     Groundspeed: 0.509999990463 m/s
+     Airspeed: 0.509999990463 m/s
+Mon Oct 31 17:03:03 2016 - Sending air break command once again.
+Mon Oct 31 17:03:03 2016 - Body Frame Velocity command is sent! Vx=-0.51, Vy=0.1, Vz=-0.06
+Mon Oct 31 17:03:03 2016 - Received heading direction request from ('192.168.2.102', 43968).
+Mon Oct 31 17:03:03 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:03:03 2016 - Wait for 1 second.
+Mon Oct 31 17:03:04 2016 - Checking current Vehicle Status:
+     Global Location: lat=34.7834265, lon=-86.5784846, alt(above sea leavel)=233.59
+     Global Location (relative altitude): lat=34.7834265, lon=-86.5784846, alt(relative)=19.95
+     Local Location(NED coordinate): north=-58.0368652344, east=11.0131502151, down=-19.8990001678
+     Attitude(radians): Pitch=0.0330273061991, Yaw=2.92806982994, Roll=-0.00720289349556
+     Velocity: Vx=0.09, Vy=0.0, Vz=0.03
+     GPS Info: fix_type=4, num_sat=10
+     Battery: voltage=10.995V, current=18.81A, level=88%
+     Sonar distance: 2.62999987602 m
+     Heading: 167 (degrees from North)
+     Groundspeed: 0.0599999986589 m/s
+     Airspeed: 0.0599999986589 m/s
+
+
+Mon Oct 31 17:03:05 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:03:05 2016 - Wait for 1 second.
+Mon Oct 31 17:03:06 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:03:06 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:03:06 2016 - Wait for 1 second.
+Mon Oct 31 17:03:07 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:03:07 2016 - Wait for 1 second.
+Mon Oct 31 17:03:08 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:03:08 2016 - Wait for 1 second.
+Mon Oct 31 17:03:09 2016 - Host 192.168.2.103 is not ready.
+Mon Oct 31 17:03:09 2016 - Wait for 1 second.
+Mon Oct 31 17:03:10 2016 - Received GPS coordinate request from ('192.168.2.103', 52190).
+Mon Oct 31 17:03:10 2016 - Received heading direction request from ('192.168.2.103', 54240).
+Mon Oct 31 17:03:10 2016 - Received GPS coordinate request from ('192.168.2.103', 52194).
+Mon Oct 31 17:03:10 2016 - Received heading direction request from ('192.168.2.103', 54244).
+Mon Oct 31 17:03:10 2016 - Mission completed. Return home.
+Mon Oct 31 17:03:10 2016 - Command follower2 return home.
+Mon Oct 31 17:03:15 2016 - Command follower1 return home.
+Mon Oct 31 17:03:16 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:03:20 2016 - Followers have returned home, Leader is returning...
+
+
+Mon Oct 31 17:03:20 2016 - Returning home...
+Mon Oct 31 17:03:20 2016 - Changing vehicle mode to RTL...
+Mon Oct 31 17:03:23 2016 - Current vehicle mode is VehicleMode:RTL
+Mon Oct 31 17:03:23 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:24 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:25 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:26 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:03:26 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:27 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:28 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:29 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:30 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:31 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:32 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:33 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:34 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:35 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:36 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:03:36 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:37 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:38 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:39 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:40 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:41 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:42 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:43 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:44 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:45 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:46 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:03:46 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:47 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:48 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:49 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:50 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:51 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:52 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:53 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:54 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:55 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:56 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:03:56 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:57 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:58 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:03:59 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:00 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:01 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:02 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:03 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:04 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:05 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:06 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:04:06 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:07 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:08 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:09 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:10 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:11 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:12 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:13 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:14 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:15 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:16 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:04:16 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:17 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:18 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:19 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:20 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:21 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:22 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:23 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:24 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:25 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:26 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:04:26 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:27 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:28 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:29 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:30 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:31 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:32 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:33 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:34 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:35 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:36 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:04:36 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:37 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:38 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:39 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:40 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:41 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:42 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:43 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:44 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:45 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:46 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:04:46 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:47 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:48 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:49 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:50 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:51 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:52 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:53 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:54 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:55 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:56 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:04:56 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:57 2016 - Vehicle is returning, wait for 1 second.
+Mon Oct 31 17:04:58 2016 - Vehicle has returned home.
+Mon Oct 31 17:04:58 2016 - Leader has returned home.
+Mon Oct 31 17:05:06 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:05:16 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:05:26 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:05:36 2016 - Connection to router is OK. Check again in 10 seconds
+Mon Oct 31 17:05:46 2016 - Connection to router is OK. Check again in 10 seconds
