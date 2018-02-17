@@ -386,6 +386,8 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 
 <p align="center">
 Square formation (left), diamond formation (middle), and triangle formation (right).
+</p>
+<p align="center">
 The arrow indicates the flight direction.
 </p>
 
