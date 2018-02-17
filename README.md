@@ -376,7 +376,12 @@ Drone troop flys in specified formations. Change formation in flight.
 
 Drone swarm set: Modified 3DR iris+ drones
 
-Actions: Take off -> Square formation -> Diamond formation -> Triangle formation -> Return to launch point
+Actions:
+1. All drones self-arm. Leader check the status of all follower drones. Take off when all drones are ready.
+2. Take off in square formation.
+3. Change formation from square to diamond while flying forward.
+4. Change formation from diamond to triangle while flying forward.
+5. Leader drone commands all follower drones go home. When all the follower drones land on launch point, leader drone go home.
 
 #### RESULT
 
@@ -399,9 +404,21 @@ Video (Click to watch in Youtube):
 ### 2) CURVATUR FLIGHT
 #### OBJECTIVE
 Formation flight along complicated curved path.
+
+Drone swarm set: Modified 3DR iris+ drones
+
+Actions: Tested triangle and square formation flight in "O" shape and "8" shape loop.
+
 #### RESULT
-Tested triangle formation flight in "8" shape loop. Works great. Videos to be uploaded.
+Works great. Drone swarm is able to execute complicated curved path flight. Videos to be uploaded.
 
 ### 3) BALLOON HUNTER
 #### OBJECTIVE
+Find the balloons with specified color and destroy them. 
+
+Drone swarm set: Modified 3DR iris+ drones
+
+Actions:
+1. All drones in a row.
+
 #### RESULT
