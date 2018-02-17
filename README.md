@@ -385,7 +385,7 @@ Actions: Take off -> Square formation -> Diamond formation -> Triangle formation
 </p>
 
 <p align="center">
-Square formation (left), diamond formation (middle), and triangle formation (right)
+Square formation (left), diamond formation (middle), and triangle formation (right). The arrow indicates the flight direction.
 </p>
 
 Video (Click to watch in Youtube):
@@ -397,7 +397,7 @@ Video (Click to watch in Youtube):
 #### OBJECTIVE
 Formation flight along complicated curved path.
 #### RESULT
-Tested triangle formation flight in "8" shape loop
+Tested triangle formation flight in "8" shape loop. Works great. Videos to be uploaded.
 
 ### 3) BALLOON HUNTER
 #### OBJECTIVE
