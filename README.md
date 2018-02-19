@@ -385,14 +385,14 @@ Actions:
 
 #### RESULT
 
-<p align="center">
+<p align="left">
 <img src="Drone_Matrix_Formation_Flight/PICS/1_square.jpg" width="280"> <img src="Drone_Matrix_Formation_Flight/PICS/2_diamond.jpg" width="280"> <img src="Drone_Matrix_Formation_Flight/PICS/3_triangle.jpg" width="280">
 </p>
 
-<p align="center">
+<p align="left">
 Square formation (left), diamond formation (middle), and triangle formation (right).
 </p>
-<p align="center">
+<p align="left">
 The arrow indicates the flight direction.
 </p>
 
