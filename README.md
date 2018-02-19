@@ -430,17 +430,23 @@ Third-person perspective video:
 
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test_3rd_perspective.jpg)](https://youtu.be/_SyWTcQs5Js)
 
+---
+
 First-person perspective video (shot by the vision system on iris1 drone): 
 
 (Click on picture to watch in Youtube)
 
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test_drone1_perspective.jpg)](https://youtu.be/CnQ-mRdKBgw)
 
+---
+
 First-person perspective video (shot by the vision system on iris2 drone): 
 
 (Click on picture to watch in Youtube)
 
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test_drone2_perspective.jpg)](https://youtu.be/w-P8jq9A6hY)
+
+
 
 ###### TEST 2
 Iris1 (the leader) found the red balloon and destroy it successfully. Iris2 (the follower) still did not find the yellow balloon.
