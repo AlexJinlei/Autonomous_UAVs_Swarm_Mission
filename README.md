@@ -398,7 +398,7 @@ The arrow indicates the flight direction.
 
 Video (Click to watch in Youtube):
 
-[![watch the video](Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview_w500.jpg)](https://youtu.be/soto34wwzAU)
+[![watch the video](Drone_Matrix_Formation_Flight/PICS/Formation_Flight_Preview_w800.jpg)](https://youtu.be/soto34wwzAU)
 
 
 ### 2) CURVATUR FLIGHT
