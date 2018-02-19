@@ -427,11 +427,11 @@ Assign a target for each drone by color. All drones find and destroy their desig
 ###### TEST 1
 Iris1 (the leader) found the red balloon and try to hit into it, but its propeller was wrapped by the rope that hung the balloon. Iris2 (the follower) did not find the yellow balloon.
 
-Third-person perspective video:
+Third-person perspective video: https://youtu.be/_SyWTcQs5Js
 
-First-person perspective video (shot by the vision system on iris1 drone):
+First-person perspective video (shot by the vision system on iris1 drone): https://youtu.be/CnQ-mRdKBgw
 
-First-person perspective video (shot by the vision system on iris2 drone):
+First-person perspective video (shot by the vision system on iris2 drone): https://youtu.be/w-P8jq9A6hY
 
 ###### TEST 2
 Iris1 (the leader) found the red balloon and destroy it successfully. Iris2 (the follower) still did not find the yellow balloon.
