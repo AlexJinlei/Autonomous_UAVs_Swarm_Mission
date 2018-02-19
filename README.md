@@ -476,10 +476,20 @@ First-person perspective video (shot by the vision system on iris2 drone):
 ---
 
 ###### TEST 3
-Irist2 perform the task by itself. Iris2 found and destroyed the yellow balloon.
+The red balloon has been destroyed by iris1 in test2. This time, we let iris2 performed the task by itself. We adjusted the exposure of the vision system on iris2. It found and destroyed the yellow balloon.
 
 Third-person perspective video:
 
-First-person perspective video (shot by the vision system on iris1 drone):
+(Click on picture to watch in Youtube)
+
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test3_3rd_perspective.jpg)](https://youtu.be/cJzzUwu1KwM)
+
+---
 
 First-person perspective video (shot by the vision system on iris2 drone):
+
+(Click on picture to watch in Youtube)
+
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test3_drone2_perspective.jpg)](https://youtu.be/TaKmQ_e6p-c)
+
+
