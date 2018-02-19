@@ -385,7 +385,7 @@ Actions:
 
 #### RESULT
 
-<p align="left">
+<p align="center">
 <img src="Drone_Matrix_Formation_Flight/PICS/1_square.jpg" width="280"> <img src="Drone_Matrix_Formation_Flight/PICS/2_diamond.jpg" width="280"> <img src="Drone_Matrix_Formation_Flight/PICS/3_triangle.jpg" width="280">
 </p>
 
