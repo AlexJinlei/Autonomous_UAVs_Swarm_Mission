@@ -419,6 +419,10 @@ Find the balloons with specified color and destroy them.
 Drone swarm set: Modified 3DR iris+ drones
 
 Actions:
-1. All drones in a row.
+Assign a target for each drone by color. All drones find and destroy their designated balloons. The leader drone coordinate the entire action. When all drones are ready to take off, leader drone commands follower drones take off. When all drones complete mission or timeout, leader drone commands follower drones return to launch point.
 
 #### RESULT
+
+##### 1. TWO DRONES TEST
+
+
