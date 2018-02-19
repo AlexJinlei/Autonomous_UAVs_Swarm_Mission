@@ -422,7 +422,7 @@ Assign a target for each drone by color. All drones find and destroy their desig
 
 ##### 1. TWO DRONES TEST
 ###### TEST 1
-Iris1 (the leader) found the red balloon and try to hit into it, but its propeller was wrapped by the rope that hung the balloon. Iris2 (the follower) did not find the yellow balloon.
+Iris1 (the leader) found the red balloon and try to hit into it, but its propeller was wrapped by the rope that hung the balloon. Iris2 (the follower) did not find the yellow balloon. The reason is that the yellow color is not detected.
 
 Third-person perspective video:
 
@@ -446,18 +446,31 @@ First-person perspective video (shot by the vision system on iris2 drone):
 
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test_drone2_perspective.jpg)](https://youtu.be/w-P8jq9A6hY)
 
-----
+---
 ---
 
 ###### TEST 2
-Iris1 (the leader) found the red balloon and destroy it successfully. Iris2 (the follower) still did not find the yellow balloon.
+Two drone balloon hunter mission test. Iris1 (the leader) found the red balloon and destroyed it successfully. Iris2 (the follower) detected the yellow balloon but finally missed it. The yellow color is detected this time, but the exposure is not appropriate, which casue only part of the yellow balloon is recognized. This cause the vision-detected result not stable. The iris2 drone finally missed the yellow balloon.
 
-Third-person perspective video:
+(Click on picture to watch in Youtube)
 
-First-person perspective video (shot by the vision system on iris1 drone):
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test2_3rd_perspective.jpg)](https://youtu.be/y370Tdfmgqc)
 
-First-person perspective video (shot by the vision system on iris2 drone):
+---
 
+First-person perspective video (shot by the vision system on iris1 drone): 
+
+(Click on picture to watch in Youtube)
+
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test2_drone1_perspective.jpg)](https://youtu.be/TAhvWtGgZGE)
+
+---
+
+First-person perspective video (shot by the vision system on iris2 drone): 
+
+(Click on picture to watch in Youtube)
+
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test2_drone2_perspective.jpg)](https://youtu.be/GFtfS8gO6sw)
 
 ---
 ---
