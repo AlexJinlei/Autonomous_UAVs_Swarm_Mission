@@ -420,7 +420,7 @@ Assign a target for each drone by color. All drones find and destroy their desig
 
 #### RESULT
 
-##### 1. TWO DRONES TEST
+##### 1. TWO DRONES MISSION
 ###### TEST 1
 Iris1 (the leader) found the red balloon and try to hit into it, but its propeller was wrapped by the rope that hung the balloon. Iris2 (the follower) did not find the yellow balloon. The reason is that the yellow color is not detected.
 
@@ -447,7 +447,7 @@ First-person perspective video (shot by the vision system on iris2 drone):
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test_drone2_perspective.jpg)](https://youtu.be/w-P8jq9A6hY)
 
 ```
-   
+Above is Test 1.   
 ```
 
 ###### TEST 2
@@ -474,7 +474,7 @@ First-person perspective video (shot by the vision system on iris2 drone):
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test2_drone2_perspective.jpg)](https://youtu.be/GFtfS8gO6sw)
 
 ```
-   
+Above is Test 2.   
 ```
 
 ###### TEST 3
@@ -495,11 +495,11 @@ First-person perspective video (shot by the vision system on iris2 drone):
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test3_drone2_perspective.jpg)](https://youtu.be/TaKmQ_e6p-c)
 
 ```
-  
-  
+Above is Test 3.     
+
 ```
 
-##### 2. FOUR DRONES TEST
+##### 2. FOUR DRONES MISSION
 Four drones were programed to find four balloons with different colors and destroy them. Iris1's target is the red balloon; iris2's target is the yellow balloon; iris3's target is the black balloon; iris4's target is the blue balloon. Iris1 found its target and destroyed it. Iris2 detected its target, but can not confirm it. It failed to destroy it's target. The dark cloud confused iris3, and iris3 failed to detect the black balloon. Iris4 detected its target, the blue balloon at first, but cannot confirm it. Finally iris4 lost it's target. 
 
 <p align="center">
