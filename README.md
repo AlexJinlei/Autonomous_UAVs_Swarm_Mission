@@ -542,7 +542,11 @@ First-person perspective video (shot by the vision system on iris4 drone):
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Four_Drones_Balloon_Hunter_Test1_drone4_perspective.jpg)](https://youtu.be/b8_csG8mejE)
 
 ## 8. FUTURE WORK
-
-
+Flight tests showed that the vision system did not work well with only color and shape detection method. The machine learning algorithm should be added to object detection module. Some advanced hardware features such as 360 degree lidar scanner are not fully implemented. 
+- Add Machine Learning Algorithm to Object Detection Module.
+- Improve Stereo Vision System.
+- Develop Obstacle Avoidance Feature with 360 degree lidar scanner.
+- Develop SLAM Algorithm.
+- Auto Re-configuration. 
 
 
