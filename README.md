@@ -510,9 +510,34 @@ First-person perspective video (shot by the vision system on iris1 drone):
 
 (Click on picture to watch in Youtube)
 
-[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test3_drone2_perspective.jpg)](https://youtu.be/TaKmQ_e6p-c)
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Four_Drones_Balloon_Hunter_Test1_drone1_perspective.jpg)](https://youtu.be/Q0FvxZH-RsA)
 
 ---
+
+First-person perspective video (shot by the vision system on iris2 drone):
+
+(Click on picture to watch in Youtube)
+
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Four_Drones_Balloon_Hunter_Test1_drone2_perspective.jpg)](https://youtu.be/p3V18txZuEA)
+
+---
+
+First-person perspective video (shot by the vision system on iris3 drone):
+
+(Click on picture to watch in Youtube)
+
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Four_Drones_Balloon_Hunter_Test1_drone3_perspective.jpg)](https://youtu.be/y6_1_6V9EHg)
+
+---
+
+First-person perspective video (shot by the vision system on iris4 drone):
+
+(Click on picture to watch in Youtube)
+
+[![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Four_Drones_Balloon_Hunter_Test1_drone4_perspective.jpg)](https://youtu.be/b8_csG8mejE)
+
+## 8. FUTURE WORK
+
 
 
 
