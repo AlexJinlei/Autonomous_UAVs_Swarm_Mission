@@ -505,6 +505,11 @@ Four drones were programed to find four balloons with different colors and destr
 <p align="center">
 <img src="Drone_Matrix_Balloon_Hunter/PICS/Four_balloons.jpg">
 </p>
+<p align="center">
+Four Drones Mission Setup.
+</p>
+
+---
 
 First-person perspective video (shot by the vision system on iris1 drone):
 
