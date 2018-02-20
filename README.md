@@ -447,7 +447,7 @@ First-person perspective video (shot by the vision system on iris2 drone):
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test_drone2_perspective.jpg)](https://youtu.be/w-P8jq9A6hY)
 
 ```
-Above is Test 1.   
+   
 ```
 
 ###### TEST 2
@@ -474,7 +474,7 @@ First-person perspective video (shot by the vision system on iris2 drone):
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test2_drone2_perspective.jpg)](https://youtu.be/GFtfS8gO6sw)
 
 ```
-Above is Test 2.   
+   
 ```
 
 ###### TEST 3
@@ -495,7 +495,7 @@ First-person perspective video (shot by the vision system on iris2 drone):
 [![watch the video](Drone_Matrix_Balloon_Hunter/PICS/Two_Drones_Balloon_Hunter_Test3_drone2_perspective.jpg)](https://youtu.be/TaKmQ_e6p-c)
 
 ```
-Above is Test 3.     
+     
 
 ```
 
