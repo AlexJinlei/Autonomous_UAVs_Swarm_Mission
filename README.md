@@ -495,6 +495,10 @@ First-person perspective video (shot by the vision system on iris2 drone):
 ##### 2. FOUR DRONES TEST
 Four drones were programed to find four balloons with different colors and destroy them. Iris1's target is the red balloon; iris2's target is the yellow balloon; iris3's target is the black balloon; iris4's target is the blue balloon. Iris1 found its target and destroyed it. Iris2 detected its target, but can not confirm it. It failed to destroy it's target. The black cloud confused iris3, and iris3 failed to detect the black balloon. Iris4 detected its target, the blue balloon at first, but cannot confirm it. Finally iris4 lost it's target. 
 
+<p align="center">
+<img src="Drone_Matrix_Balloon_Hunter/PICS/Four_balloons.jpg" width="800">
+</p>
+
 First-person perspective video (shot by the vision system on iris1 drone):
 
 (Click on picture to watch in Youtube)
